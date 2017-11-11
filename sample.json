@@ -1,0 +1,18 @@
+{
+    {
+        "id":"csr00000",
+        "course_name":"SomeCourse Blah",
+        "subject":"Computer Science",
+        "description":"Blah blah blah blah",
+        "image_url":"http://example.jpg",
+        "provenance":"Coursera"
+    },
+    {
+        "id":"edx00320",
+        "course_name":"Intro to SomeOtherCourse",
+        "subject":"Art & History",
+        "description":"Blah blah blah blah blah",
+        "image_url":"http://anotherexample.jpg",
+        "provenance":"edX"
+    }
+}
