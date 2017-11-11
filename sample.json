@@ -1,4 +1,4 @@
-{
+[
     {
         "id":"csr00000",
         "course_name":"SomeCourse Blah",
@@ -15,4 +15,4 @@
         "image_url":"http://anotherexample.jpg",
         "provenance":"edX"
     }
-}
+]
