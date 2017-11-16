@@ -1,0 +1,159 @@
+
+// feed key words like "data" in url: http://www.coursera.org
+// list of courses and specializations 
+// each query page has 20 courses list
+{
+    "@querypage": "https://www.coursera.org/courses?languages=en&query=data&start=" "+ int",
+    "@type" : "ItemList",
+    "keyWord": "key_input",
+    "itemListElement":[  
+    {  
+      "@type":"Specialization",
+      "position":1,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/specializations/jhu-data-science",
+      "@type" : "ItemList",
+      "itemListElement":[{"@type":"Course"}, {"@type":"Course"}, {"@type":"Course"}],
+    },
+    {  
+      "@type":"Specialization",
+      "position":2,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/specializations/big-data",
+      "itemListElement":[{"@type":"Course"}, {"@type":"Course"}, {"@type":"Course"}],
+    },
+    {  
+      "@type":"Specialization",
+      "position":3,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/specializations/data-structures-algorithms",
+      "itemListElement":[{"@type":"Course"}, {"@type":"Course"}, {"@type":"Course"}],
+    },
+    {  
+      "@type":"Specialization",
+      "position":4,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/specializations/gcp-data-machine-learning",
+      "itemListElement":[{"@type":"Course"}, {"@type":"Course"}, {"@type":"Course"}],
+    },
+    {  
+      "@type":"Specialization",
+      "position":5,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/specializations/data-analysis",
+      "itemListElement":[{"@type":"Course"}, {"@type":"Course"}, {"@type":"Course"}],
+    },
+    {  
+      "@type":"Specialization",
+      "position":6,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/specializations/big-data-engineering",
+      "itemListElement":[{"@type":"Course"}, {"@type":"Course"}, {"@type":"Course"}],
+    },
+    {  
+      "@type":"Specialization",
+      "position":7,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/specializations/data-science-python",
+      "itemListElement":[{"@type":"Course"}, {"@type":"Course"}, {"@type":"Course"}],
+    },
+    {  
+      "@type":"Course",
+      "position":8,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/data-structures"
+    },
+    {  
+      "@type":"Course",
+      "position":9,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/python-network-data"
+    },
+    {  
+      "@type":"Course",
+      "position":10,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/big-data-graph-analytics"
+    },
+    {  
+      "@type":"Course",
+      "position":11,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/gcp-big-data-ml-fundamentals"
+    },
+    {  
+      "@type":"Course",
+      "position":12,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/big-data-integration-processing"
+    },
+    {  
+      "@type":"Course",
+      "position":13,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/java-programming-arrays-lists-data"
+    },
+    {  
+      "@type":"Course",
+      "position":14,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/python-data"
+    },
+    {  
+      "@type":"Course",
+      "position":15,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/big-data-introduction"
+    },
+    {  
+      "@type":"Course",
+      "position":16,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/data-manipulation"
+    },
+    {  
+      "@type":"Course",
+      "position":17,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/big-data-machine-learning"
+    },
+    {  
+      "@type":"Course",
+      "position":18,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/big-data-management"
+    },
+    {  
+      "@type":"Course",
+      "position":19,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/python-data-visualization"
+    },
+    {  
+      "@type":"Course",
+      "position":20,
+      "image": "image_url",
+      "provenance": "Organization_or_University",
+      "url":"https://www.coursera.org/learn/datasciencemathskills"
+    }
+  ]
+}
