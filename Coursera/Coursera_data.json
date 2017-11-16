@@ -1,0 +1,632 @@
+[
+  {
+    "name":"Data Science",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/8e18e0a4f111e59ae9c776a3dd0526/jhu-logo-thumb.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00001",
+        "name":"The Data Scientists Toolbox",
+        "description":"About the CourseIn this course you will get an introduction to the main tools and ideas in the data  scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00002",
+        "name":"R Programming",
+        "description":"About the CourseIn this course you will learn how to program in R and how to use R for effective data  analysis. You will learn how to install and configure software necessary for a statistical programming environment and describe generic programming language ... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00003",
+        "name":"Getting and Cleaning Data",
+        "description":"About the CourseBefore you can work with data you have to get some. This course will cover the basic  ways that data can be obtained. The course will cover obtaining data from the web, from APIs, from databases and from colleagues in various formats. It will also c... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00004",
+        "name":"Exploratory Data Analysis",
+        "description":"About the CourseThis course covers the essential exploratory techniques for summarizing data. These  techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Exploratory techniques ... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00005",
+        "name":"Reproducible Research",
+        "description":"About the CourseThis course focuses on the concepts and tools behind reporting modern data analyses in a  reproducible manner. Reproducible research is the idea that data analyses, and more generally, scientific claims, are published with their data and software code... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00006",
+        "name":"Statistical Inference",
+        "description":"About the CourseStatistical inference is the process of drawing conclusions about populations or  scientific truths from data. There are many modes of performing inference including statistical modeling, data oriented strategies and explicit use of des... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00007",
+        "name":"Regression Models",
+        "description":"About the CourseLinear models, as their name implies, relates an outcome to a set of predictors of  interest using linear assumptions.  Regression models, a subset of linear models, are the most important statistical analysis tool in a data scientist\u00e2\u0080\u0099s toolkit. Thi... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00008",
+        "name":"Practical Machine Learning",
+        "description":"About the CourseOne of the most common tasks performed by data scientists and data analysts are  prediction and machine learning. This course will cover the basic components of building and applying prediction functions with an emphasis on practical appli... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00009",
+        "name":"Developing Data Products",
+        "description":"About the CourseA data product is the production output from a statistical analysis. Data products  automate complex analysis tasks or use technology to expand the utility of a data informed model, algorithm or inference. This course covers the basics of creat... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00010",
+        "name":"Data Science Capstone",
+        "description":"About the Capstone ProjectThe capstone project class will allow students to create a usable/public data product that can be used to show your skills to potential employers. Projects will be drawn from real-world problems and will be conducted with industry, government, an... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"Ask the right questions, manipulate data sets, and create visualizations to communicate results.\n\nThis Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you\u00e2\u0080\u0099ll apply the skills learned by building a data product using real-world data. At completion, students will have a portfolio demonstrating their mastery of the material.",
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/specializations/jhu-data-science",
+    "specialization":true
+  },
+  {
+    "name":"Data Science Math Skills",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/08/8c6610c07e11e6a7f5e70b413367a6/DMSIcon.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00011",
+        "name":"Data-driven Decision Making",
+        "description":"About the CourseWelcome to Data-driven Decision Making. In this course you'll get an introduction to  Data Analytics and its role in business decisions. You'll learn why data is important and how it has evolved. You'll be introduced to \u00e2\u0080\u009cBig Data\u00e2\u0080\u009d and how it is used... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00012",
+        "name":"Problem Solving with Excel ",
+        "description":"About the CourseThis course explores Excel as a tool for solving business problems. In this course you  will learn the basic functions of excel through guided demonstration. Each week you will build on your excel skills and be provided an opportunity to practice wha... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00013",
+        "name":"Data Visualization with Advanced Excel",
+        "description":"About the CourseIn this course, you will get hands-on instruction of advanced Excel 2013 functions.   You\u00e2\u0080\u0099ll learn to use PowerPivot to build databases and data models.  We\u00e2\u0080\u0099ll show you how to perform different types of scenario and simulation analysis and you\u00e2\u0080\u0099ll... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00014",
+        "name":"Effective Business Presentations with Powerpoint",
+        "description":"About the CourseThis course is all about presenting the story of the data, using PowerPoint. You'll  learn how to structure a presentation, to include insights and supporting data. You'll also learn some design principles for effective visuals and slides. You'll gai... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00015",
+        "name":"Data Analysis and Presentation Skills: the PwC Approach Final Project",
+        "description":"About the Capstone ProjectIn this Capstone Project, you'll bring together all the new skills and insights you've  learned through the four courses. You'll be given a 'mock' client problem and a data set. You'll need to analyze the data to gain business insights, research the ... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"If you are a PwC Employee, gain access to the PwC Specialization and Courses for free using the instructions on the PwC L&D Spark page or simply search \"Coursera\" on PwC Spark.\n\nThis Specialization will help you get practical with data analysis, turning business intelligence into real-world outcomes. We'll explore how a combination of better understanding, filtering, and application of data can help you solve problems faster - leading to smarter and more effective decision-making. You\u00e2\u0080\u0099ll learn how to use Microsoft Excel, PowerPoint, and other common data analysis and communication tools, and perhaps most importantly, we'll help you to present data to others in a way that gets them engaged in your story and motivated to act.\n\nWhat's more, should you enroll in these courses, you will be invited to join PwC's talent network. Those who opt into this talent network will receive information about PwC career opportunities, thought leadership, and happenings in the PwC global network.\n\nPlease note: If you'd like to audit the courses in this Specialization, you'll need to enroll in each course separately and then you will see the audit option.\n\nThis specialization was created by PricewaterhouseCoopers LLP with an address at 300 Madison Avenue, New York, New York, 10017.",
+    "provenance":"Duke University",
+    "course_url":"http://www.coursera.org/specializations/pwc-analytics",
+    "specialization":false
+  },
+  {
+    "name":"Data Analysis and Presentation Skills: the PwC Approach",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/2a/50c800335611e6a7800fb6ff2f8eb2/PwC_fl_c.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00016",
+        "name":"Fundamentals of Visualization with Tableau",
+        "description":"About the CourseIn this first course of the specialization, you will discover just what data  visualization is, and how we can use it to better see and understand data. Using Tableau, we\u00e2\u0080\u0099ll examine the fundamental concepts of data visualization and exp... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00017",
+        "name":"Essential Design Principles for Tableau",
+        "description":"About the CourseIn this course, you will analyze and apply essential design principles to your Tableau  visualizations. This course assumes you understand the tools within Tableau and have some knowledge of the fundamental concepts of data visualization. You will de... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00018",
+        "name":"Visual Analytics with Tableau",
+        "description":"About the CourseIn this third course of the specialization, we\u00e2\u0080\u0099ll drill deeper into the tools Tableau  offers in the areas of charting, dates, table calculations and mapping. We\u00e2\u0080\u0099ll explore the best choices for charts, based on the type of data you are using. We\u00e2\u0080\u0099ll... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00019",
+        "name":"Creating Dashboards and Storytelling with Tableau",
+        "description":"About the CourseLeveraging the visualizations you created in the previous course, Visual Analytics with  Tableau, you will create dashboards that help you identify the story within your data, and you will discover how to use Storypoints to create a powerful story to... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00020",
+        "name":"Data Visualization with Tableau Project",
+        "description":"About the Capstone ProjectIn this project-based course, you will follow your own interests to create a portfolio  worthy single-frame viz or multi-frame data story that will be shared on Tableau Public. You will use all the skills taught in this Specialization to compl... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"In 2020 the world will generate 50 times the amount of data as in 2011. And 75 times the number of information sources (IDC, 2011). Being able to use this data provides huge opportunities and to turn these opportunities into reality, people need to use data to solve problems.\n\nThis Specialization, in collaboration with Tableau, is intended for newcomers to data visualization with no prior experience using Tableau. We leverage Tableau's library of resources to demonstrate best practices for data visualization and data storytelling. You will view examples from real world business cases and journalistic examples from leading media companies.\n\nBy the end of this specialization, you will be able to generate powerful reports and dashboards that will help people make decisions and take action based on their business data. You will use Tableau to create high-impact visualizations of common data analyses to help you see and understand your data. You will apply predicative analytics to improve business decision making. The Specialization culminates in a Capstone Project in which you will use sample data to create visualizations, dashboards, and data models to prepare a presentation to the executive leadership of a fictional company.",
+    "provenance":"PwC",
+    "course_url":"http://www.coursera.org/specializations/data-visualization",
+    "specialization":true
+  },
+  {
+    "name":"Data Visualization with Tableau",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/41/d326f0af5b11e5ada4195d312ad6aa/davis_data_thumb.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00021",
+        "name":"Data Visualization",
+        "description":"About the CourseLearn the general concepts of data mining along with basic methodologies and  applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mi... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00022",
+        "name":"Text Retrieval and Search Engines",
+        "description":"About the CourseRecent years have seen a dramatic growth of natural language text data, including web  pages, news articles, scientific literature, emails, enterprise documents, and social media such as blog articles, forum posts, product reviews, and tweets. Text ... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00023",
+        "name":"Text Mining and Analytics",
+        "description":"About the CourseThis course will cover the major techniques for mining and analyzing text data to  discover interesting patterns, extract useful knowledge, and support decision making, with an emphasis on statistical approaches that can be generally applied to a... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00024",
+        "name":"Pattern Discovery in Data Mining",
+        "description":"About the CourseLearn the general concepts of data mining along with basic methodologies and  applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mi... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00025",
+        "name":"Cluster Analysis in Data Mining",
+        "description":"About the CourseDiscover the basic concepts of cluster analysis, and then study a set of typical  clustering methodologies, algorithms, and applications. This includes partitioning methods such as k-means, hierarchical methods such as BIRCH, and density-based... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00026",
+        "name":"Data Mining Project",
+        "description":"About the Capstone ProjectNote: You should complete all the other courses in this Specialization before beginning  this course.\n\nThis six-week long Project course of the Data Mining Specialization will allow you to apply the learned algorithms and techniques for data mining ... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"The Data Mining Specialization teaches data mining techniques for both structured data which conform to a clearly defined schema, and unstructured data which exist in the form of natural language text. Specific course topics include pattern discovery, clustering, text retrieval, text mining and analytics, and data visualization. The Capstone project task is to solve real-world data mining challenges using a restaurant review data set from Yelp.\n\nCourses 2 - 5 of this Specialization form the lecture component of courses in the online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.",
+    "provenance":"University of California, Davis",
+    "course_url":"http://www.coursera.org/specializations/data-mining",
+    "specialization":true
+  },
+  {
+    "name":"A Crash Course in Data Science",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f0/399ec045ea11e5ba8e4bc295fed462/9990024683_955f8f043b_h.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00027",
+        "name":"Introduction to Big Data",
+        "description":"About the CourseInterested in increasing your knowledge of the Big Data landscape?  This course is for  those new to data science and interested in understanding why the Big Data Era has come to be.  It is for those who want to become conversant with the terminology and ... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00028",
+        "name":"Big Data Modeling and Management Systems",
+        "description":"About the CourseOnce you\u00e2\u0080\u0099ve identified a big data issue to analyze, how do you collect, store and  organize your data using Big Data solutions?  In this course, you will experience various data genres and management tools appropriate for each.  You will be... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00029",
+        "name":"Big Data Integration and Processing",
+        "description":"About the CourseAt the end of the course, you will be able to:\n\n*Retrieve data from example database and  big data management systems \n*Describe the connections between data management operations and the big data processing patterns needed to utilize them in lar... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00030",
+        "name":"Machine Learning With Big Data",
+        "description":"About the CourseWant to make sense of the volumes of data you have collected?  Need to incorporate  data-driven decisions into your process?  This course provides an overview of machine learning techniques to explore, analyze, and leverage data.  You will be intro... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00031",
+        "name":"Graph Analytics for Big Data",
+        "description":"About the CourseWant to understand your data network structure and how it changes under different  conditions? Curious to know how to identify closely interacting clusters within a graph? Have you heard of the fast-growing area of graph analytics and want ... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00032",
+        "name":"Big Data - Capstone Project",
+        "description":"About the Capstone ProjectWelcome to the Capstone Project for Big Data! In this culminating project, you will  build a big data ecosystem using tools and methods form the earlier courses in this specialization. You will analyze a data set simulating big data generated from... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"Drive better business decisions with an overview of how big data is organized, analyzed, and interpreted. Apply your insights to real-world problems and questions.\n\n*********\n\nDo you need to understand big data and how it will impact your business? This Specialization is for you. You will gain an understanding of what insights big data can provide through hands-on experience with the tools and systems used by big data scientists and engineers. Previous programming experience is not required! You will be guided through the basics of using Hadoop with MapReduce, Spark, Pig and Hive. By following along with provided code, you will experience how one can perform predictive modeling and leverage graph analytics to model problems. This specialization will prepare you to ask the right questions about data, communicate effectively with data scientists, and do basic exploration of large, complex datasets. In the final Capstone Project, developed in partnership with data software company Splunk, you\u00e2\u0080\u0099ll apply the skills you learned to do basic analyses of big data.",
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/specializations/big-data",
+    "specialization":false
+  },
+  {
+    "name":"Data Mining ",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/01/609980fb3311e58521f12840fa495b/DataMining-Specialization_logo.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00033",
+        "name":"Introduction to Data Science in Python",
+        "description":"About the CourseThis course will introduce the learner to the basics of the python programming  environment, including how to download and install python, expected fundamental python programming techniques, and how to find help with python programming questi... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00034",
+        "name":"Applied Plotting, Charting & Data Representation in Python",
+        "description":"About the CourseThis course will introduce the learner to information visualization basics, with a focus  on reporting and charting using the matplotlib library. The course will start with a design and information literacy perspective, touching on what makes a good... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00035",
+        "name":"Applied Machine Learning in Python",
+        "description":"About the CourseThis course will introduce the learner to applied machine learning, focusing more on the  techniques and methods than on the statistics behind these methods. The course will start with a discussion of how machine learning is different than des... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00036",
+        "name":"Applied Text Mining in Python",
+        "description":"About the CourseThis course will introduce the learner to text mining and text manipulation basics. The  course begins with an understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk frame... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00037",
+        "name":"Applied Social Network Analysis in Python",
+        "description":"About the CourseThis course will introduce the learner to network analysis  through the NetworkX  library. The course begins with an understanding of what network analysis is  and motivations for why we might model phenomena as networks. The second week introd... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have basic a python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data.\n\nIntroduction to Data Science in Python (course 1), Applied Plotting, Charting & Data Representation in Python (course 2), and Applied Machine Learning in Python (course 3) should be taken in order and prior to any other course in the specialization. After completing those, courses 4 and 5 can be taken in any order. All 5 are required to earn a certificate.",
+    "provenance":"University of Illinois at Urbana-Champaign",
+    "course_url":"http://www.coursera.org/specializations/data-science-python",
+    "specialization":true
+  },
+  {
+    "name":"Big Data",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a6/35516029cf11e6b8dfdbd5deea5f21/UCSD_BigData_PartnerProvided.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00038",
+        "name":"Data Management and Visualization",
+        "description":"About the CourseWhether being used to customize advertising to millions of website visitors or  streamline inventory ordering at a small restaurant, data is becoming more integral to success. Too often, we\u00e2\u0080\u0099re not sure how use data to find answers to the questi... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00039",
+        "name":"Data Analysis Tools",
+        "description":"About the CourseIn this course, you will develop and test hypotheses about your data. You will learn a  variety of statistical tests, as well as strategies to know how to apply the appropriate one to your specific data and question. Using your choice of two ... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00040",
+        "name":"Regression Modeling in Practice",
+        "description":"About the CourseThis course focuses on one of the most important tools in your data analysis arsenal:  regression analysis. Using either SAS or Python, you will begin with linear regression and then learn how to adapt when two variables do not present a clea... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00041",
+        "name":"Machine Learning for Data Analysis",
+        "description":"About the CourseAre you interested in predicting future outcomes using your data? This course helps you  do just that! Machine learning is the process of developing, testing, and applying predictive algorithms to achieve this goal. Make sure to familiarize yours... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00042",
+        "name":"Data Analysis and Interpretation Capstone",
+        "description":"About the Capstone ProjectThe Capstone project will allow you to continue to apply and refine the data analytic  techniques learned from the previous courses in the Specialization to address an important issue in society. You will use real world data to complete a project ... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"Learn SAS or Python programming, expand your knowledge of analytical methods and applications, and conduct original research to inform complex decisions.\n\nThe Data Analysis and Interpretation Specialization takes you from data novice to data expert in just four project-based courses. You will apply basic data science tools, including data management and visualization, modeling, and machine learning using your choice of either SAS or Python, including pandas and Scikit-learn. Throughout the Specialization, you will analyze a research question of your choice and summarize your insights. In the Capstone Project, you will use real data to address an important issue in society, and report your findings in a professional-quality report. You will have the opportunity to work with our industry partners, DRIVENDATA and The Connection. Help DRIVENDATA solve some of the world's biggest social challenges by joining one of their competitions, or help The Connection better understand recidivism risk for people on parole in substance use treatment. Regular feedback from peers will provide you a chance to reshape your question. This Specialization is designed to help you whether you are considering a career in data, work in a context where supervisors are looking to you for data insights, or you just have some burning questions you want to explore. No prior experience is required. By the end you will have mastered statistical methods to conduct original research to inform complex decisions.",
+    "provenance":"University of California, San Diego",
+    "course_url":"http://www.coursera.org/specializations/data-analysis",
+    "specialization":true
+  },
+  {
+    "name":"Applied Data Science with Python",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c8/8d6df01eb311e6b5f5f786b289d8ba/pythondatascience_specialization_final.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00043",
+        "name":"Big Data Essentials: HDFS, MapReduce and Spark RDD",
+        "description":"About the CourseHave you ever heard about such technologies as HDFS, MapReduce, Spark? Always wanted to  learn these new tools but missed concise starting material? Don\u00e2\u0080\u0099t miss this course either!\n \nIn this 6-week course you will:\n- learn some basic technologies of th... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00044",
+        "name":"Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames",
+        "description":"About the CourseNo doubt working with huge data volumes is hard, but to move a mountain, you have to  deal with a lot of small stones. But why strain yourself? Using  Mapreduce and Spark you tackle the issue partially, thus leaving some space for high-level tool... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00045",
+        "name":"Big Data Applications: Machine Learning at Scale",
+        "description":"About the CourseMachine learning is transforming the world around us. To become successful, you\u00e2\u0080\u0099d better  know what kinds of problems can be solved with machine learning, and how they can be solved. Don\u00e2\u0080\u0099t know where to start? The answer is one button away.\n \nDuring thi... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00046",
+        "name":"Big Data Applications: Real-Time Streaming",
+        "description":"About the CourseFrom the practical point of view, data freshness is of utmost importance. Advertisements based on the recent users\u00e2\u0080\u0099 activity are ten times more popular. Delays in traffic jam prediction cost extra time for customers and make them angry. Delays in tsunami prediction can cost people\u00e2\u0080\u0099s lives.\n\nThe first half of the course is devoted to streaming frameworks that allow building continuous data applications to process massive amounts of data within seconds. You will learn techniques, technologies and algorithms suitable for building near real-time applications.\n\nIn the second part of the course, you will learn how to integrate these technologies into your applications. We will explore common strategies for improving data freshness in web applications (by building your own sample application on Flask). As a bonus, you will learn about NoSQL databases, how to work with them and when to use them instead of traditional RDBMS systems.\n\nAre you ready for the journey full of research surprises? Jump in!You can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00047",
+        "name":"Big Data Services: Capstone Project",
+        "description":"About the CourseAre you ready to close the loop on your Big Data skills? Do you want to apply all your knowledge you got from the previous courses in practice? Finally, in the Capstone project, you will integrate all the knowledge acquired earlier to build a real application leveraging the power of Big Data.\n\nYou will be given a task to combine data from different sources of different types (static distributed dataset, streaming data, SQL or NoSQL storage). Combined, this data will be used to build a predictive model for a financial market (as an example). First, you design a system from scratch and share it with your peers to get valuable feedback. Second, you can make it public, so get ready to receive the feedback from your service users. Real-world experience without any 3G-glasses or mock interviews.You can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"This specialization is made for people working with data (either small or big). If you are a Data Analyst, Data Scientist, Data Engineer or Data Architect (or you want to become one) \u00e2\u0080\u0094 don\u00e2\u0080\u0099t miss the opportunity to expand your knowledge and skills in the field of data engineering and data analysis on the large scale.\n\nIn four concise courses you will learn the basics of Hadoop, MapReduce, Spark, methods of offline data processing for warehousing, real-time data processing and large-scale machine learning. And Capstone project for you to build and deploy your own Big Data Service (make your portfolio even more competitive).\n\nOver the course of the specialization, you will complete progressively harder programming assignments (mostly in Python). Make sure, you have some experience in it. This course will master your skills in designing solutions for common Big Data tasks:\n\n- creating batch and real-time data processing pipelines,\n\n- doing machine learning at scale,\n\n- deploying machine learning models into a production environment \u00e2\u0080\u0094 and much more!\n\nJoin some of best hands-on big data professionals, who know, their job inside-out, to learn the basics, as well as some tricks of the trade, from them.\n\nSpecial thanks to: Prof. Mikhail Roytberg (APT dept., MIPT), Oleg Sukhoroslov (PhD, Senior Researcher, IITP RAS), Oleg Ivchenko (APT dept., MIPT), Pavel Akhtyamov (APT dept., MIPT), Vladimir Kuznetsov, Asya Roitberg, Eugene Baulin, Marina Sudarikova.",
+    "provenance":"University of Michigan",
+    "course_url":"http://www.coursera.org/specializations/big-data-engineering",
+    "specialization":true
+  },
+  {
+    "name":"Data Analysis and Interpretation",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/Wesleyan_DataAnalysis_Istock41296982.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00048",
+        "name":"Algorithmic Toolbox",
+        "description":"About the CourseThe course covers basic algorithmic techniques and ideas for computational problems  arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00049",
+        "name":"Data Structures",
+        "description":"About the CourseA good algorithm usually comes together with a set of good data structures that allow  the algorithm to manipulate the data efficiently. In this course, we consider the common data structures that are used in various computational problems. You wi... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00050",
+        "name":"Algorithms on Graphs",
+        "description":"About the CourseIf you have ever used a navigation service to find optimal route and estimate time to  destination, you've used algorithms on graphs. Graphs arise in various real-world situations as there are road networks, computer networks and, most recently... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00051",
+        "name":"Algorithms on Strings",
+        "description":"About the CourseWorld and internet is full of textual information. We search for information using  textual queries, we read websites, books, e-mails. All those are strings from the point of view of computer science. To make sense of all that information and mak... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00052",
+        "name":"Advanced Algorithms and Complexity",
+        "description":"About the CourseYou've learned the basic algorithms now and are ready to step into the area of more  complex problems and algorithms to solve them. Advanced algorithms build upon basic ones and use new ideas. We will start with networks flows which are used in more... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00053",
+        "name":"Genome Assembly Programming Challenge",
+        "description":"About the Capstone ProjectIn Spring 2011, thousands of people in Germany were hospitalized with a deadly disease  that started as food poisoning with bloody diarrhea and often led to kidney failure. It was the beginning of the deadliest outbreak in recent history, caused by a my... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"This specialization is a mix of theory and practice: you will learn algorithmic techniques for solving various computational problems and will implement about 100 algorithmic coding problems in a programming language of your choice. No other online course in Algorithms even comes close to offering you a wealth of programming challenges that you may face at your next job interview. To prepare you, we invested over 3000 hours into designing our challenges as an alternative to multiple choice questions that you usually find in MOOCs. Sorry, we do not believe in multiple choice questions when it comes to learning algorithms...or anything else in computer science! For each algorithm you develop and implement, we designed multiple tests to check its correctness and running time \u00e2\u0080\u0094 you will have to debug your programs without even knowing what these tests are! It may sound difficult, but we believe it is the only way to truly understand how the algorithms work and to master the art of programming. The specialization contains two real-world projects: Big Networks and Genome Assembly. You will analyze both road networks and social networks and will learn how to compute the shortest route between New York and San Francisco (1000 times faster than the standard shortest path algorithms!) Afterwards, you will learn how to assemble genomes from millions of short fragments of DNA and how assembly algorithms fuel recent developments in personalized medicine.",
+    "provenance":"Wesleyan University",
+    "course_url":"http://www.coursera.org/specializations/data-structures-algorithms",
+    "specialization":true
+  },
+  {
+    "name":"Big Data for Data Engineers",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/8c/7d9d20a14411e7843ef75e19b675b3/Yandex-466_______________7.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00054",
+        "name":"A Crash Course in Data Science",
+        "description":"About the CourseBy now you have definitely heard about data science and big data. In this one-week  class, we will provide a crash course in what these terms mean and how they play a role in successful organizations. This class is for anyone who wants to learn what... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00055",
+        "name":"Building a Data Science Team",
+        "description":"About the CourseData science is a team sport. As a data science executive it is your job to recruit,  organize, and manage the team to success. In this one-week course, we will cover how you can find the right people to fill out your data science team, how to organ... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00056",
+        "name":"Managing Data Analysis",
+        "description":"About the CourseThis one-week course describes the process of analyzing data and how to manage that  process. We describe the iterative nature of data analysis and the role of stating a sharp question, exploratory data analysis, inference, formal statistical m... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00057",
+        "name":"Data Science in Real Life",
+        "description":"About the CourseHave you ever had the perfect data science experience? The data pull went perfectly.  There were no merging errors or missing data. Hypotheses were clearly defined prior to analyses. Randomization was performed for the treatment of interest. The analy... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00058",
+        "name":"Executive Data Science Capstone",
+        "description":"About the Capstone ProjectThe Executive Data Science Capstone, the specialization\u00e2\u0080\u0099s culminating project, is an  opportunity for people who have completed all four EDS courses to apply what they've learned to a real-world scenario developed in collaboration with Zillow, a dat... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"Assemble the right team, ask the right questions, and avoid the mistakes that derail data science projects.\n\nIn four intensive courses, you will learn what you need to know to begin assembling and leading a data science enterprise, even if you have never worked in data science before. You\u00e2\u0080\u0099ll get a crash course in data science so that you\u00e2\u0080\u0099ll be conversant in the field and understand your role as a leader. You\u00e2\u0080\u0099ll also learn how to recruit, assemble, evaluate, and develop a team with complementary skill sets and roles. You\u00e2\u0080\u0099ll learn the structure of the data science pipeline, the goals of each stage, and how to keep your team on target throughout. Finally, you\u00e2\u0080\u0099ll learn some down-to-earth practical skills that will help you overcome the common challenges that frequently derail data science projects.",
+    "provenance":"Yandex",
+    "course_url":"http://www.coursera.org/specializations/executive-data-science",
+    "specialization":true
+  },
+  {
+    "name":"Data Structures and Algorithms",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/2a/34a150d9ad11e5bd22cb7d7d7686df/logo3.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00059",
+        "name":"Introduction to Genomic Technologies",
+        "description":"About the CourseThis course introduces you to the basic biology of modern genomics and the experimental  tools that we use to measure it. We'll introduce the Central Dogma of Molecular Biology and cover how next-generation sequencing can be used to measure DNA, RNA, and ep... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00060",
+        "name":"Genomic Data Science with Galaxy",
+        "description":"About the CourseLearn to use the tools that are available from the Galaxy Project. This is the second course in the Genomic Big Data Sci... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00061",
+        "name":"Python for Genomic Data Science",
+        "description":"About the CourseThis class provides an introduction to the Python programming language and the iPython notebook. This is the third course in the Genomic Big Data Science Specialization from Johns... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00062",
+        "name":"Algorithms for DNA Sequencing",
+        "description":"About the CourseWe will learn computational methods -- algorithms and data structures -- for analyzing  DNA sequencing data. We will learn a little about DNA, genomics, and how DNA sequencing is used.  We will use Python to implement key algorithms and data structure... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00063",
+        "name":"Command Line Tools for Genomic Data Science",
+        "description":"About the CourseIntroduces to the commands that you need to manage and analyze directories, files, and large sets of genomic data. This is the fourth course in the Genomic Big Data Science Specialization from Johns... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00064",
+        "name":"Bioconductor for Genomic Data Science",
+        "description":"About the CourseLearn to use tools from the Bioconductor project to perform analysis of genomic data. This is the fifth course in the Genomic Big Data Specialization from Johns... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00065",
+        "name":"Statistics for Genomic Data Science",
+        "description":"About the CourseAn introduction to the statistics behind the most popular genomic data science projects. This is the sixth course in the Genomic Big Data Science Specialization from Johns... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00066",
+        "name":"Genomic Data Science Capstone",
+        "description":"About the Capstone ProjectIn this culminating project, you will deploy the tools and techniques that you've mastered over the course of the specialization. You'll work with a real data set to perform analyses and prepare a repo... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"This specialization covers the concepts and tools to understand, analyze, and interpret data from next generation sequencing experiments. It teaches the most common tools used in genomic data science including how to use the command line, Python, R, Bioconductor, and Galaxy. The sequence is a stand alone introduction to genomic data science or a perfect compliment to a primary degree or postdoc in biology, molecular biology, or genetics.\n\nTo audit Genomic Data Science courses for free, visit https://www.coursera.org/jhu, click the course, click Enroll, and select Audit.",
+    "provenance":"University of California, San Diego, Higher School of Economics",
+    "course_url":"http://www.coursera.org/specializations/genomic-data-science",
+    "specialization":true
+  },
+  {
+    "name":"Executive Data Science",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d396qusza40orc.cloudfront.net/phoenixassets/eds-s12n/eds_thumbnail.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00067",
+        "name":"Database Management Essentials",
+        "description":"About the CourseDatabase Management Essentials provides the foundation you need for a career in database  development, data warehousing, or business intelligence, as well as for the entire Data Warehousing for Business Intelligence specialization. In this course, you wil... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00068",
+        "name":"Data Warehouse Concepts, Design, and Data Integration",
+        "description":"About the CourseThis is the second course in the Data Warehousing for Business Intelligence  specialization. Ideally, the courses should be taken in sequence.\n\nIn this course, you will learn exciting concepts and skills for designing data warehouses and creat... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00069",
+        "name":"Relational Database Support for Data Warehouses",
+        "description":"About the CourseRelational Database Support for Data Warehouses is the third course in the Data  Warehousing for Business Intelligence specialization. In this course, you'll use analytical elements of SQL for answering business intelligence questions. You'... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00070",
+        "name":"Business Intelligence Concepts, Tools, and Applications",
+        "description":"About the CourseThis is the fourth course in the Data Warehouse for Business Intelligence  specialization. Ideally, the courses should be taken in sequence.  In this course, you will gain the knowledge and skills for using data warehouses for business inte... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00071",
+        "name":"Design and Build a Data Warehouse for Business Intelligence Implementation",
+        "description":"About the Capstone ProjectThe capstone course, Design and Build a Data Warehouse for Business Intelligence  Implementation, features a real-world case study that integrates your learning across all courses in the specialization. In response to business requirements presen... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"Evaluate business needs, design a data warehouse, and integrate and visualize data using dashboards and visual analytics.\n\nThis Specialization covers data architecture skills that are increasingly critical across a broad range of technology fields. You\u00e2\u0080\u0099ll learn the basics of structured data modeling, gain practical SQL coding experience, and develop an in-depth understanding of data warehouse design and data manipulation. You\u00e2\u0080\u0099ll have the opportunity to work with large data sets in a data warehouse environment to create dashboards and Visual Analytics. You will use of MicroStrategy, a leading BI tool, OLAP (online analytical processing) and Visual Insights capabilities to create dashboards and Visual Analytics. In the final Capstone Project, you\u00e2\u0080\u0099ll apply your skills to build a small, basic data warehouse, populate it with data, and create dashboards and other visualizations to analyze and communicate the data to a broad audience.",
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/specializations/data-warehousing",
+    "specialization":true
+  },
+  {
+    "name":"Genomic Data Science",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/17/4df3b0a98411e591c0b9c70a6d8700/GBDS.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00072",
+        "name":"Framework for Data Collection and Analysis",
+        "description":"About the CourseThis course will provide you with an overview over existing data products and a good  understanding of the data collection landscape. With the help of various examples you will learn how to identify which data sources likely matches your research quest... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00073",
+        "name":"Data Collection: Online, Telephone and Face-to-face",
+        "description":"About the CourseThis course presents research conducted to increase our understanding of how data  collection decisions affect survey errors. This is not a \u00e2\u0080\u009chow\u00e2\u0080\u0093to-do-it\u00e2\u0080\u009d course on data collection, but instead reviews the literature on survey design decisions ... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00074",
+        "name":"Questionnaire Design for Social Surveys",
+        "description":"About the CourseThis course will cover the basic elements of designing and evaluating questionnaires. We  will review the process of responding to questions, challenges and options for asking questions about behavioral frequencies, practical techniques for evaluating qu... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00075",
+        "name":"Sampling People, Networks and Records",
+        "description":"About the CourseGood data collection is built on good samples.  But the samples can be chosen in many  ways.  Samples can be haphazard or convenient selections of persons, or records, or networks, or other units, but one questions the quality of such samples, especia... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00076",
+        "name":"Dealing With Missing Data",
+        "description":"About the CourseThis course will cover the steps used in weighting sample surveys, including methods for  adjusting for nonresponse and using data external to the survey for calibration.  Among the techniques discussed are adjustments using estimated response prope... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00077",
+        "name":"Combining and Analyzing Complex Data",
+        "description":"About the CourseIn this course you will learn how to use survey weights to estimate descriptive  statistics, like means and totals, and more complicated quantities like model parameters for linear and logistic regressions.  Software capabilities will be... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00078",
+        "name":"Survey Data Collection and Analytics Project (Capstone)",
+        "description":"About the Capstone ProjectThe Capstone Project offers qualified learners to the opportunity to apply their  knowledge by analyzing and comparing multiple data sources on the same topic. Students will develop a research question, access and analyze relevant data, and cr... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"This specialization covers the fundamentals of surveys as used in market research, evaluation research, social science and political research, official government statistics, and many other topic domains. In six courses, you will learn the basics of questionnaire design, data collection methods, sampling design, dealing with missing values, making estimates, combining data from different sources, and the analysis of survey data. In the final Capstone Project, you\u00e2\u0080\u0099ll apply the skills learned throughout the specialization by analyzing and comparing multiple data sources.\n\nFaculty for this specialisation comes from the Michigan Program in Survey Methodology and the Joint Program in Survey Methodology, a collaboration between the University of Maryland, the University of Michigan, and the data collection firm Westat, founded by the National Science Foundation and the Interagency Consortium of Statistical Policy in the U.S. to educate the next generation of survey researchers, survey statisticians, and survey methodologists. In addition to this specialization we offer short courses, a summer school, certificates, master degrees as well as PhD programs.",
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/specializations/data-collection",
+    "specialization":true
+  },
+  {
+    "name":"Data Warehousing for Business Intelligence",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/Colorado_DataWarehousing_Getty471741796.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00079",
+        "name":"Data Manipulation at Scale: Systems and Algorithms",
+        "description":"About the CourseData analysis has replaced data acquisition as the bottleneck to evidence-based decision  making --- we are drowning in it.  Extracting knowledge from large, heterogeneous, and noisy datasets requires not only powerful computing resources, but the pro... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00080",
+        "name":"Practical Predictive Analytics: Models and Methods",
+        "description":"About the CourseStatistical experiment design and analytics are at the heart of data science.  In this  course you will design statistical experiments and analyze the results using modern methods.  You will also explore the common pitfalls in interpreting sta... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00081",
+        "name":"Communicating Data Science Results",
+        "description":"About the CourseImportant note: The second assignment in this course covers the topic of Graph Analysis  in the Cloud, in which you will use Elastic MapReduce and the Pig language to perform graph analysis over a moderately large dataset, about 600GB. In order to compl... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00082",
+        "name":"Data Science at Scale - Capstone Project",
+        "description":"About the Capstone ProjectIn the capstone, students will engage on a real world project requiring them to apply  skills from the entire data science pipeline: preparing, organizing, and transforming data, constructing a model, and evaluating results.    Through a collaborat... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"Learn scalable data management, evaluate big data technologies, and design effective visualizations.\n\nThis Specialization covers intermediate topics in data science. You will gain hands-on experience with scalable SQL and NoSQL data management solutions, data mining algorithms, and practical statistical and machine learning concepts. You will also learn to visualize data and communicate results, and you\u00e2\u0080\u0099ll explore legal and ethical issues that arise in working with big data. In the final Capstone Project, developed in partnership with the digital internship platform Coursolve, you\u00e2\u0080\u0099ll apply your new skills to a real-world data science project.",
+    "provenance":"University of Colorado System",
+    "course_url":"http://www.coursera.org/specializations/data-science",
+    "specialization":true
+  },
+  {
+    "name":"Survey Data Collection and Analytics ",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e5/f471d0f76811e5a5175d8aed3cf3b0/AdobeStock_83781931.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[
+      {
+        "id":"coursera00083",
+        "name":"Google Cloud Platform Big Data and Machine Learning Fundamentals",
+        "description":"About the CourseThis 1-week accelerated on-demand course introduces participants to the Big Data and  Machine Learning capabilities of Google Cloud Platform (GCP). It provides a quick overview of the Google Cloud Platform and a deeper dive of the data pr... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00084",
+        "name":"Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform",
+        "description":"About the CourseThis 1-week, accelerated course builds upon previous courses in the Data Engineering on  Google Cloud Platform specialization. Through a combination of video lectures, demonstrations, and hands-on labs, you'll learn how to create and manage c... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00085",
+        "name":"Serverless Data Analysis with Google BigQuery and Cloud Dataflow",
+        "description":"About the CourseThis 1-week, accelerated on-demand course builds upon Google Cloud Platform Big Data and  Machine Learning Fundamentals. Through a combination of instructor-led presentations, demonstrations, and hands-on labs, students learn how to carry out no-... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00086",
+        "name":"Serverless Machine Learning with Tensorflow on Google Cloud Platform",
+        "description":"About the CourseThis one-week accelerated on-demand course provides participants a a hands-on  introduction to designing and building machine learning models on Google Cloud Platform. Through a combination of presentations, demos, and hand-on labs, part... moreYou can choose to take this course only. Learn more."
+      },
+      {
+        "id":"coursera00087",
+        "name":"Building Resilient Streaming Systems on Google Cloud Platform",
+        "description":"About the CourseThis 1-week, accelerated on-demand course builds upon Google Cloud Platform Big Data and  Machine Learning Fundamentals. Through a combination of video lectures, demonstrations, and hands-on labs, you'll learn how to build streaming data pipelines using Goog... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"This five-course accelerated specialization is designed for data professionals who are responsible for designing, building, analyzing, and optimizing big data solutions. Through a combination of video lectures, quizzes, and hands-on labs, you'll learn how to carry out serverless data analysis and productionize machine learning models. This specialization is designed to give participants a robust hands-on experience and is primarily lab-focused.\n\nLearn how to deliver business value with Big Data and Machine Learning Solutions on Google Cloud Platform. To get up to speed quickly, follow the courses in this specialization.\n\nThis specialization is unique in that you'll actually get to work within the Google Cloud Platform production environment, develop external applications, and achieve an end-of-specialization certificate.\n\nNote for Google Cloud customers and partners: This specialization is the on-demand equivalent to the CPB100 and CPB210 instructor-led training classes. CPB100 is listed as Google Cloud Platform Big Data and Machine Learning Fundamentals and Data Engineering on Google Cloud Platform has been divided into four courses: 1) Leveraging Unstructured Data on Dataproc on Google Cloud Platform, 2) Serverless Data Analysis with Google BigQuery and Cloud Dataflow, 3) Serverless Machine Learning with Tensorflow on Google Cloud Platform, and 4) Building Resilient Streaming Systems on Google Cloud Platform.",
+    "provenance":"University of Michigan, University of Maryland, College Park",
+    "course_url":"http://www.coursera.org/specializations/gcp-data-machine-learning",
+    "specialization":true
+  },
+  {
+    "description":"About this course: Data science courses contain math\u00e2\u0080\u0094no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time. \n\nLearners who complete this course will master the vocabulary, notation, concepts, and algebra rules that all data scientists must know before moving on to more advanced material.\n\nTopics include:\n~Set theory, including Venn diagrams\n~Properties of the real number line\n~Interval notation and algebra with inequalities\n~Uses for summation and Sigma notation\n~Math on the Cartesian (x,y) plane, slope and distance formulas\n~Graphing and describing functions and their inverses on the x-y plane,\n~The concept of instantaneous rate of change and tangent lines to a curve\n~Exponents, logarithms, and the natural log function.\n~Probability theory, including Bayes\u00e2\u0080\u0099 theorem.\n\nWhile this course is intended as a general introduction to the math skills needed for data science, it can be considered a prerequisite for learners interested in the course, \"Mastering Data Analysis in Excel,\" which is part of the Excel to MySQL Data Science Specialization.  Learners who master Data Science Math Skills will be fully prepared for success with the more advanced math concepts introduced in \"Mastering Data Analysis in Excel.\" \n\nGood luck and we hope you enjoy the course!",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/UW_PracticalDataScience_Getty479524481.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":true,
+    "provenance":"University of Washington",
+    "course_url":"http://www.coursera.org/learn/datasciencemathskills",
+    "id":"coursera00088",
+    "name":"Data Science at Scale"
+  },
+  {
+    "description":"About this course: By now you have definitely heard about data science and big data. In this one-week class, we will provide a crash course in what these terms mean and how they play a role in successful organizations. This class is for anyone who wants to learn what all the data science action is about, including those who will eventually need to manage data scientists. The goal is to get you up to speed as quickly as possible on data science without all the fluff. We've designed this course to be as convenient as possible without sacrificing any of the essentials.\n\nThis is a focused course designed to rapidly get you up to speed on the field of data science. Our goal was to make this as convenient as possible for you without sacrificing any essential content. We've left the technical information aside so that you can focus on managing your team and moving it forward.\n\nAfter completing this course you will know. \n\n1. How to describe the role data science plays in various contexts\n2. How statistics, machine learning, and software engineering play a role in data science\n3. How to describe the structure of a data science project\n4. Know the key terms and tools used by data scientists\n5. How to identify a successful and an unsuccessful data science project\n3. The role of a data science manager\n\n\nCourse cover image by r2hox. Creative Commons BY-SA: https://flic.kr/p/gdMuhT",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/44/2959b0502911e5851f058ad6ebf936/pythondata_thumbnail_1x1.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Michigan",
+    "course_url":"http://www.coursera.org/learn/data-science-course",
+    "id":"coursera00089",
+    "name":"Python Data Structures"
+  },
+  {
+    "description":"About this course: This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook \u00e2\u0080\u009cPython for Everybody\u00e2\u0080\u009d.  This course covers Python 3.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2b/96fb00d9ae11e595dfe9e95f32b969/logo3.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, San Diego, Higher School of Economics",
+    "course_url":"http://www.coursera.org/learn/python-data",
+    "id":"coursera00090",
+    "name":"Data Structures"
+  },
+  {
+    "description":"About this course: A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures.\n\nA few examples of questions that we are going to cover in this class are the following:\n1. What is a good strategy of resizing a dynamic array?\n2. How priority queues are implemented in C++, Java, and Python?\n3. How to implement a hash table so that the amortized running time of all operations is O(1) on average?\n4. What are good strategies to keep a binary tree balanced? \n\nYou will also learn how services like Dropbox manage to upload some large files instantly and to save a lot of storage space!",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f6/4bce20533611e4bc4cff5931b60ef1/Viz_for_Data_Mining.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Illinois at Urbana-Champaign",
+    "course_url":"http://www.coursera.org/learn/data-structures",
+    "id":"coursera00091",
+    "name":"Data Visualization"
+  },
+  {
+    "description":"About this course: Learn the general concepts of data mining along with basic methodologies and applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mining. We will also introduce methods for pattern-based classification and some interesting applications of pattern discovery. This course provides you the opportunity to learn skills and content to practice and engage in scalable pattern discovery methods on massive transactional data, discuss pattern evaluation measures, and study methods for mining diverse kinds of patterns, sequential patterns, and sub-graph patterns.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/95/77558056d811e79f95119f98b3ba96/visite-google-datacenter-14.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":true,
+    "provenance":"Google Cloud",
+    "course_url":"http://www.coursera.org/learn/datavisualization",
+    "id":"coursera00092",
+    "name":"Data Engineering on Google Cloud Platform"
+  }
+]

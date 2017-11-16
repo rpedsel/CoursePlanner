@@ -1,0 +1,120 @@
+{  
+  "provenance":"Johns Hopkins University",
+  "name":"Data Science",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/8e18e0a4f111e59ae9c776a3dd0526/jhu-logo-thumb.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"Duke University",
+  "name":"Data Science Math Skills",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/08/8c6610c07e11e6a7f5e70b413367a6/DMSIcon.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"False"
+},
+{  
+  "provenance":"PwC",
+  "name":"Data Analysis and Presentation Skills: the PwC Approach",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/2a/50c800335611e6a7800fb6ff2f8eb2/PwC_fl_c.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"University of California, Davis",
+  "name":"Data Visualization with Tableau",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/41/d326f0af5b11e5ada4195d312ad6aa/davis_data_thumb.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"Johns Hopkins University",
+  "name":"A Crash Course in Data Science",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f0/399ec045ea11e5ba8e4bc295fed462/9990024683_955f8f043b_h.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"False"
+},
+{  
+  "provenance":"University of Illinois at Urbana-Champaign",
+  "name":"Data Mining ",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/01/609980fb3311e58521f12840fa495b/DataMining-Specialization_logo.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"University of California, San Diego",
+  "name":"Big Data",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a6/35516029cf11e6b8dfdbd5deea5f21/UCSD_BigData_PartnerProvided.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"University of Michigan",
+  "name":"Applied Data Science with Python",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c8/8d6df01eb311e6b5f5f786b289d8ba/pythondatascience_specialization_final.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"Wesleyan University",
+  "name":"Data Analysis and Interpretation",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/Wesleyan_DataAnalysis_Istock41296982.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"Yandex",
+  "name":"Big Data for Data Engineers",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/8c/7d9d20a14411e7843ef75e19b675b3/Yandex-466_______________7.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"University of California, San Diego, Higher School of Economics",
+  "name":"Data Structures and Algorithms",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/2a/34a150d9ad11e5bd22cb7d7d7686df/logo3.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"Johns Hopkins University",
+  "name":"Executive Data Science",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d396qusza40orc.cloudfront.net/phoenixassets/eds-s12n/eds_thumbnail.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"Johns Hopkins University",
+  "name":"Genomic Data Science",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/17/4df3b0a98411e591c0b9c70a6d8700/GBDS.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"University of Colorado System",
+  "name":"Data Warehousing for Business Intelligence",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/Colorado_DataWarehousing_Getty471741796.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"University of Michigan, University of Maryland, College Park",
+  "name":"Survey Data Collection and Analytics ",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e5/f471d0f76811e5a5175d8aed3cf3b0/AdobeStock_83781931.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"University of Washington",
+  "name":"Data Science at Scale",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/UW_PracticalDataScience_Getty479524481.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+},
+{  
+  "provenance":"University of Michigan",
+  "name":"Python Data Structures",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/44/2959b0502911e5851f058ad6ebf936/pythondata_thumbnail_1x1.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"False"
+},
+{  
+  "provenance":"University of California, San Diego, Higher School of Economics",
+  "name":"Data Structures",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2b/96fb00d9ae11e595dfe9e95f32b969/logo3.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"False"
+},
+{  
+  "provenance":"University of Illinois at Urbana-Champaign",
+  "name":"Data Visualization",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f6/4bce20533611e4bc4cff5931b60ef1/Viz_for_Data_Mining.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"False"
+},
+{  
+  "provenance":"Google Cloud",
+  "name":"Data Engineering on Google Cloud Platform",
+  "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/95/77558056d811e79f95119f98b3ba96/visite-google-datacenter-14.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+  "specialization":"True"
+}
