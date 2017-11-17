@@ -1,0 +1,181 @@
+1510914762413	geckodriver	INFO	geckodriver 0.19.1
+1510914762420	geckodriver	INFO	Listening on 127.0.0.1:54123
+1510914763574	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vv/ddv_001j3yd9f1tl677f36lc0000gn/T/rust_mozprofile.6govDacjK2H2"
+1510914763872	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510914764199	Marionette	INFO	Enabled via --marionette
+2017-11-17 02:32:45.313 plugin-container[4714:104723] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa22f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-17 02:32:45.315 plugin-container[4714:104723] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa607, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510914765681	Marionette	INFO	Listening on port 54135
+1510914765716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510914765763	Marionette	DEBUG	Register listener.js for window 2147483649
+1510914765796	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510914767177	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510914767177	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510914768760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/courses?languages=en&query=web&start=120"
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1510914770718	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/courses?languages=en&query=web&start=120"
+1510914777070	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/courses?languages=en&query=web&start=120"
+1510914777887	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/courses?languages=en&query=web&start=120"
+1510914777907	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/courses?languages=en&query=web&start=120"
+1510914779500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/specializations/shangwu-yingyu"
+1510914781367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1510914781415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/specializations/shangwu-yingyu"
+1510914802542	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/specializations/shangwu-yingyu"
+1510914803577	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/specializations/shangwu-yingyu"
+1510914803578	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/specializations/shangwu-yingyu"
+1510914803797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1510914804910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/specializations/market-research"
+1510914806433	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/specializations/market-research"
+1510914827446	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/specializations/market-research"
+1510914828329	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/specializations/market-research"
+1510914828330	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/specializations/market-research"
+1510914828419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1510914829309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/specializations/corporate-entrepreneurship"
+1510914833300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1510914833300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1510914912278	geckodriver	INFO	geckodriver 0.19.1
+1510914912283	geckodriver	INFO	Listening on 127.0.0.1:54483
+1510914913413	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vv/ddv_001j3yd9f1tl677f36lc0000gn/T/rust_mozprofile.qkVTl7W9qDHp"
+1510914913722	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510914914085	Marionette	INFO	Enabled via --marionette
+2017-11-17 02:35:15.190 plugin-container[4738:106915] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-17 02:35:15.192 plugin-container[4738:106915] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510914915789	Marionette	INFO	Listening on port 54493
+1510914915857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510914915905	Marionette	DEBUG	Register listener.js for window 2147483649
+1510914915933	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510914917240	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510914917240	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510914918973	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/courses?languages=en&query=web&start=100"
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1510914924605	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/courses?languages=en&query=web&start=100"
+1510914946183	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/courses?languages=en&query=web&start=100"
+1510914947125	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/courses?languages=en&query=web&start=100"
+1510914947128	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/courses?languages=en&query=web&start=100"
+1510914948235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/specializations/graphic-design"
+1510914949739	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/specializations/graphic-design"
+1510914970755	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/specializations/graphic-design"
+1510914971662	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/specializations/graphic-design"
+1510914971663	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/specializations/graphic-design"
+1510914971818	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1510914972746	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/specializations/user-interface-design"
+1510914974567	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/specializations/user-interface-design"
+1510914995662	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/specializations/user-interface-design"
+1510914996405	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/specializations/user-interface-design"
+1510914996407	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/specializations/user-interface-design"
+1510914996502	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510914997372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/specializations/effective-business-communication"
+1510914998913	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/specializations/effective-business-communication"
+1510915020657	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/specializations/effective-business-communication"
+1510915021385	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/specializations/effective-business-communication"
+1510915021386	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/specializations/effective-business-communication"
+1510915021565	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1510915021566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1510915022376	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/specializations/hotel-management"
+1510915026466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1510915026468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1510915664238	geckodriver	INFO	geckodriver 0.19.1
+1510915664245	geckodriver	INFO	Listening on 127.0.0.1:55750
+1510915665874	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/vv/ddv_001j3yd9f1tl677f36lc0000gn/T/rust_mozprofile.yuOcIsFpzHx0"
+1510915666621	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510915666976	Marionette	INFO	Enabled via --marionette
+2017-11-17 02:47:48.072 plugin-container[4849:118064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-17 02:47:48.081 plugin-container[4849:118064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510915668592	Marionette	INFO	Listening on port 55760
+1510915668654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510915668701	Marionette	DEBUG	Register listener.js for window 2147483649
+1510915668722	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510915670323	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510915670324	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510915675731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/courses?languages=en&query=web&start=220"
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1510915679959	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/courses?languages=en&query=web&start=220"
+1510915701619	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/courses?languages=en&query=web&start=220"
+1510915702229	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/courses?languages=en&query=web&start=220"
+1510915702233	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/courses?languages=en&query=web&start=220"
+1510915703238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/specializations/digital-transformation-financial-services"
+1510915704705	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/specializations/digital-transformation-financial-services"
+1510915726194	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/specializations/digital-transformation-financial-services"
+1510915726799	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/specializations/digital-transformation-financial-services"
+1510915726800	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/specializations/digital-transformation-financial-services"
+1510915726894	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1510915727793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/specializations/game-design"
+1510915729491	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/specializations/game-design"
+1510915750573	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/specializations/game-design"
+1510915751219	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/specializations/game-design"
+1510915751220	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/specializations/game-design"
+1510915751373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510915752089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/specializations/scala"
+1510915754328	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/specializations/scala"
+1510915776060	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/specializations/scala"
+1510915776859	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/specializations/scala"
+1510915776860	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/specializations/scala"
+1510915776964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1510915777620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/learn/marketing-strategy-entrepreneurs"
+1510915779402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1510915781622	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/learn/marketing-strategy-entrepreneurs"
+1510915802760	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/learn/marketing-strategy-entrepreneurs"
+1510915803913	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/learn/marketing-strategy-entrepreneurs"
+1510915803916	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/learn/marketing-strategy-entrepreneurs"
+1510915804049	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1510915804562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/learn/questionnaire-design"
+1510915808279	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/learn/questionnaire-design"
+1510915830195	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/learn/questionnaire-design"
+1510915831484	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/learn/questionnaire-design"
+1510915831485	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/learn/questionnaire-design"
+1510915831651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1510915832304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/learn/portfolio-management"
+1510915832387	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/learn/portfolio-management"
+1510915853784	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/learn/portfolio-management"
+1510915855084	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/learn/portfolio-management"
+1510915855085	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/learn/portfolio-management"
+1510915855211	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1510915855873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/learn/philanthropist"
+1510915855900	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/learn/philanthropist"
+1510915877620	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/learn/philanthropist"
+1510915878777	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/learn/philanthropist"
+1510915878777	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/learn/philanthropist"
+1510915878947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1510915878948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1510915879588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/learn/wharton-introduccion-marketing"
+1510915879888	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/learn/wharton-introduccion-marketing"
+1510915901683	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/learn/wharton-introduccion-marketing"
+1510915902626	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/learn/wharton-introduccion-marketing"
+1510915902627	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/learn/wharton-introduccion-marketing"
+1510915902723	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1510915903410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/learn/intro-international-marketing"
+1510915903430	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/learn/intro-international-marketing"
+1510915924699	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/learn/intro-international-marketing"
+1510915925724	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/learn/intro-international-marketing"
+1510915925726	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/learn/intro-international-marketing"
+1510915925918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1510915926523	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/learn/presentation-skills"
+1510915926540	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/learn/presentation-skills"
+1510915947803	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/learn/presentation-skills"
+1510915948972	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/learn/presentation-skills"
+1510915948973	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/learn/presentation-skills"
+1510915949139	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1510915949819	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/learn/marketing-plan"
+1510915949835	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/learn/marketing-plan"
+1510915973028	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/learn/marketing-plan"
+1510915974042	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/learn/marketing-plan"
+1510915974043	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/learn/marketing-plan"
+1510915974200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483748"
+1510915974858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/learn/ios-app-development-basics"
+1510915974927	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.coursera.org/learn/ios-app-development-basics"
+1510915996494	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.coursera.org/learn/ios-app-development-basics"
+1510915997368	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.coursera.org/learn/ios-app-development-basics"
+1510915997369	Marionette	DEBUG	Received DOM event "unload" for "https://www.coursera.org/learn/ios-app-development-basics"
+1510915997458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1510915998203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.coursera.org/learn/seo-strategies"
+1510916005026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483770"
+1510916005027	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"

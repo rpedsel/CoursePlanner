@@ -628,5 +628,810 @@
     "course_url":"http://www.coursera.org/learn/datavisualization",
     "id":"coursera00092",
     "name":"Data Engineering on Google Cloud Platform"
-  }
+  },
+  {  
+    "description":"About this course: At the end of the course, you will be able to:\n\n*Retrieve data from example database and big data management systems \n*Describe the connections between data management operations and the big data processing patterns needed to utilize them in large-scale analytical applications\n*Identify when a big data problem needs data integration\n*Execute simple big data integration and processing on Hadoop and Spark platforms\n\nThis course is for those new to data science.  Completion of Intro to Big Data is recommended.  No prior programming experience is needed, although the ability to install applications and utilize a virtual machine is necessary to complete the hands-on assignments.  Refer to the specialization technical requirements for complete hardware and software specifications.\n\nHardware Requirements: \n(A) Quad Core Processor (VT-x or AMD-V support recommended), 64-bit; (B) 8 GB RAM; (C) 20 GB disk free. How to find your hardware information: (Windows): Open System by clicking the Start button, right-clicking Computer, and then clicking Properties; (Mac): Open Overview by clicking on the Apple menu and clicking \u00e2\u0080\u009cAbout This Mac.\u00e2\u0080\u009d Most computers with 8 GB RAM purchased in the last 3 years will meet the minimum requirements.You will need a high speed internet connection because you will be downloading files up to 4 Gb in size. \n\nSoftware Requirements: \nThis course relies on several open-source software tools, including Apache Hadoop. All required software can be downloaded and installed free of charge (except for data charges from your internet provider). Software requirements include: Windows 7+, Mac OS X 10.10+, Ubuntu 14.04+ or CentOS 6+ VirtualBox 5+. ",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a1/eb903029c311e68d106d5e8ff111e4/UCSD_BigData_PartnerProvided-_1_.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, San Diego",
+    "course_url":"http://www.coursera.org/learn/big-data-integration-processing",
+    "id":"coursera00093",
+    "name":"Big Data Integration and Processing"
+  },
+  {  
+    "description":"About this course: A data product is the production output from a statistical analysis. Data products automate complex analysis tasks or use technology to expand the utility of a data informed model, algorithm or inference. This course covers the basics of creating data products using Shiny, R packages, and interactive graphics. The course will focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b6/fd088169b511e39de639278c4f9dba/DevelopingDataProducts.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/learn/data-products",
+    "id":"coursera00094",
+    "name":"Developing Data Products"
+  },
+  {  
+    "description":"About this course: This course (The English copy of \"\u00e7\u0094\u00a8Python\u00e7\u008e\u00a9\u00e8\u00bd\u00ac\u00e6\u0095\u00b0\u00e6\u008d\u00ae\" <https://www.coursera.org/learn/hipython/home/welcome>)  is mainly for non-computer majors. It starts with the basic syntax of Python, to how to acquire data in Python locally and from network, to how to present data, then to how to conduct basic and advanced statistic analysis and visualization of data, and finally to how to design a simple GUI to present and process data, advancing level by level. \nThis course, as a whole, based on Finance data and through establishment of popular cases one after another, enables learners to more vividly feel the simplicity, elegance and robustness of Python. Also, it discusses the fast, convenient and efficient data processing capacity of Python in humanities and social sciences fields like literature, sociology and journalism and science and engineering fields like mathematics and biology, in addition to business fields. Similarly, it may also be flexibly applied into other fields.\n\nThe course has been updated. Updates in the new version are : \n\n1) the whole course has moved from Python 2.x to Python 3.x \n2) Added manual webpage fetching and parsing. Web API is also added. \n3) Improve the content order and enrich details of some content especially for some practice projects.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/98/1ac3204b9111e5a7141993db26bfbc/__1.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Nanjing University",
+    "course_url":"http://www.coursera.org/learn/python-data-processing",
+    "id":"coursera00095",
+    "name":"Data Processing Using Python"
+  },
+  {  
+    "description":"About this course: This course presents critical concepts and practical methods to support planning, collection, storage, and dissemination of data in clinical research.\n\nUnderstanding and implementing solid data management principles is critical for any scientific domain. Regardless of your current (or anticipated) role in the research enterprise, a strong working knowledge and skill set in data management principles and practice will increase your productivity and improve your science. Our goal is to use these modules to help you learn and practice this skill set. \n\nThis course assumes very little current knowledge of technology other than how to operate a web browser. We will focus on practical lessons, short quizzes, and hands-on exercises as we explore together best practices for data management.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/67/c220e0088f11e6afef9baf14d90c9d/DMCRLogo.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Vanderbilt University",
+    "course_url":"http://www.coursera.org/learn/clinical-data-management",
+    "id":"coursera00096",
+    "name":"Data Management for Clinical Research"
+  },
+  {  
+    "description":"About this course: How do Java programs deal with vast quantities of data? Many of the data structures and algorithms that work with introductory toy examples break when applications process real, large data sets.  Efficiency is critical, but how do we achieve it, and how do we even measure it?\n\nThis is an intermediate Java course. We recommend this course to learners who have previous experience in software development or a background in computer science, and in particular, we recommend that you have taken the first course in this specialization (which also requires some previous experience with Java).  \n\nIn this course, you will use and analyze data structures that are used in industry-level applications, such as linked lists, trees, and hashtables.  You will explain how these data structures make programs more efficient and flexible.  You will apply asymptotic Big-O analysis to describe the performance of algorithms and evaluate which strategy to use for efficient data retrieval, addition of new data, deletion of elements, and/or memory usage.\n\nThe program you will build throughout this course allows its user to manage, manipulate and reason about large sets of textual data.  This is an intermediate Java course, and we will build on your prior knowledge.  This course is designed around  the same video series as in our first course in this specialization, including explanations of core content, learner videos, student and engineer testimonials, and support videos -- to better allow you to choose your own path through the course!",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0f/50a380462711e5897a1dde7aef8b48/Course2.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, San Diego",
+    "course_url":"http://www.coursera.org/learn/data-structures-optimizing-performance",
+    "id":"coursera00097",
+    "name":"Data Structures and Performance"
+  },
+  {  
+    "description":"About this course: This course will continue the introduction to Python programming that started with Python Programming Essentials and Python Data Representations.  We'll learn about reading, storing, and processing tabular data, which are common tasks.  We will also teach you about CSV files and Python's support for reading and writing them.  CSV files are a generic, plain text file format that allows you to exchange tabular data between different programs. These concepts and skills will help you to further extend your Python programming knowledge and allow you to process more complex data.\n\nBy the end of the course, you will be comfortable working with tabular data in Python. This will extend your Python programming expertise, enabling you to write a wider range of scripts using Python.\n\nThis course uses Python 3.  While most Python programs continue to use Python 2, Python 3 is the future of the Python programming language. This course uses basic desktop Python development environments, allowing you to run Python programs directly on your computer.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/70/cf7fe09d7911e7ae818b39561dd185/Python-Developer.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Rice University",
+    "course_url":"http://www.coursera.org/learn/python-analysis",
+    "id":"coursera00098",
+    "name":"Python Data Analysis"
+  },
+  {  
+    "description":"About this course: Want to understand your data network structure and how it changes under different conditions? Curious to know how to identify closely interacting clusters within a graph? Have you heard of the fast-growing area of graph analytics and want to learn more? This course gives you a broad overview of the field of graph analytics so you can learn new ways to model, store, retrieve and analyze graph-structured data.\n\nAfter completing this course, you will be able to model a problem into a graph database and perform analytical tasks over the graph in a scalable manner.  Better yet, you will be able to apply these techniques to understand the significance of your data sets for your own projects.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/78/3df9404d0911e5aa3207874406679c/big-data-_2_.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, San Diego",
+    "course_url":"http://www.coursera.org/learn/big-data-graph-analytics",
+    "id":"coursera00099",
+    "name":"Graph Analytics for Big Data"
+  },
+  {  
+    "description":"About this course: This course will expose you to the data analytics practices executed in the business world. We will explore such key areas as the analytical process, how data is created, stored, accessed, and how the organization works with data and creates the environment in which analytics can flourish.\n\nWhat you learn in this course will give you a strong foundation in all the areas that support analytics and will help you to better position yourself for success within your organization. You\u00e2\u0080\u0099ll develop skills and a perspective that will make you more productive faster and allow you to become a valuable asset to your organization.\n\nThis course also provides a basis for going deeper into advanced investigative and computational methods, which you have an opportunity to explore in future courses of the Data Analytics for Business specialization.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ed/507ce0715611e6b6f35f5f102d7818/AdobeStock_44161057--square.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Colorado Boulder",
+    "course_url":"http://www.coursera.org/learn/data-analytics-business",
+    "id":"coursera00100",
+    "name":"Introduction to Data Analytics for Business"
+  },
+  {  
+    "description":"About this course: Data science is a team sport. As a data science executive it is your job to recruit, organize, and manage the team to success. In this one-week course, we will cover how you can find the right people to fill out your data science team, how to organize them to give them the best chance to feel empowered and successful, and how to manage your team as it grows. \n\nThis is a focused course designed to rapidly get you up to speed on the process of building and managing a data science team. Our goal was to make this as convenient as possible for you without sacrificing any essential content. We've left the technical information aside so that you can focus on managing your team and moving it forward.\n\nAfter completing this course you will know.\n\n1. The different roles in the data science team including data scientist and data engineer\n2. How the data science team relates to other teams in an organization\n3. What are the expected qualifications of different data science team members\n4. Relevant questions for interviewing data scientists\n5. How to manage the onboarding process for the team\n6. How to guide data science teams to success\n7. How to encourage and empower data science teams\n\nCommitment: 1 week of study, 4-6 hours\n\nCourse cover image by JaredZammit. Creative Commons BY-SA. https://flic.kr/p/5vuWZz",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/df/d28dd045ea11e58738b93f7fb6a31b/2959253587_05102df8df_o.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/learn/build-data-science-team",
+    "id":"coursera00101",
+    "name":"Building a Data Science Team"
+  },
+  {  
+    "description":"About this course: This course will continue the introduction to Python programming that started with Python Programming Essentials.  We'll learn about different data representations, including strings, lists, and tuples, that form the core of all Python programs.  We will also teach you how to access files, which will allow you to store and retrieve data within your programs. These concepts and skills will help you to manipulate data and write more complex Python programs.\n\nBy the end of the course, you will be able to write Python programs that can manipulate data stored in files.  This will extend your Python programming expertise, enabling you to write a wide range of scripts using Python\n\nThis course uses Python 3.  While most Python programs continue to use Python 2, Python 3 is the future of the Python programming language. This course introduces basic desktop Python development environments, allowing you to run Python programs directly on your computer. This choice enables a smooth transition from online development environments.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a4/0abbe09d7911e78b3bf7566ff9d3a9/Python-Developer.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Rice University",
+    "course_url":"http://www.coursera.org/learn/python-representation",
+    "id":"coursera00102",
+    "name":"Python Data Representations"
+  },
+  {  
+    "description":"About this course: Learner Outcomes: After taking this course, you will be able to:\n- Utilize various Application Programming Interface (API) services to collect data from different social media sources such as YouTube, Twitter, and Flickr.\n- Process the collected data - primarily structured - using methods involving correlation, regression, and classification to derive insights about the sources and people who generated that data.\n- Analyze unstructured data - primarily textual comments - for sentiments expressed in them.\n- Use different tools for collecting, analyzing, and exploring social media data for research and development purposes.\n\nSample Learner Story: Data analyst wanting to leverage social media data.\nIsabella is a Data Analyst working as a consultant for a multinational corporation. She has experience working with Web analysis tools as well as marketing data. She wants to now expand into social media arena, trying to leverage the vast amounts of data available through various social media channels. Specifically, she wants to see how their clients, partners, and competitors view their products/services and talk about them. She hopes to build a new workflow of data analytics that incorporates traditional data processing using Web and marketing tools, as well as newer methods of using social media data.\n\nSample Job Roles requiring these skills: \n- Social Media Analyst\n- Web Analyst\n- Data Analyst\n- Marketing and Public Relations \n\nFinal Project Deliverable/ Artifact: The course will have a series of small assignments or mini-projects that involve data collection, analysis, and presentation involving various social media sources using the techniques learned in the class.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/83/8b7dd07c2511e697898d8064076b75/smda.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Rutgers the State University of New Jersey",
+    "course_url":"http://www.coursera.org/learn/social-media-data-analytics",
+    "id":"coursera00103",
+    "name":"Social Media Data Analytics"
+  },
+  {  
+    "description":"About this course: This course distills for you expert knowledge and skills mastered by professionals in Health Big Data Science and Bioinformatics. You will learn exciting facts about the human body biology and chemistry, genetics, and medicine that will be intertwined with the science of Big Data and skills to harness the avalanche of data openly available at your fingertips and which we are just starting to make sense of. We\u00e2\u0080\u0099ll investigate the different steps required to master Big Data analytics on real datasets, including Next Generation Sequencing data, in a healthcare and biological context, from preparing data for analysis to completing the analysis, interpreting the results, visualizing them, and sharing the results.\n\nNeedless to say, when you master these high-demand skills, you will be well positioned to apply for or move to positions in biomedical data analytics and bioinformatics. No matter what your skill levels are in biomedical or technical areas, you will gain highly valuable new or sharpened skills that will make you stand-out as a professional and want to dive even deeper in biomedical Big Data. It is my hope that this course will spark your interest in the vast possibilities offered by publicly available Big Data to better understand, prevent, and treat diseases.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a6/aada507c3311e6acfdd3058ad114aa/twenty20_77368252-6f61-4e01-a7e9-5389a6269d13.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"The State University of New York",
+    "course_url":"http://www.coursera.org/learn/data-genes-medicine",
+    "id":"coursera00104",
+    "name":"Big Data, Genes, and Medicine"
+  },
+  {  
+    "description":"About this course: Discover the basic concepts of cluster analysis, and then study a set of typical clustering methodologies, algorithms, and applications. This includes partitioning methods such as k-means, hierarchical methods such as BIRCH, and density-based methods such as DBSCAN/OPTICS. Moreover, learn methods for clustering validation and evaluation of clustering quality. Finally, see examples of cluster analysis in applications.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/46/033700533711e4815fe98a35e8e32a/Data_Mining_2.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Illinois at Urbana-Champaign",
+    "course_url":"http://www.coursera.org/learn/cluster-analysis",
+    "id":"coursera00105",
+    "name":"Cluster Analysis in Data Mining"
+  },
+  {  
+    "description":"About this course: How does Google Maps plan the best route for getting around town given current traffic conditions?  How does an internet router forward packets of network traffic to minimize delay?  How does an aid group allocate resources to its affiliated local partners?\n\nTo solve such problems, we first represent the key pieces of data in a complex data structure. In this course, you\u00e2\u0080\u0099ll learn about data structures, like graphs, that are fundamental for working with structured real world data.  You will develop, implement, and analyze algorithms for working with this data to solve real world problems.   In addition, as the programs you develop in this course become more complex, we\u00e2\u0080\u0099ll examine what makes for good code and class hierarchy design so that you can not only write correct code, but also share it with other people and maintain it in the future.\n\nThe backbone project in this course will be a route planning application.  You will apply the concepts from each Module directly to building an application that allows an autonomous agent (or a human driver!) to navigate its environment.  And as usual we have our different video series to help tie the content back to its importance in the real world and to provide tiered levels of support to meet your personal needs.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/02/5862d0469011e58b7267fbeaf2e97c/Course3.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, San Diego",
+    "course_url":"http://www.coursera.org/learn/advanced-data-structures",
+    "id":"coursera00106",
+    "name":"Advanced Data Structures in Java"
+  },
+  {  
+    "description":"About this course: Learn the general concepts of data mining along with basic methodologies and applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mining. We will also introduce methods for data-driven phrase mining and some interesting applications of pattern discovery. This course provides you the opportunity to learn skills and content to practice and engage in scalable pattern discovery methods on massive transactional data, discuss pattern evaluation measures, and study methods for mining diverse kinds of patterns, sequential patterns, and sub-graph patterns.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/68/b9ef00533711e4a6d07f1474e53fff/Data_Mining_1.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Illinois at Urbana-Champaign",
+    "course_url":"http://www.coursera.org/learn/data-patterns",
+    "id":"coursera00107",
+    "name":"Pattern Discovery in Data Mining"
+  },
+  {  
+    "description":"About this course: Welcome to the third of five courses in the Cisco Networking Basics Specialization.\n\nNow that you know the basics of what an network is and how the devices on a network communicate with each other, it is time to explore the network further.   In this course, you will learn the benefits and limitations of the IPv4 addressing system and why NAT and IPv6 were implemented to address the limitations. You will also explore common network services and protocols such as email, web services, instant messaging, DNS, HTTP, HTML, SMTP, Telnet, and SSH.\n\nAt the end of this course, you will be able to:\n\n1. Describe the role of network services including DHCP and DNS.\n2. Use Cisco Packet Tracer to configure a router to perform DHCP services for a LAN. \n3. Explain use of IPv4 private addresses with NAT.\n4. Compare TCP and UDP protocol operations for efficiency and reliability.\n5. Describe the network services and applications for file transfer, web access, email, remote access and instant messaging.\n6. Observe how web requests are processed by the web client and the server.\n7. Use various tools to verify network operations.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ac/8268e0773111e7969823113a3eaa81/networking_fc_1024.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Cisco",
+    "course_url":"http://www.coursera.org/learn/data-communication-network-services",
+    "id":"coursera00108",
+    "name":"Data Communications and Network Services"
+  },
+  {  
+    "description":"About this course: Are you interested in predicting future outcomes using your data? This course helps you do just that! Machine learning is the process of developing, testing, and applying predictive algorithms to achieve this goal. Make sure to familiarize yourself with course 3 of this specialization before diving into these machine learning concepts. Building on Course 3, which introduces students to integral supervised machine learning concepts, this course will provide an overview of many additional concepts, techniques, and algorithms in machine learning, from basic classification to decision trees and clustering. By completing this course, you will learn how to apply, test, and interpret machine learning algorithms as alternative methods for addressing your research questions.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5d/58ff4036f111e589be778d9d098112/big-dataG.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Wesleyan University",
+    "course_url":"http://www.coursera.org/learn/machine-learning-data-analysis",
+    "id":"coursera00109",
+    "name":"Machine Learning for Data Analysis"
+  },
+  {  
+    "description":"About this course: This class provides an introduction to the Python programming language and the iPython notebook. This is the third course in the Genomic Big Data Science Specialization from Johns Hopkins University.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/de/dc7430d30e11e495a3271dcbe3e007/python-01.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/learn/python-genomics",
+    "id":"coursera00110",
+    "name":"Python for Genomic Data Science"
+  },
+  {  
+    "description":"About this course: This course will provide you with an overview over existing data products and a good understanding of the data collection landscape. With the help of various examples you will learn how to identify which data sources likely matches your research question, how to turn your research question into measurable pieces, and how to think about an analysis plan. Furthermore this course will provide you with a general framework that allows you to not only understand each step required for a successful data collection and analysis, but also help you to identify errors associated with different data sources. You will learn some metrics to quantify each potential error, and thus you will have tools at hand to describe the quality of a data source. Finally we will introduce different large scale data collection efforts done by private industry and government agencies, and review the learned concepts through these examples. This course is suitable for beginners as well as those that know about one particular data source, but not others, and are looking for a general framework to evaluate data products.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/b3e9f0f2ba11e587ca9b7fc1e1981a/banner_lefData_mooc.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Maryland, College Park",
+    "course_url":"http://www.coursera.org/learn/data-collection-framework",
+    "id":"coursera00111",
+    "name":"Framework for Data Collection and Analysis"
+  },
+  {  
+    "description":"About this course: Science is undergoing a data explosion, and astronomy is leading the way. Modern telescopes produce terabytes of data per observation, and the simulations required to model our observable Universe push supercomputers to their limits. To analyse this data scientists need to be able to think computationally to solve problems. In this course you will investigate the challenges of working with large datasets: how to implement algorithms that work; how to use databases to manage your data; and how to learn from your data with machine learning tools. The focus is on practical skills - all the activities will be done in Python 3, a modern programming language used throughout astronomy.\n\nRegardless of whether you\u00e2\u0080\u0099re already a scientist, studying to become one, or just interested in how modern astronomy works \u00e2\u0080\u0098under the bonnet\u00e2\u0080\u0099, this course will help you explore astronomy: from planets, to pulsars to black holes.\n\nCourse outline:\nWeek 1: Thinking about data\n- Principles of computational thinking\n- Discovering pulsars in radio images\n\nWeek 2: Big data makes things slow\n- How to work out the time complexity of algorithms\n- Exploring the black holes at the centres of massive galaxies\n\nWeek 3: Querying data using SQL\n- How to use databases to analyse your data\n- Investigating exoplanets in other solar systems\n\nWeek 4: Managing your data\n- How to set up databases to manage your data\n- Exploring the lifecycle of stars in our Galaxy\n\nWeek 5: Learning from data: regression\n- Using machine learning tools to investigate your data\n- Calculating the redshifts of distant galaxies\n\nWeek 6: Learning from data: classification\n- Using machine learning tools to classify your data\n- Investigating different types of galaxies\n\nEach week will also have an interview with a data-driven astronomy expert.\n\nNote that some knowledge of Python is assumed, including variables, control structures, data structures, functions, and working with files.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/7f/8a57a0bb4111e68a2541483a21c7e6/Createastronomy-_data.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"The University of Sydney",
+    "course_url":"http://www.coursera.org/learn/data-driven-astronomy",
+    "id":"coursera00112",
+    "name":"Data-driven Astronomy"
+  },
+  {  
+    "description":"About this course: Learn to use the tools that are available from the Galaxy Project. This is the second course in the Genomic Big Data Science Specialization.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bd/a433f0d31011e495a3271dcbe3e007/galaxy-01.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/learn/galaxy-project",
+    "id":"coursera00113",
+    "name":"Genomic Data Science with Galaxy"
+  },
+  {  
+    "description":"About this course: An introduction to the statistics behind the most popular genomic data science projects. This is the sixth course in the Genomic Big Data Science Specialization from Johns Hopkins University.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ae/be2510d30d11e4afc79712f14aeec0/statistics-01.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/learn/statistical-genomics",
+    "id":"coursera00114",
+    "name":"Statistics for Genomic Data Science"
+  },
+  {  
+    "description":"About this course: This if the final course in the specialization which builds upon the knowledge learned in Python Programming Essentials, Python Data Representations, and Python Data Analysis.  We will learn how to install external packages for use within Python, acquire data from sources on the Web, and then we will clean, process, analyze, and visualize that data. This course will combine the skills learned throughout the specialization to enable you to write interesting, practical, and useful programs.\n\nBy the end of the course, you will be comfortable installing Python packages, analyzing existing data, and generating visualizations of that data.  This course will complete your education as a scripter, enabling you to locate, install, and use Python packages written by others. You will be able to effectively utilize tools and packages that are widely available to amplify your effectiveness and write useful programs.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d9/85d5c09d7911e7bdab454d6583c382/Python-Developer.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Rice University",
+    "course_url":"http://www.coursera.org/learn/python-visualization",
+    "id":"coursera00115",
+    "name":"Python Data Visualization"
+  },
+  {  
+    "description":"About this course: This course will provide learners with an introduction to research data management and sharing. After completing this course, learners will understand the diversity of data and their management needs across the research data lifecycle, be able to identify the components of good data management plans, and be familiar with best practices for working with data including the organization, documentation, and storage and security of data. Learners will also understand the impetus and importance of archiving and sharing data as well as how to assess the trustworthiness of repositories. \n\nToday, an increasing number of funding agencies, journals, and other stakeholders are requiring data producers to share, archive, and plan for the management of their data. In order to respond to these requirements, researchers and information professionals will need the data management and curation knowledge and skills that support the long-term preservation, access, and reuse of data. Effectively managing data can also help optimize research outputs, increase the impact of research, and support open scientific inquiry. After completing this course, learners will be better equipped to manage data throughout the entire research data lifecycle from project planning to the end of the project when data ideally are shared and made available within a trustworthy repository.\n\nThis course was developed by the Curating Research Assets and Data Using Lifecycle Education (CRADLE) Project in collaboration with EDINA at the University of Edinburgh. \n\nThis course was made possible in part by the Institute of Museum and Library Services under award #RE-06-13-0052-13. The views, findings, conclusions or recommendations expressed in this Research Data Management and Sharing MOOC do not necessarily represent those of the Institute of Museum and Library Services.\n\nHashtag: #RDMSmooc",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a3/d698f0799b11e5b91b43b9b4b44038/bitsissue8_2.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"The University of North Carolina at Chapel Hill, The University of Edinburgh",
+    "course_url":"http://www.coursera.org/learn/data-management",
+    "id":"coursera00116",
+    "name":"Research Data Management and Sharing"
+  },
+  {  
+    "description":"About this course: The data science revolution has produced reams of new data from a wide variety of new sources. These new datasets are being used to answer new questions in way never before conceived. Visualization remains one of the most powerful ways draw conclusions from data, but the influx of new data types requires the development of new visualization techniques and building blocks. This course provides you with the skills for creating those new visualization building blocks. We focus on the ggplot2 framework and describe how to use and extend the system to suit the specific needs of your organization or team. Upon completing this course, learners will be able to build the tools needed to visualize a wide variety of data types and will have the fundamentals needed to address new data types as they come about.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/12/8208b0692f11e682607fc440bea011/Screen-Shot-2016-08-23-at-8.42.13-AM.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/learn/r-data-visualization",
+    "id":"coursera00117",
+    "name":"Building Data Visualization Tools"
+  },
+  {  
+    "description":"About this course: As data collection has increased exponentially, so has the need for people skilled at using and interacting with data; to be able to think critically, and provide insights to make better decisions and optimize their businesses. This is a data scientist, \u00e2\u0080\u009cpart mathematician, part computer scientist, and part trend spotter\u00e2\u0080\u009d (SAS Institute, Inc.). According to Glassdoor, being a data scientist is the best job in America; with a median base salary of $110,000 and thousands of job openings at a time. The skills necessary to be a good data scientist include being able to retrieve and work with data, and to do that you need to be well versed in SQL, the standard language for communicating with database systems.\n\nThis course is designed to give you a primer in the fundamentals of SQL and working with data so that you can begin analyzing it for data science purposes. You will begin to ask the right questions and come up with good answers to deliver valuable insights for your organization. This course starts with the basics and assumes you do not have any knowledge or skills in SQL. It will build on that foundation and gradually have you write both simple and complex queries to help you select data from tables.  You'll start to work with different types of data like strings and numbers and discuss methods to filter and pare down your results. \n\nYou will create new tables and be able to move data into them. You will learn common operators and how to combine the data. You will use case statements and concepts like data governance and profiling. You will discuss topics on data, and practice using real-world programming assignments. You will interpret the structure, meaning, and relationships in source data and use SQL as a professional to shape your data for targeted analysis purposes. \n\nAlthough we do not have any specific prerequisites or software requirements to take this course, you a simple text editor is recommended for the final project. So what are you waiting for? This is your first step in landing a job in the best occupation in the US and soon the world!",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/7a/569080aab711e79d97bf25c196049d/1200px-square-dark.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, Davis",
+    "course_url":"http://www.coursera.org/learn/sql-for-data-science",
+    "id":"coursera00118",
+    "name":"SQL for Data Science"
+  },
+  {  
+    "description":"About this course: Learn to use tools from the Bioconductor project to perform analysis of genomic data. This is the fifth course in the Genomic Big Data Specialization from Johns Hopkins University.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a3/592de0056311e5b4389d7cff42bbd8/bioconductor5_28_15-01.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/learn/bioconductor",
+    "id":"coursera00119",
+    "name":"Bioconductor for Genomic Data Science"
+  },
+  {  
+    "description":"About this course: This course will cover the steps used in weighting sample surveys, including methods for adjusting for nonresponse and using data external to the survey for calibration.  Among the techniques discussed are adjustments using estimated response propensities, poststratification, raking, and general regression estimation.  Alternative techniques for imputing values for missing items will be discussed.  For both weighting and imputation, the capabilities of different statistical software packages will be covered, including R\u00c2\u00ae, Stata\u00c2\u00ae, and SAS\u00c2\u00ae.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/dd/8e0e60f75a11e5a5175d8aed3cf3b0/AdobeStock_83781931.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Maryland, College Park",
+    "course_url":"http://www.coursera.org/learn/missing-data",
+    "id":"coursera00120",
+    "name":"Dealing With Missing Data"
+  },
+  {  
+    "description":"About this course: Important note: The second assignment in this course covers the topic of Graph Analysis in the Cloud, in which you will use Elastic MapReduce and the Pig language to perform graph analysis over a moderately large dataset, about 600GB. In order to complete this assignment, you will need to make use of Amazon Web Services (AWS). Amazon has generously offered to provide up to $50 in free AWS credit to each learner in this course to allow you to complete the assignment. Further details regarding the process of receiving this credit are available in the welcome message for the course, as well as in the assignment itself. Please note that Amazon, University of Washington, and Coursera cannot reimburse you for any charges if you exhaust your credit.\n\nWhile we believe that this assignment contributes an excellent learning experience in this course, we understand that some learners may be unable or unwilling to use AWS. We are unable to issue Course Certificates for learners who do not complete the assignment that requires use of AWS. As such, you should not pay for a Course Certificate in Communicating Data Results if you are unable or unwilling to use AWS, as you will not be able to successfully complete the course without doing so.\n\nMaking predictions is not enough!  Effective data scientists know how to explain and interpret their results, and communicate findings accurately to stakeholders to inform business decisions.  Visualization is the field of research in computer science that studies effective communication of quantitative results by linking perception, cognition, and algorithms to exploit the enormous bandwidth of the human visual cortex.  In this course you will learn to recognize, design, and use effective visualizations.\n\nJust because you can make a prediction and convince others to act on it doesn\u00e2\u0080\u0099t mean you should.  In this course you will explore the ethical considerations around big data and how these considerations are beginning to influence policy and practice.   You will learn the foundational limitations of using technology to protect privacy and the codes of conduct emerging to guide the behavior of data scientists.  You will also learn the importance of reproducibility in data science and how the commercial cloud can help support reproducible research even for experiments involving massive datasets, complex computational infrastructures, or both.\n\nLearning Goals: After completing this course, you will be able to:\n1. Design and critique visualizations\n2. Explain the state-of-the-art in privacy, ethics, governance around big data and data science\n3. Use cloud computing to analyze large datasets in a reproducible way.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/datasci/large-icon.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Washington",
+    "course_url":"http://www.coursera.org/learn/data-results",
+    "id":"coursera00121",
+    "name":"Communicating Data Science Results"
+  },
+  {  
+    "description":"About this course: This course aims to provide a succinct overview of the emerging discipline of Materials Informatics at the intersection of materials science, computational science, and information science. Attention is drawn to specific opportunities afforded by this new field in accelerating materials development and deployment efforts. A particular emphasis is placed on materials exhibiting hierarchical internal structures spanning multiple length/structure scales and the impediments involved in establishing invertible process-structure-property (PSP) linkages for these materials. More specifically, it is argued that modern data sciences (including advanced statistics, dimensionality reduction, and formulation of metamodels) and innovative cyberinfrastructure tools (including integration platforms, databases, and customized tools for enhancement of collaborations among cross-disciplinary team members) are likely to play a critical and pivotal role in addressing the above challenges.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c2/cd27a034c711e6a4780919edd2fc21/MaterialsDataScienceInformatics.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Georgia Institute of Technology",
+    "course_url":"http://www.coursera.org/learn/material-informatics",
+    "id":"coursera00122",
+    "name":"Materials Data Sciences and Informatics"
+  },
+  {  
+    "description":"About this course: What are the ethical considerations regarding the privacy and control of consumer information and big data, especially in the aftermath of recent large-scale data breaches?\n\nThis course provides a framework to analyze these concerns as you examine the ethical and privacy implications of collecting and managing big data. Explore the broader impact of the data science field on modern society and the principles of fairness, accountability and transparency as you gain a deeper understanding of the importance of a shared set of ethical values. You will examine the need for voluntary disclosure when leveraging metadata to inform basic algorithms and/or complex artificial intelligence systems while also learning best practices for responsible data management, understanding the significance of the Fair Information Practices Principles Act and the laws concerning the \"right to be forgotten.\"\n\nThis course will help you answer questions such as who owns data, how do we value privacy, how to receive informed consent and what it means to be fair.\n\nData scientists and anyone beginning to use or expand their use of data will benefit from this course. No particular previous knowledge needed.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e5/ac6a308e4c11e79b4d556cfe7c287c/datascienceethics_thumbnail_new_1x1.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Michigan",
+    "course_url":"http://www.coursera.org/learn/data-science-ethics",
+    "id":"coursera00123",
+    "name":"Data Science Ethics"
+  },
+  {  
+    "description":"About this course: In this course you will learn how to use survey weights to estimate descriptive statistics, like means and totals, and more complicated quantities like model parameters for linear and logistic regressions.  Software capabilities will be covered with R\u00c2\u00ae receiving particular emphasis.  The course will also cover the basics of record linkage and statistical matching\u00e2\u0080\u0094both of which are becoming more important as ways of combining data from different sources.  Combining of datasets raises ethical issues which the course reviews.  Informed consent may have to be obtained from persons to allow their data to be linked. You will learn about differences in the legal requirements in different countries.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/aa/902980f75a11e5a5175d8aed3cf3b0/AdobeStock_83781931.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Maryland, College Park",
+    "course_url":"http://www.coursera.org/learn/data-collection-analytics-project",
+    "id":"coursera00124",
+    "name":"Combining and Analyzing Complex Data"
+  },
+  {  
+    "description":"About this course: This course will show how one can treat the Internet as a source of data.  We will scrape, parse, and read web data as well as access data using web APIs.  We will work with HTML, XML, and JSON data formats in Python.  This course will cover Chapters 11-13 of the textbook \u00e2\u0080\u009cPython for Everybody\u00e2\u0080\u009d. To succeed in this course, you should be familiar with the material covered in Chapters 1-10 of the textbook and the first two courses in this specialization.  These topics include variables and expressions, conditional execution (loops, branching, and try/except), functions, Python data structures (strings, lists, dictionaries, and tuples), and manipulating files.  This course covers Python 3.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/53/01bee0502a11e58ddc8ff4d6e0523a/pythonnetworkdata_thumbnail_1x1.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Michigan",
+    "course_url":"http://www.coursera.org/learn/python-network-data",
+    "id":"coursera00125",
+    "name":"Using Python to Access Web Data"
+  },
+  {  
+    "description":"About this course: In this course, you will learn best practices for how to use data analytics to make any company more competitive and more profitable. You will be able to recognize the most critical business metrics and distinguish them from mere data.\n \nYou\u00e2\u0080\u0099ll get a clear picture of the vital but different roles business analysts, business data analysts, and data scientists each play in various types of companies. And you\u00e2\u0080\u0099ll know exactly what skills are required to be hired for, and succeed at, these high-demand jobs.\n \nFinally, you will be able to use a checklist provided in the course to score any company on how effectively it is embracing big data culture. Digital companies like Amazon, Uber and Airbnb are transforming entire industries through their creative use of big data. You\u00e2\u0080\u0099ll understand why these companies are so disruptive and how they use data-analytics techniques to out-compete traditional companies.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/81/d0d2a03d5c11e5949cf1f925f5447f/logo.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Duke University",
+    "course_url":"http://www.coursera.org/learn/analytics-business-metrics",
+    "id":"coursera00126",
+    "name":"Business Metrics for Data-Driven Companies"
+  },
+  {  
+    "description":"About this course: Data analysis has replaced data acquisition as the bottleneck to evidence-based decision making --- we are drowning in it.  Extracting knowledge from large, heterogeneous, and noisy datasets requires not only powerful computing resources, but the programming abstractions to use them effectively.  The abstractions that emerged in the last decade blend ideas from parallel databases, distributed systems, and programming languages to create a new class of scalable data analytics platforms that form the foundation for data science at realistic scales.\n\nIn this course, you will learn the landscape of relevant systems, the principles on which they rely, their tradeoffs, and how to evaluate their utility against your requirements. You will learn how practical systems were derived from the frontier of research in computer science and what systems are coming on the horizon.   Cloud computing, SQL and NoSQL databases, MapReduce and the ecosystem it spawned, Spark and its contemporaries, and specialized systems for graphs and arrays will be covered.\n\nYou will also learn the history and context of data science, the skills, challenges, and methodologies the term implies, and how to structure a data science project.  At the end of this course, you will be able to:\n\nLearning Goals: \n1. Describe common patterns, challenges, and approaches associated with data science projects, and what makes them different from projects in related fields.\n2. Identify and use the programming models associated with scalable data manipulation, including relational algebra, mapreduce, and other data flow models.\n3. Use database technology adapted for large-scale analytics, including the concepts driving parallel databases, parallel query processing, and in-database analytics\n4. Evaluate key-value stores and NoSQL systems, describe their tradeoffs with comparable systems, the details of important examples in the space, and future trends.\n5. \u00e2\u0080\u009cThink\u00e2\u0080\u009d in MapReduce to effectively write algorithms for systems including Hadoop and Spark.  You will understand their limitations, design details, their relationship to databases, and their associated ecosystem of algorithms, extensions, and languages.\nwrite programs in Spark\n6. Describe the landscape of specialized Big Data systems for graphs, arrays, and streams",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/datasci/large-icon.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Washington",
+    "course_url":"http://www.coursera.org/learn/data-manipulation",
+    "id":"coursera00127",
+    "name":"Data Manipulation at Scale: Systems and Algorithms"
+  },
+  {  
+    "description":"About this course: The use of Excel is widespread in the industry. It is a very powerful data analysis tool and almost all big and small businesses use Excel in their day to day functioning. This is an introductory course in the use of Excel and is designed to give you a working knowledge of Excel with the aim of getting to use it for more advance topics in Business Statistics later. The course is designed keeping in mind two kinds of learners -  those who have very little functional knowledge of Excel and those who use Excel regularly but at a peripheral level and wish to enhance their skills. The course takes you from basic operations such as reading data into excel using various data formats, organizing and manipulating data, to some of the more advanced functionality of Excel. All along, Excel functionality is introduced using easy to understand examples which are demonstrated in a way that learners can become comfortable in understanding and applying them.\n\nTo successfully complete course assignments, students must have access to a Windows version of Microsoft Excel 2010 or later. \n________________________________________\nWEEK 1\nModule 1: Introduction to Spreadsheets\nIn this module, you will be introduced to the use of Excel spreadsheets and various basic data functions of Excel.\n\nTopics covered include:\n\u00e2\u0080\u00a2\tReading data into Excel using various formats\n\u00e2\u0080\u00a2\tBasic functions in Excel, arithmetic as well as various logical functions\n\u00e2\u0080\u00a2\tFormatting rows and columns\n\u00e2\u0080\u00a2\tUsing formulas in Excel and their copy and paste using absolute and relative referencing\n________________________________________\nWEEK 2\nModule 2: Spreadsheet Functions to Organize Data\nThis module introduces various Excel functions to organize and query data. Learners are introduced to the IF, nested IF, VLOOKUP and the HLOOKUP functions of Excel. \n\nTopics covered include:\n\u00e2\u0080\u00a2\tIF and the nested IF functions\n\u00e2\u0080\u00a2\tVLOOKUP and HLOOKUP\n\u00e2\u0080\u00a2\tThe RANDBETWEEN function\n________________________________________\nWEEK 3\nModule 3: Introduction to Filtering, Pivot Tables, and Charts\nThis module introduces various data filtering capabilities of Excel. You\u00e2\u0080\u0099ll learn how to set filters in data to selectively access data. A very powerful data summarizing tool, the Pivot Table, is also explained and we begin to introduce the charting feature of Excel.\n\nTopics covered include:\n\u00e2\u0080\u00a2\tVLOOKUP across worksheets\n\u00e2\u0080\u00a2\tData filtering in Excel\n\u00e2\u0080\u00a2\tUse of Pivot tables with categorical as well as numerical data\n\u00e2\u0080\u00a2\tIntroduction to the charting capability of Excel\n________________________________________\nWEEK 4\nModule 4: Advanced Graphing and Charting\nThis module explores various advanced graphing and charting techniques available in Excel. Starting with various line, bar and pie charts we introduce pivot charts, scatter plots and histograms. You will get to understand these various charts and get to build them on your own.\n\nTopics covered include\n\u00e2\u0080\u00a2\tLine, Bar and Pie charts\n\u00e2\u0080\u00a2\tPivot charts\n\u00e2\u0080\u00a2\tScatter plots\n\u00e2\u0080\u00a2\tHistograms",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/60/d819005f0c11e6bc2b7945d34f43c3/ChartsGraphsTabletThumb.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Rice University",
+    "course_url":"http://www.coursera.org/learn/excel-data-analysis",
+    "id":"coursera00128",
+    "name":"Introduction to Data Analysis Using Excel"
+  },
+  {  
+    "description":"About this course: In this course, the second in the Geographic Information Systems (GIS) Specialization, you will go in-depth with common data types (such as raster and vector data), structures, quality and storage during four week-long modules: \n\nWeek 1: Learn about data models and formats, including a full understanding of vector data and raster concepts. You will also learn about the implications of a data\u00e2\u0080\u0099s scale and how to load layers from web services. \n\nWeek 2: Create a vector data model by using vector attribute tables, writing query strings, defining queries, and adding and calculating fields. You'll also learn how to create new data through the process of digitizing and you'll use the built-in Editor tools in ArcGIS.\n\nWeek 3: Learn about common data storage mechanisms within GIS, including geodatabases and shapefiles. Learn how to choose between them for your projects and how to optimize them for speed and size. You'll also work with rasters for the first time, using digital elevation models and creating slope and distance analysis products.\n\nWeek 4: Explore datasets and assess them for quality and uncertainty.  You will also learn how to bring your maps and data to the Internet and create web maps quickly with ArcGIS Online.\n\nTake GIS Data Formats, Design and Quality as a standalone course or as part of the Geographic Information Systems (GIS) Specialization. You should have equivalent experience to completing the first course in this specialization, Fundamentals of GIS, before taking this course. By completing the second class in the Specialization you will gain the skills needed to succeed in the full program.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/cd/0592f0b32311e5835f974a8abbc8f3/DesktopGIS_Alternate_3.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, Davis",
+    "course_url":"http://www.coursera.org/learn/gis-data",
+    "id":"coursera00129",
+    "name":"GIS Data Formats, Design and Quality"
+  },
+  {  
+    "description":"About this course: Manipulating big data distributed over a cluster using functional concepts is rampant in industry, and is arguably one of the first widespread industrial uses of functional ideas. This is evidenced by the popularity of MapReduce and Hadoop, and most recently Apache Spark, a fast, in-memory distributed collections framework written in Scala. In this course, we'll see how the data parallel paradigm can be extended to the distributed case, using Spark throughout. We'll cover Spark's programming model in detail, being careful to understand how and when it differs from familiar programming models, like shared-memory parallel collections or sequential Scala collections. Through hands-on examples in Spark and Scala, we'll learn when important issues related to distribution like latency and network communication should be considered and how they can be addressed effectively for improved performance.\n\nLearning Outcomes. By the end of this course you will be able to:\n\n- read data from persistent storage and load it into Apache Spark,\n- manipulate data with Spark and Scala,\n- express algorithms for data analysis in a functional style, \n- recognize how to avoid shuffles and recomputation in Spark,\n\nRecommended background: You should have at least one year programming experience. Proficiency with Java or C# is ideal, but experience with other languages such as C/C++, Python, Javascript or Ruby is also sufficient. You should have some familiarity using the command line. This course is intended to be taken after Parallel Programming: https://www.coursera.org/learn/parprog1.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/56/71f3d0821911e59c8f43b5e6130a32/progfun.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"cole Polytechnique Fdrale de Lausanne",
+    "course_url":"http://www.coursera.org/learn/scala-spark-big-data",
+    "id":"coursera00130",
+    "name":"Big Data Analysis with Scala and Spark"
+  },
+  {  
+    "description":"About this course: Once you\u00e2\u0080\u0099ve identified a big data issue to analyze, how do you collect, store and organize your data using Big Data solutions?  In this course, you will experience various data genres and management tools appropriate for each.  You will be able to describe the reasons behind the evolving plethora of new big data platforms from the perspective of big data management systems and analytical tools.  Through guided hands-on tutorials, you will become familiar with techniques using real-time and semi-structured data examples.  Systems and tools discussed include: AsterixDB, HP Vertica, Impala, Neo4j, Redis, SparkSQL. This course provides techniques to extract value from existing untapped data sources and discovering new data sources.\n\nAt the end of this course, you will be able to:\n * Recognize different data elements in your own work and in everyday life problems\n * Explain why your team needs to design a Big Data Infrastructure Plan and Information System Design\n * Identify the frequent data operations required for various types of data\n * Select a data model to suit the characteristics of your data \n * Apply techniques to handle streaming data\n * Differentiate between a traditional Database Management System and a Big Data Management System\n * Appreciate why there are so many data management systems\n * Design a big data information system for an online game company\n\nThis course is for those new to data science.  Completion of Intro to Big Data is recommended.  No prior programming experience is needed, although the ability to install applications and utilize a virtual machine is necessary to complete the hands-on assignments.  Refer to the specialization technical requirements for complete hardware and software specifications.\n\nHardware Requirements: \n(A) Quad Core Processor (VT-x or AMD-V support recommended), 64-bit; (B) 8 GB RAM; (C) 20 GB disk free. How to find your hardware information: (Windows): Open System by clicking the Start button, right-clicking Computer, and then clicking Properties; (Mac): Open Overview by clicking on the Apple menu and clicking \u00e2\u0080\u009cAbout This Mac.\u00e2\u0080\u009d Most computers with 8 GB RAM purchased in the last 3 years will meet the minimum requirements.You will need a high speed internet connection because you will be downloading files up to 4 Gb in size. \n\nSoftware Requirements: \nThis course relies on several open-source software tools, including Apache Hadoop. All required software can be downloaded and installed free of charge (except for data charges from your internet provider). Software requirements include: Windows 7+, Mac OS X 10.10+, Ubuntu 14.04+ or CentOS 6+ VirtualBox 5+.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6b/8d2970dcdb11e5a020bbda23e7573f/logo.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, San Diego",
+    "course_url":"http://www.coursera.org/learn/big-data-management",
+    "id":"coursera00131",
+    "name":"Big Data Modeling and Management Systems"
+  },
+  {  
+    "description":"About this course: The Library of Integrative Network-based Cellular Signatures (LINCS) is an NIH Common Fund program. The idea is to perturb different types of human cells with many different types of perturbations such as: drugs and other small molecules; genetic manipulations such as knockdown or overexpression of single genes; manipulation of the extracellular microenvironment conditions, for example, growing cells on different surfaces, and more. These perturbations are applied to various types of human cells including induced pluripotent stem cells from patients, differentiated into various lineages such as neurons or cardiomyocytes. Then, to better understand the molecular networks that are affected by these perturbations, changes in level of many different variables are measured including: mRNAs, proteins, and metabolites, as well as cellular phenotypic changes such as changes in cell morphology. The BD2K-LINCS Data Coordination and Integration Center (DCIC) is commissioned to organize, analyze, visualize and integrate this data with other publicly available relevant resources. In this course we briefly introduce the DCIC and the various Centers that collect data for LINCS. We then cover metadata and how metadata is linked to ontologies. We then present data processing and normalization methods to clean and harmonize LINCS data. This follow discussions about how data is served as RESTful APIs. Most importantly, the course covers computational methods including: data clustering, gene-set enrichment analysis, interactive data visualization, and supervised learning. Finally, we introduce crowdsourcing/citizen-science projects where students can work together in teams to extract expression signatures from public databases and then query such collections of signatures against LINCS data for predicting small molecules as potential therapeutics.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/32/7f3960281d11e6af76efc3fd0b0815/bd2k_course.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Icahn School of Medicine at Mount Sinai",
+    "course_url":"http://www.coursera.org/learn/bd2k-lincs",
+    "id":"coursera00132",
+    "name":"Big Data Science with the BD2K-LINCS Data Coordination and Integration Center"
+  },
+  {  
+    "description":"About this course: Process mining is the missing link between model-based process analysis and data-oriented analysis techniques. Through concrete data sets and easy to use software the course provides data science knowledge that can be applied directly to analyze and improve processes in a variety of domains.\n\nData science is the profession of the future, because organizations that are unable to use (big) data in a smart way will not survive. It is not sufficient to focus on data storage and data analysis. The data scientist also needs to relate data to process analysis. Process mining bridges the gap between traditional model-based process analysis (e.g., simulation and other business process management techniques) and data-centric analysis techniques such as machine learning and data mining. Process mining seeks the confrontation between event data (i.e., observed behavior) and process models (hand-made or discovered automatically). This technology has become available only recently, but it can be applied to any type of operational processes (organizations and systems). Example applications include: analyzing treatment processes in hospitals, improving customer service processes in a multinational, understanding the browsing behavior of customers using booking site, analyzing failures of a baggage handling system, and improving the user interface of an X-ray machine. All of these applications have in common that dynamic behavior needs to be related to process models. Hence, we refer to this as \"data science in action\".\n\nThe course explains the key analysis techniques in process mining. Participants will learn various process discovery algorithms. These can be used to automatically learn process models from raw event data. Various other process analysis techniques that use event data will be presented. Moreover, the course will provide easy-to-use software, real-life data sets, and practical skills to directly apply the theory in a variety of application domains.\n\nThis course starts with an overview of approaches and technologies that use event data to support decision making and business process (re)design. Then the course focuses on process mining as a bridge between data mining and business process modeling. The course is at an introductory level with various practical assignments.\n\nThe course covers the three main types of process mining.\n\n1. The first type of process mining is discovery. A discovery technique takes an event log and produces a process model without using any a-priori information. An example is the Alpha-algorithm that takes an event log and produces a process model (a Petri net) explaining the behavior recorded in the log.\n\n2. The second type of process mining is conformance. Here, an existing process model is compared with an event log of the same process. Conformance checking can be used to check if reality, as recorded in the log, conforms to the model and vice versa.\n\n3. The third type of process mining is enhancement. Here, the idea is to extend or improve an existing process model using information about the actual process recorded in some event log. Whereas conformance checking measures the alignment between model and reality, this third type of process mining aims at changing or extending the a-priori model. An example is the extension of a process model with performance information, e.g., showing bottlenecks. Process mining techniques can be used in an offline, but also online setting. The latter is known as operational support. An example is the detection of non-conformance at the moment the deviation actually takes place. Another example is time prediction for running cases, i.e., given a partially executed case the remaining processing time is estimated based on historic information of similar cases.\n\nProcess mining provides not only a bridge between data mining and business process management; it also helps to address the classical divide between \"business\" and \"IT\". Evidence-based business process management based on process mining helps to create a common ground for business process improvement and information systems development.\n\nThe course uses many examples using real-life event logs to illustrate the concepts and algorithms. After taking this course, one is able to run process mining projects and have a good understanding of the Business Process Intelligence field.\n\nAfter taking this course you should:\n- have a good understanding of Business Process Intelligence techniques (in particular process mining),\n- understand the role of Big Data in today\u00e2\u0080\u0099s society,\n- be able to relate process mining techniques to other analysis techniques such as simulation, business intelligence, data mining, machine learning, and verification,\n- be able to apply basic process discovery techniques to learn a process model from an event log (both manually and using tools),\n- be able to apply basic conformance checking techniques to compare event logs and process models (both manually and using tools),\n- be able to extend a process model with information extracted from the event log (e.g., show bottlenecks),\n- have a good understanding of the data needed to start a process mining project,\n- be able to characterize the questions that can be answered based on such event data,\n- explain how process mining can also be used for operational support (prediction and recommendation), and\n- be able to conduct process mining projects in a structured manner.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d7/68f1b0d03511e386f43790e29f1243/dreamstime_l_21055560.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Eindhoven University of Technology",
+    "course_url":"http://www.coursera.org/learn/process-mining",
+    "id":"coursera00133",
+    "name":"Process Mining: Data science in Action"
+  },
+  {  
+    "description":"About this course: Welcome to this course on Data Analytics for Lean Six Sigma. \n\nIn this course you will learn data analytics techniques that are typically useful within Lean Six Sigma improvement projects. At the end of this course you are able to analyse and interpret data gathered within such a project. You will be able to use Minitab to analyse the data. I will also briefly explain what Lean Six Sigma is.\n\nI will emphasize on use of data analytics tools and the interpretation of the outcome. I will use many different examples from actual Lean Six Sigma projects to illustrate all tools. I will not discuss any mathematical background. \n\nThe setting we chose for our data example is a Lean Six Sigma improvement project. However data analytics tools are very widely applicable. So you will find that you will learn techniques that you can use in a broader setting apart from improvement projects. \n\nI hope that you enjoy this course and good luck!\nDr. Inez Zwetsloot & the IBIS UvA team",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/80/038610d81b11e6a0bee5b62e3fe516/IBIS-vogel.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Amsterdam",
+    "course_url":"http://www.coursera.org/learn/data-analytics-for-lean-six-sigma",
+    "id":"coursera00134",
+    "name":"Data Analytics for Lean Six Sigma"
+  },
+  {  
+    "description":"About this course: Welcome to the Coursera specialization, From Data to Insights with Google Cloud Platform brought to you by the Google Cloud team. I\u00e2\u0080\u0099m Evan Jones (a data enthusiast) and I\u00e2\u0080\u0099m going to be your guide.\n\nThis first course in this specialization is Exploring and Preparing your Data. Here we will see what the common challenges faced by data analysts are and how to solve them with the big data tools on Google Cloud Platform. You\u00e2\u0080\u0099ll pick up some SQL along the way and become very familiar with using BigQuery and Cloud Dataprep to analyze and transform your datasets.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f1/5bcff0bd3211e7b954d3c17830d9b3/course-1.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Google Cloud",
+    "course_url":"http://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery",
+    "id":"coursera00135",
+    "name":"Exploring and Preparing your Data with BigQuery"
+  },
+  {  
+    "description":"About this course: Are you trying to understand data from your research? Learn how and when to conduct mediation, moderation, and conditional indirect effects analyses? Or, perhaps, how to theorize and test your theoretical models? If so, this is the course for you! We will walk you through the steps of conducting multilevel analyses using a real dataset and provide articles and templates designed to facilitate your learning. You'll leave with the tools you need to analyze and interpret the results of the datasets you collect as a researcher. \n\nBy the end of this course, you will understand the differences between mediation and moderation and between moderated mediation and mediated moderation models (conditional indirect effects), and the importance of multilevel analysis. Most important, you will be able to run mediation, moderation, conditional indirect effect and multilevel models and interpret the results.\n\nThis course is supported by the BRAD Lab at the Darden School of Business, which studies organizational behavior, marketing, business ethics, judgment and decision-making, behavioral operations, and entrepreneurship, among other areas. More: http://www.darden.virginia.edu/brad-lab/",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/59/6a70905dae11e780625d42734a9ade/course-logo.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Virginia",
+    "course_url":"http://www.coursera.org/learn/uva-darden-understanding-data-tools",
+    "id":"coursera00136",
+    "name":"Understanding Your Data: Analytical Tools"
+  },
+  {  
+    "description":"About this course: Relational Database Support for Data Warehouses is the third course in the Data Warehousing for Business Intelligence specialization. In this course, you'll use analytical elements of SQL for answering business intelligence questions. You'll learn features of relational database management systems for managing summary data commonly used in business intelligence reporting. Because of the importance and difficulty of managing implementations of data warehouses, we'll also delve into storage architectures, scalable parallel processing, data governance, and big data impacts.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/6522804d0a11e59bd777c2a1ef6a6e/Course-3---Logo.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Colorado System",
+    "course_url":"http://www.coursera.org/learn/dwrelational",
+    "id":"coursera00137",
+    "name":"Relational Database Support for Data Warehouses"
+  },
+  {  
+    "description":"About this course: Are you ready to close the loop on your Big Data skills? Do you want to apply all your knowledge you got from the previous courses in practice? Finally, in the Capstone project, you will integrate all the knowledge acquired earlier to build a real application leveraging the power of Big Data.\n\nYou will be given a task to combine data from different sources of different types (static distributed dataset, streaming data, SQL or NoSQL storage). Combined, this data will be used to build a predictive model for a financial market (as an example). First, you design a system from scratch and share it with your peers to get valuable feedback. Second, you can make it public, so get ready to receive the feedback from your service users. Real-world experience without any 3G-glasses or mock interviews.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/84/6873b0a14611e7a43d47ca6b50b400/Yandex-466_5.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Yandex",
+    "course_url":"http://www.coursera.org/learn/big-data-services",
+    "id":"coursera00138",
+    "name":"Big Data Services: Capstone Project"
+  },
+  {  
+    "description":"About this course: Have you ever heard about such technologies as HDFS, MapReduce, Spark? Always wanted to learn these new tools but missed concise starting material? Don\u00e2\u0080\u0099t miss this course either!\n \nIn this 6-week course you will:\n- learn some basic technologies of the modern Big Data landscape, namely: HDFS, MapReduce and Spark;\n- be guided both through systems internals and their applications;\n- learn about distributed file systems, why they exist and what function they serve;\n- grasp the MapReduce framework, a workhorse for many modern Big Data applications;\n- apply the framework to process texts and solve sample business cases;\n- learn about Spark, the next-generation computational framework;\n- build a strong understanding of Spark basic concepts;\n- develop skills to apply these tools to creating solutions in finance, social networks, telecommunications and many other fields.\n\nYour learning experience will be as close to real life as possible with the chance to evaluate your practical assignments on a real cluster. No mocking, a friendly considerate atmosphere to make the process of your learning smooth and enjoyable.\n \nGet ready to work with real datasets alongside with real masters!\n\nSpecial thanks to:\n- Prof. Mikhail Roytberg, APT dept., MIPT, who was the initial reviewer of the project, the supervisor and mentor of half of the BigData team. He was the one, who helped to get this show on the road.\n- Oleg Sukhoroslov (PhD, Senior Researcher at IITP RAS), who has been teaching  MapReduce, Hadoop  and friends since 2008. Now he is leading the infrastructure team.\n- Oleg Ivchenko (PhD student APT dept., MIPT), Pavel Akhtyamov (MSc. student at APT dept., MIPT) and Vladimir Kuznetsov (Assistant at P.G. Demidov Yaroslavl State University), superbrains who have developed and now maintain the infrastructure used for practical assignments in this course.\n- Asya Roitberg, Eugene Baulin, Marina Sudarikova. These people never sleep to babysit this course day and night, to make your learning experience productive, smooth and exciting.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9c/890410a14511e792ff9736c18c3b68/Yandex-466_2.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Yandex",
+    "course_url":"http://www.coursera.org/learn/big-data-essentials",
+    "id":"coursera00139",
+    "name":"Big Data Essentials: HDFS, MapReduce and Spark RDD"
+  },
+  {  
+    "description":"About this course: This course will introduce the learner to information visualization basics, with a focus on reporting and charting using the matplotlib library. The course will start with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. The second week will focus on the technology used to make visualizations in python, matplotlib, and introduce users to best practices when creating basic charts and how to realize design decisions in the framework. The third week will describe the gamut of functionality available in matplotlib, and demonstrate a variety of basic statistical charts helping learners to identify when a particular method is good for a particular problem. The course will end with a discussion of other forms of structuring and visualizing data. \n\nThis course should be taken after Introduction to Data Science in Python and before the remainder of the Applied Data Science with Python courses: Applied Machine Learning in Python, Applied Text Mining in Python, and Applied Social Network Analysis in Python.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/06/02ea60484011e69ea5d7dd7cfcafaa/python_datascience_thumbnail_datarepresentation_1x1.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Michigan",
+    "course_url":"http://www.coursera.org/learn/python-plotting",
+    "id":"coursera00140",
+    "name":"Applied Plotting, Charting & Data Representation in Python"
+  },
+  {  
+    "description":"About this course: This course introduces the Bayesian approach to statistics, starting with the concept of probability and moving to the analysis of data. We will learn about the philosophy of the Bayesian approach as well as how to implement it for common types of data. We will compare the Bayesian approach to the more commonly-taught Frequentist approach, and see some of the benefits of the Bayesian approach. In particular, the Bayesian approach allows for better accounting of uncertainty, results that have more intuitive and interpretable meaning, and more explicit statements of assumptions. This course combines lecture videos, computer demonstrations, readings, exercises, and discussion boards to create an active learning experience. For computing, you have the choice of using Microsoft Excel or the open-source, freely available statistical package R, with equivalent content for both options. The lectures provide some of the basic mathematical development as well as explanations of philosophy and interpretation. Completion of this course will give you an understanding of the concepts of the Bayesian approach, understanding the key differences between Bayesian and Frequentist approaches, and the ability to do basic data analyses.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9f/2e5c7029f911e6a54019be03e7925b/GammaUpdate.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, Santa Cruz",
+    "course_url":"http://www.coursera.org/learn/bayesian-statistics",
+    "id":"coursera00141",
+    "name":"Bayesian Statistics: From Concept to Data Analysis"
+  },
+  {  
+    "description":"About this course: In the capstone, students will build a series of applications to retrieve, process and visualize data using Python.   The projects will involve all the elements of the specialization.  In the first part of the capstone, students will do some visualizations to become familiar with the technologies in use and then will pursue their own project to visualize some other data that they have or can find.  Chapters 15 and 16 from the book \u00e2\u0080\u009cPython for Everybody\u00e2\u0080\u009d will serve as the backbone for the capstone. This course covers Python 3.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/05/0ce7f00f7d11e79768fb52f584cd0d/python4e_capstone_1x1.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Michigan",
+    "course_url":"http://www.coursera.org/learn/python-data-visualization",
+    "id":"coursera00142",
+    "name":"Capstone: Retrieving, Processing, and Visualizing Data with Python"
+  },
+  {  
+    "description":"About this course: The primary topics in this part of the specialization are: data structures (heaps, balanced search trees, hash tables, bloom filters), graph primitives (applications of breadth-first and depth-first search, connectivity, shortest paths), and their applications (ranging from deduplication to social network analysis).",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/21/54dd30f05e11e59bf9d905b70dcbd9/cs161logo2.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Stanford University",
+    "course_url":"http://www.coursera.org/learn/algorithms-graphs-data-structures",
+    "id":"coursera00143",
+    "name":"Graph Search, Shortest Paths, and Data Structures"
+  },
+  {  
+    "description":"About this course: Build on the software engineering skills you learned in \u00e2\u0080\u009cJava Programming: Solving Problems with Software\u00e2\u0080\u009d by learning new data structures. Use these data structures to build more complex programs that use Java\u00e2\u0080\u0099s object-oriented features. At the end of the course you will write an encryption program and a program to break your encryption algorithm.\n\nAfter completing this course, you will be able to:\n1. Read and write data from/to files;\n2. Solve problems involving data files;\n3. Perform quantitative analyses of data (e.g., finding maximums, minimums, averages); \n4. Store and manipulate data in an array or ArrayList;\n5. Combine multiple classes to solve larger problems;\n6. Use iterables and collections (including maps) in Java.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/45/3b4810378111e5aec5ffdf45dcbb85/work-731198_1280.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Duke University",
+    "course_url":"http://www.coursera.org/learn/java-programming-arrays-lists-data",
+    "id":"coursera00144",
+    "name":"Java Programming: Arrays, Lists, and Structured Data"
+  },
+  {  
+    "description":"About this course: Machine learning is transforming the world around us. To become successful, you\u00e2\u0080\u0099d better know what kinds of problems can be solved with machine learning, and how they can be solved. Don\u00e2\u0080\u0099t know where to start? The answer is one button away.\n \nDuring this course you will:\n- Identify practical problems which can be solved with machine learning\n- Build, tune and apply linear models with Spark MLLib\n- Understand methods of text processing\n- Fit decision trees and boost them with ensemble learning\n- Construct your own recommender system.\n \nAs a practical assignment, you will \n- build and apply linear models for classification and regression tasks; \n- learn how to work with texts; \n- automatically construct decision trees and improve their performance with ensemble learning; \n- finally, you will build your own recommender system!\n\nWith these skills, you will be able to tackle many practical machine learning tasks.\n \nWe provide the tools, you choose the place of application to make this world of machines more intelligent.\n\nSpecial thanks to:\n- Prof. Mikhail Roytberg, APT dept., MIPT, who was the initial reviewer of the project, the supervisor and mentor of half of the BigData team. He was the one, who helped to get this show on the road.\n- Oleg Sukhoroslov (PhD, Senior Researcher at IITP RAS), who has been teaching  MapReduce, Hadoop and friends since 2008. Now he is leading the infrastructure team.\n- Oleg Ivchenko (PhD student APT dept., MIPT), Pavel Akhtyamov (MSc. student at APT dept., MIPT) and Vladimir Kuznetsov (Assistant at P.G. Demidov Yaroslavl State University), superbrains who have developed and now maintain the infrastructure used for practical assignments in this course.\n- Asya Roitberg, Eugene Baulin, Marina Sudarikova. These people never sleep to babysit this course day and night, to make your learning experience productive, smooth and exciting.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5b/7d7220a14611e7bcc3e5d73bb99b6b/Yandex-466_1.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Yandex",
+    "course_url":"http://www.coursera.org/learn/machine-learning-applications-big-data",
+    "id":"coursera00145",
+    "name":"Big Data Applications: Machine Learning at Scale"
+  },
+  {  
+    "description":"About this course: This 1-week, accelerated on-demand course builds upon Google Cloud Platform Big Data and Machine Learning Fundamentals. Through a combination of instructor-led presentations, demonstrations, and hands-on labs, students learn how to carry out no-ops data warehousing, analysis and pipeline processing.\n\nPrerequisites:\n\u00e2\u0080\u00a2 Google Cloud Platform Big Data and Machine Learning Fundamentals\n\u00e2\u0080\u00a2 Experience using a SQL-like query language to analyze data\n\u00e2\u0080\u00a2 Knowledge of either Python or Java\n\nNotes:\n\u00e2\u0080\u00a2 You'll need a Google/Gmail account and a credit card or bank account to sign up for the Google Cloud Platform free trial (Google is currently blocked in China).\n\u00e2\u0080\u00a2 There is a known issue with certain EU countries where individuals are not able to sign up, but you may sign up as \"business\" status and intend to see a potential economic benefit from the trial. More details at: https://support.google.com/cloud/answer/6090602\n\u00e2\u0080\u00a2 More Google Cloud Platform free trial FAQs are available at: https://cloud.google.com/free-trial/",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2f/11eaf0593d11e7bbf6470fbff8981f/Big-Data.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Google Cloud",
+    "course_url":"http://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp",
+    "id":"coursera00146",
+    "name":"Serverless Data Analysis with Google BigQuery and Cloud Dataflow"
+  },
+  {  
+    "description":"About this course: You have most likely heard about Clouds and Big Data before, and already know how significantly important they are and will be in the future.\n\nCloud Computing enables us to easily use software as well as processing platforms and computing infrastructure (that are not equipped on our computers and smartphones) from any location through Internet services. Big Data provides us with new intelligence from massive data sets, which can help in situation/condition/status analysis and decision making. In addition, CDN is the best technology to provide information/contents to Internet users in the quickest and most efficient way. Therefore, the information/software/database/contents from Clouds and Big Data centers can be very effectively supported by CDNs. This is why these lectures are combined together in this course.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ca/4dde0023bd11e58b54d149a7ffa009/cloud-logo.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Yonsei University",
+    "course_url":"http://www.coursera.org/learn/big-data-cloud-computing-cdn",
+    "id":"coursera00147",
+    "name":"Big Data, Cloud Computing, & CDN Emerging Technologies"
+  },
+  {  
+    "description":"About this course: The value of IoT can be found within the analysis of data gathered from the system under observation, where insights gained can have direct impact on business and operational transformation.   Through analysis data correlation, patterns, trends, and other insight are discovered.  Insight leads to better communication between stakeholders, or actionable insights, which can be used to raise alerts or send commands, back to IoT devices.\nWith a focus on the topic of Exploratory Data Analysis, the course provides an in-depth look at mathematical foundations of basic statistical measures, and how they can be used in conjunction with advanced charting libraries to make use of the world\u00e2\u0080\u0099s best pattern recognition system \u00e2\u0080\u0093 the human brain.  Learn how to work with the data, and depict it in ways that support visual inspections, and derive to inferences about the data. Identify interesting characteristics, patterns, trends, deviations or inconsistencies, and potential outliers.  The goal is that you are able to implement end-to-end analytic workflows at scale, from data acquisition to actionable insights. \nThrough a series of lectures and exercises students get the needed skills to perform such analysis on any data, although we clearly focus on IoT Sensor Event Data.\n\nAfter completing this course, you will be able to:\n\u00e2\u0080\u00a2\tDescribe how basic statistical measures, are used to reveal  patterns within the data \n\u00e2\u0080\u00a2\tRecognize data characteristics, patterns, trends, deviations or inconsistencies, and potential outliers.\n\u00e2\u0080\u00a2\tIdentify useful techniques for working with big data such as dimension reduction and feature selection methods \n\u00e2\u0080\u00a2\tUse advanced tools and charting libraries to:\n      o\tAutomatically store data from IoT device(s) \n      o\timprove efficiency of analysis of big-data with partitioning and parallel analysis \n      o\tVisualize the data in an number of 2D and 3D formats (Box Plot, Run Chart, Scatter Plot, Pareto Chart, and Multidimensional Scaling)\n\nFor successful completion of the course, the following prerequisites are recommended: \n\u00e2\u0080\u00a2\tBasic programming skills in any programming language (python preferred)\n\u00e2\u0080\u00a2\tA good grasp of basic algebra and algebraic equations\n\u00e2\u0080\u00a2\t(optional) \u00e2\u0080\u009cA developer's guide to the Internet of Things (IoT)\u00e2\u0080\u009d - a Coursera course\n\u00e2\u0080\u00a2\tBasic SQL is a plus\n\nIn order to complete this course, the following technologies will be used:\n(These technologies are introduced in the course as necessary so no previous knowledge is required.)\n\u00e2\u0080\u00a2\tIBM Watson IoT Platform (MQTT Message Broker as a Service, Device Management and Operational Rule Engine)\n\u00e2\u0080\u00a2\tIBM Bluemix (Open Standard Platform Cloud)\n\u00e2\u0080\u00a2\tNode-Red\n\u00e2\u0080\u00a2\tCloudant NoSQL (Apache CouchDB)\n\u00e2\u0080\u00a2\tApacheSpark\n\u00e2\u0080\u00a2\tLanguages: R, Scala and Python (focus on Python)\n\nThis course takes four weeks, 4-6h per week",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/64/66d360bb3511e6bfdaf131ed16994c/coursera-data-science-thumbnail.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"IBM",
+    "course_url":"http://www.coursera.org/learn/exploring-visualizing-iot-data",
+    "id":"coursera00148",
+    "name":"A developer's guide to Exploring and Visualizing IoT Data"
+  },
+  {  
+    "description":"About this course: Introduces to the commands that you need to manage and analyze directories, files, and large sets of genomic data. This is the fourth course in the Genomic Big Data Science Specialization from Johns Hopkins University.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/66/2d3880d30e11e48c0313d1298e5658/command-01.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/learn/genomic-tools",
+    "id":"coursera00149",
+    "name":"Command Line Tools for Genomic Data Science"
+  },
+  {  
+    "description":"About this course: From the practical point of view, data freshness is of utmost importance. Advertisements based on the recent users\u00e2\u0080\u0099 activity are ten times more popular. Delays in traffic jam prediction cost extra time for customers and make them angry. Delays in tsunami prediction can cost people\u00e2\u0080\u0099s lives.\n\nThe first half of the course is devoted to streaming frameworks that allow building continuous data applications to process massive amounts of data within seconds. You will learn techniques, technologies and algorithms suitable for building near real-time applications.\n\nIn the second part of the course, you will learn how to integrate these technologies into your applications. We will explore common strategies for improving data freshness in web applications (by building your own sample application on Flask). As a bonus, you will learn about NoSQL databases, how to work with them and when to use them instead of traditional RDBMS systems.\n\nAre you ready for the journey full of research surprises? Jump in!",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6c/3ed810a14611e78aa07dc9a47a1790/Yandex-466_4.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Yandex",
+    "course_url":"http://www.coursera.org/learn/real-time-streaming-big-data",
+    "id":"coursera00150",
+    "name":"Big Data Applications: Real-Time Streaming"
+  },
+  {  
+    "description":"About this course: This course provides an analytical framework to help you evaluate key problems in a structured fashion and will equip you with tools to better manage the uncertainties that pervade and complicate business processes. Specifically, you will be introduced to statistics and how to summarize data and learn concepts of frequency, normal distribution, statistical studies, sampling, and confidence intervals.\n\nWhile you will be introduced to some of the science of what is being taught, the focus will be on applying the methodologies. This will be accomplished through the use of Excel and data sets from many different disciplines, allowing you to see the use of statistics in very diverse settings. The course will focus not only on explaining these concepts, but also understanding the meaning of the results obtained.\n\nUpon successful completion of this course, you will be able to:\n\n\u00e2\u0080\u00a2\tSummarize large data sets in graphical, tabular, and numerical forms.\n\u00e2\u0080\u00a2\tUnderstand the significance of proper sampling and why you can rely on sample information.\n\u00e2\u0080\u00a2\tUnderstand why normal distribution can be used in so many settings.\n\u00e2\u0080\u00a2\tUse sample information to infer about the population with a certain level of confidence about the accuracy of the estimations.\n\u00e2\u0080\u00a2\tUse Excel for statistical analysis.\n\nThis course is part of the iMBA offered by the University of Illinois, a flexible, fully-accredited online MBA at an incredibly competitive price. For more information, please see the Resource page in this course and onlinemba.illinois.edu.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e5/b9d030a03c11e5a2fc596d6c60d86f/iMBA_MEABA_Icon_BusinessStatisticsDataAnalysisAndDecisionMaking.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Illinois at Urbana-Champaign",
+    "course_url":"http://www.coursera.org/learn/business-data",
+    "id":"coursera00151",
+    "name":"Exploring and Producing Data for Business Decision Making"
+  },
+  {  
+    "description":"About this course: This course presents research conducted to increase our understanding of how data collection decisions affect survey errors. This is not a \u00e2\u0080\u009chow\u00e2\u0080\u0093to-do-it\u00e2\u0080\u009d course on data collection, but instead reviews the literature on survey design decisions and data quality in order to sensitize learners to how alternative survey designs might impact the data obtained from those surveys.\n\nThe course reviews a range of survey data collection methods that are both interview-based (face-to-face and telephone) and self-administered (paper questionnaires that are mailed and those that are implemented online, i.e. as web surveys). Mixed mode designs are also covered as well as several hybrid modes for collecting sensitive information e.g., self-administering the sensitive questions in what is otherwise a face-to-face interview. The course also covers newer methods such as mobile web and SMS (text message) interviews, and examines alternative data sources such as social media. It concentrates on the impact these techniques have on the quality of survey data, including error from measurement, nonresponse, and coverage, and assesses the tradeoffs between these error sources when researchers choose a mode or survey design.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c2/3d4ab0f28f11e596d1a720557c82de/datacollection_thumbnail_4.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of Michigan",
+    "course_url":"http://www.coursera.org/learn/data-collection-methods",
+    "id":"coursera00152",
+    "name":"Data Collection: Online, Telephone and Face-to-face"
+  },
+
+  {  
+    "description":"Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth. This specialization is an introduction to algorithms for learners with at least a little programming experience. The specialization is rigorous but emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details. After completing this specialization, you will be well-positioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientists.\n\nAbout the instructor: Tim Roughgarden has been a professor in the Computer Science Department at Stanford University since 2004. He has taught and published extensively on the subject of algorithms and their applications.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-newsletter/degrees/mcsds.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=scale",
+    "courseSet":[  
+      {  
+        "id":"coursera00153",
+        "name":"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+        "description":"About the CourseThe primary topics in this part of the specialization are: asymptotic (\"Big-oh\")  notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized algorithms (QuickSort, con... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00154",
+        "name":"Graph Search, Shortest Paths, and Data Structures",
+        "description":"About the CourseThe primary topics in this part of the specialization are: data structures (heaps,  balanced search trees, hash tables, bloom filters), graph primitives (applications of breadth-first and depth-first search, connectivity, shortest paths), a... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00155",
+        "name":"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
+        "description":"About the CourseThe primary topics in this part of the specialization are: greedy algorithms (scheduling, minimum spanning trees, clustering, Huffman codes) and dynamic programming (knapsack, sequence alignment, op... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00156",
+        "name":"Shortest Paths Revisited, NP-Complete Problems and What To Do About Them",
+        "description":"About the CourseThe primary topics in this part of the specialization are: shortest paths (Bellman-Ford,  Floyd-Warshall, Johnson), NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems (ana... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "specialization":false,
+    "course_url":"http://www.coursera.org/specializations/algorithms",
+    "name":"Master of Computer Science in Data Science (MCS-DS)"
+  },
+  {  
+    "name":"Algorithms, Part I",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/algs4partI/large-icon.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[  
+      {  
+        "id":"coursera00157",
+        "name":"Algorithmic Toolbox",
+        "description":"About the CourseThe course covers basic algorithmic techniques and ideas for computational problems  arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00158",
+        "name":"Data Structures",
+        "description":"About the CourseA good algorithm usually comes together with a set of good data structures that allow  the algorithm to manipulate the data efficiently. In this course, we consider the common data structures that are used in various computational problems. You wi... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00159",
+        "name":"Algorithms on Graphs",
+        "description":"About the CourseIf you have ever used a navigation service to find optimal route and estimate time to  destination, you've used algorithms on graphs. Graphs arise in various real-world situations as there are road networks, computer networks and, most recently... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00160",
+        "name":"Algorithms on Strings",
+        "description":"About the CourseWorld and internet is full of textual information. We search for information using  textual queries, we read websites, books, e-mails. All those are strings from the point of view of computer science. To make sense of all that information and mak... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00161",
+        "name":"Advanced Algorithms and Complexity",
+        "description":"About the CourseYou've learned the basic algorithms now and are ready to step into the area of more  complex problems and algorithms to solve them. Advanced algorithms build upon basic ones and use new ideas. We will start with networks flows which are used in more... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00162",
+        "name":"Genome Assembly Programming Challenge",
+        "description":"About the Capstone ProjectIn Spring 2011, thousands of people in Germany were hospitalized with a deadly disease  that started as food poisoning with bloody diarrhea and often led to kidney failure. It was the beginning of the deadliest outbreak in recent history, caused by a my... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"This specialization is a mix of theory and practice: you will learn algorithmic techniques for solving various computational problems and will implement about 100 algorithmic coding problems in a programming language of your choice. No other online course in Algorithms even comes close to offering you a wealth of programming challenges that you may face at your next job interview. To prepare you, we invested over 3000 hours into designing our challenges as an alternative to multiple choice questions that you usually find in MOOCs. Sorry, we do not believe in multiple choice questions when it comes to learning algorithms...or anything else in computer science! For each algorithm you develop and implement, we designed multiple tests to check its correctness and running time \u00e2\u0080\u0094 you will have to debug your programs without even knowing what these tests are! It may sound difficult, but we believe it is the only way to truly understand how the algorithms work and to master the art of programming. The specialization contains two real-world projects: Big Networks and Genome Assembly. You will analyze both road networks and social networks and will learn how to compute the shortest route between New York and San Francisco (1000 times faster than the standard shortest path algorithms!) Afterwards, you will learn how to assemble genomes from millions of short fragments of DNA and how assembly algorithms fuel recent developments in personalized medicine.",
+    "provenance":"Princeton University",
+    "course_url":"http://www.coursera.org/specializations/data-structures-algorithms",
+    "specialization":false
+  },
+  {  
+    "name":"Algorithms, Part II",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f5/01f5f0b5c511e692bc7348c025f494/Algorithms-artwork.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "courseSet":[  
+      {  
+        "id":"coursera00163",
+        "name":"Introduction to Recommender Systems:  Non-Personalized and Content-Based",
+        "description":"About the CourseThis course, which is designed to serve as the first course in the Recommender Systems  specialization, introduces the concept of recommender systems, reviews several examples in detail, and leads you through non-personalized recommendation using... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00164",
+        "name":"Nearest Neighbor Collaborative Filtering",
+        "description":"About the CourseIn this course, you will learn the fundamental techniques for making personalized  recommendations through nearest-neighbor techniques.  First you will learn user-user collaborative filtering, an algorithm that identifies other people with simila... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00165",
+        "name":"Recommender Systems:  Evaluation and Metrics",
+        "description":"About the CourseIn this course you will learn how to evaluate recommender systems.  You will gain  familiarity with several families of metrics, including ones to measure prediction accuracy, rank accuracy, decision-support, and other factors such as diversity,... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00166",
+        "name":"Matrix Factorization and Advanced Techniques",
+        "description":"About the CourseIn this course you will learn a variety of matrix factorization and hybrid machine  learning techniques for recommender systems.  Starting with basic matrix factorization, you will understand both the intuition and the practical details of building rec... moreYou can choose to take this course only. Learn more."
+      },
+      {  
+        "id":"coursera00167",
+        "name":"Recommender Systems Capstone",
+        "description":"About the Capstone ProjectThis capstone project course for the Recommender Systems Specialization brings together  everything you've learned about recommender systems algorithms and evaluation into a comprehensive recommender analysis and design project.  You will be given a ca... moreYou can choose to take this course only. Learn more."
+      }
+    ],
+    "description":"This Specialization covers all the fundamental techniques in recommender systems, from non-personalized and project-association recommenders through content-based and collaborative techniques. Designed to serve both the data mining expert and the data literate marketing professional, the courses offer interactive, spreadsheet-based exercises to master different algorithms along with an honors track where learners can go into greater depth using the LensKit open source toolkit. A Capstone Project brings together the course material with a realistic recommender design and analysis project.",
+    "provenance":"Princeton University",
+    "course_url":"http://www.coursera.org/specializations/recommender-systems",
+    "specialization":false
+  },
+  {  
+    "description":"About this course: This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/5e/41de00794811e682cb918e3e406e4d/cs161logo.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":true,
+    "provenance":"Stanford University",
+    "course_url":"http://www.coursera.org/learn/algorithms-part1",
+    "id":"coursera00168",
+    "name":"Algorithms"
+  },
+  {  
+    "description":"About this course: This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/2a/34a150d9ad11e5bd22cb7d7d7686df/logo3.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":true,
+    "provenance":"University of California, San Diego, Higher School of Economics",
+    "course_url":"http://www.coursera.org/learn/algorithms-part2",
+    "id":"coursera00169",
+    "name":"Data Structures and Algorithms"
+  },
+  {  
+    "description":"About this course: This course teaches a calculus that enables precise quantitative predictions of large combinatorial structures. In addition, this course covers generating functions and real asymptotics and then introduces the symbolic method in the context of applications in the analysis of algorithms and basic structures such as permutations, trees, strings, words, and mappings.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b8/a99c90ef60cd3677af72de4b128ec8/aofa-logo.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Princeton University",
+    "course_url":"http://www.coursera.org/learn/analysis-of-algorithms",
+    "id":"coursera00170",
+    "name":"Analysis of Algorithms"
+  },
+  {  
+    "description":"About this course: The primary topics in this part of the specialization are: asymptotic (\"Big-oh\") notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized algorithms (QuickSort, contraction algorithm for min cuts).",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/21/54dd30f05e11e59bf9d905b70dcbd9/cs161logo2.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Stanford University",
+    "course_url":"http://www.coursera.org/learn/algorithms-divide-conquer",
+    "id":"coursera00171",
+    "name":"Divide and Conquer, Sorting and Searching, and Randomized Algorithms"
+  },
+  {  
+    "description":"About this course: Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.\n\nThis course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Stanford University",
+    "course_url":"http://www.coursera.org/learn/machine-learning",
+    "id":"coursera00172",
+    "name":"Machine Learning"
+  },
+  {  
+    "description":"About this course: This course is for experienced C programmers who want to program in C++. The examples and exercises require a basic understanding of algorithms and object-oriented software.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5a/9714c78f48e904da8812795fe243c9/Cplusplus_pic.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, Santa Cruz",
+    "course_url":"http://www.coursera.org/learn/c-plus-plus-a",
+    "id":"coursera00173",
+    "name":"C++ For C Programmers, Part A"
+  },
+  {  
+    "description":"About this course: The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/7d/e0fe705a8b11e6a17cf572cb0ff9c2/twenty20_d152e808-3478-4ebd-9f92-0088c6afa41a.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":true,
+    "provenance":"University of Minnesota",
+    "course_url":"http://www.coursera.org/learn/algorithmic-toolbox",
+    "id":"coursera00174",
+    "name":"Recommender Systems"
+  },
+  {  
+    "description":"About this course: If you have ever used a navigation service to find optimal route and estimate time to destination, you've used algorithms on graphs. Graphs arise in various real-world situations as there are road networks, computer networks and, most recently, social networks! If you're looking for the fastest time to get to work, cheapest way to connect set of computers into a network or efficient algorithm to automatically find communities and opinion leaders in Facebook, you're going to work with graphs and algorithms on graphs.\n\nIn this course, you will first learn what a graph is and what are some of the most important properties. Then you'll learn several ways to traverse graphs and how you can do useful things while traversing the graph in some order. We will then talk about shortest paths algorithms \u00e2\u0080\u0094 from the basic ones to those which open door for 1000000 times faster algorithms used in Google Maps and other navigational services. You will use these algorithms if you choose to work on our Fast Shortest Routes industrial capstone project. We will finish with minimum spanning trees which are used to plan road, telephone and computer networks and also find applications in clustering and approximate algorithms.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fb/434400d9ac11e5afbfa359f34ae5f0/logo3.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, San Diego, Higher School of Economics",
+    "course_url":"http://www.coursera.org/learn/algorithms-on-graphs",
+    "id":"coursera00175",
+    "name":"Algorithmic Toolbox"
+  },
+  {  
+    "description":"About this course: World and internet is full of textual information. We search for information using textual queries, we read websites, books, e-mails. All those are strings from the point of view of computer science. To make sense of all that information and make search efficient, search engines use many string algorithms. Moreover, the emerging field of personalized medicine uses many search algorithms to find disease-causing mutations in the human genome.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/17/149570d9ae11e5bd22cb7d7d7686df/logo3.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, San Diego, Higher School of Economics",
+    "course_url":"http://www.coursera.org/learn/algorithms-on-strings",
+    "id":"coursera00176",
+    "name":"Algorithms on Graphs"
+  },
+  {  
+    "description":"About this course: This course covers two of the seven trading strategies that work in emerging markets. The seven  include strategies based on momentum, momentum crashes, price reversal, persistence of earnings, quality of earnings, underlying business growth, behavioral biases and textual analysis of business reports about the company.\n\nIn the first part of the course, you will learn how to read an academic paper. What parts to pay attention to and what parts to skim through will be discussed here. For every strategy, first you will be introduced to the original research and then how to implement the strategy.\n\nThe first strategy, Piotroski F -score will be discussed in detail. You will be taught how to calculate the F - Score and how to use this score in a strategy. This is followed by the next strategy, Post earnings announcement drift (PEAD).",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1b/5aa390d9ae11e5afbfa359f34ae5f0/logo3.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, San Diego, Higher School of Economics",
+    "course_url":"http://www.coursera.org/learn/trading-algorithm",
+    "id":"coursera00177",
+    "name":"Algorithms on Strings"
+  },
+  {  
+    "description":"About this course: You've learned the basic algorithms now and are ready to step into the area of more complex problems and algorithms to solve them. Advanced algorithms build upon basic ones and use new ideas. We will start with networks flows which are used in more typical applications such as optimal matchings, finding disjoint paths and flight scheduling as well as more surprising ones like image segmentation in computer vision. We then proceed to linear programming with applications in optimizing budget allocation, portfolio optimization, finding the cheapest diet satisfying all requirements and many others. Next we discuss inherently hard problems for which no exact good solutions are known (and not likely to be found) and how to solve them in practice. We finish with a soft introduction to streaming algorithms that are heavily used in Big Data processing. Such algorithms are usually designed to be able to process huge datasets without being able even to store a dataset.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6b/c1cd306f8711e69fa9bdef79eea7c1/Emerging-markets.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Indian School of Business",
+    "course_url":"http://www.coursera.org/learn/advanced-algorithms-and-complexity",
+    "id":"coursera00178",
+    "name":"Trading Algorithms"
+  },
+  {  
+    "description":"About this course: Experienced Computer Scientists analyze and solve computational problems at a level of abstraction that is beyond that of any particular programming language.  This two-part course builds on the principles that you learned in our Principles of Computing course and is designed to train students in the mathematical concepts and process of \"Algorithmic Thinking\", allowing them to build simpler, more efficient solutions to real-world computational problems.\n\nIn part 1 of this course, we will study the notion of algorithmic efficiency and consider its application to several problems from graph theory.  As the central part of the course, students will implement several important graph algorithms in Python and then use these algorithms to analyze two large real-world data sets.  The main focus of these tasks is to understand interaction between the algorithms and the structure of the data sets being analyzed by these algorithms.\n\nRecommended Background - Students should be comfortable writing intermediate size  (300+ line) programs in Python and have a basic understanding of searching, sorting, and recursion. Students should also have a solid math background that includes algebra, pre-calculus and a familiarity with the math concepts covered in \"Principles of Computing\".",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0f/6df730d9ae11e5bd22cb7d7d7686df/logo3.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"University of California, San Diego, Higher School of Economics",
+    "course_url":"http://www.coursera.org/learn/algorithmic-thinking-1",
+    "id":"coursera00179",
+    "name":"Advanced Algorithms and Complexity"
+  },
+  {  
+    "description":"About this course: In this course you will learn a whole lot of modern physics (classical and quantum) from basic computer programs that you will download, generalize, or write from scratch, discuss, and then hand in. Join in if you are curious (but not necessarily knowledgeable) about algorithms, and about the deep insights into science that you can obtain by the algorithmic approach.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6f/41d6809dd811e493f6dbbf8ef7f967/AlgTh_logo.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Rice University",
+    "course_url":"http://www.coursera.org/learn/statistical-mechanics",
+    "id":"coursera00180",
+    "name":"Algorithmic Thinking (Part 1)"
+  },
+  {  
+    "description":"About this course: We will learn computational methods -- algorithms and data structures -- for analyzing DNA sequencing data. We will learn a little about DNA, genomics, and how DNA sequencing is used.  We will use Python to implement key algorithms and data structures and to analyze real genomes and DNA sequencing datasets.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/13/8c315232b22ca1039266092dfb11dc/mooc_statistical_mechanics_2609.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"cole normale suprieure",
+    "course_url":"http://www.coursera.org/learn/dna-sequencing",
+    "id":"coursera00181",
+    "name":"Statistical Mechanics: Algorithms and Computations"
+  },
+  {  
+    "description":"About this course: This course will provide back test results for all the strategies in developed and emerging markets. The learner will also be taught scientific ways of back testing without succumbing to either look ahead (or) survival bias.\n\nYou will learn various methods of building a robust back testing system for the strategies discussed in the previous course. You will be taught how to differentiate between mere data mining and results based on solid empirical or theoretical foundation. Next, you will learn the ways and means of back testing the results and subjecting the back test results to stress tests. After which, you will learn the various ways in which transaction costs and other frictions could be incorporated in the back testing algorithm. Finally, you will learn techniques for measuring a strategies' performance and the concept of risk adjusted return. You will use some of the famous measures for risk adjusted returns such as Sharpe ratio, Treynor's Ratio and Jenson's Alpha. You will see how to pick an appropriate benchmark for a proposed fund.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0c/727630056211e587470dc112902bf4/genomics_algorithms.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Johns Hopkins University",
+    "course_url":"http://www.coursera.org/learn/advanced-trading-algorithms",
+    "id":"coursera00182",
+    "name":"Algorithms for DNA Sequencing"
+  },
+  {  
+    "description":"About this course: Experienced Computer Scientists analyze and solve computational problems at a level of abstraction that is beyond that of any particular programming language.  This two-part class is designed to train students in the mathematical concepts and process of \"Algorithmic Thinking\", allowing them to build simpler, more efficient solutions to computational problems.\n\nIn part 2 of this course, we will study advanced algorithmic techniques such as divide-and-conquer and dynamic programming.  As the central part of the course, students will implement several algorithms in Python that incorporate these techniques and then use these algorithms to analyze two large real-world data sets.  The main focus of these tasks is to understand interaction between the algorithms and the structure of the data sets being analyzed by these algorithms.\n\nOnce students have completed this class, they will have both the mathematical and programming skills to analyze, design, and program solutions to a wide range of computational problems.  While this class will use Python as its vehicle of choice to practice Algorithmic Thinking, the concepts that you will learn in this class transcend any particular programming language.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/27/bace306f8b11e6934e6f54967b1a98/Back-Testing.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Indian School of Business",
+    "course_url":"http://www.coursera.org/learn/algorithmic-thinking-2",
+    "id":"coursera00183",
+    "name":"Advanced Trading Algorithms"
+  },
+  {  
+    "description":"About this course: Approximation algorithms, Part I\n\nHow efficiently can you pack objects into a minimum number of boxes? How well can you cluster nodes so as to cheaply separate a network into components around a few centers? These are examples of NP-hard combinatorial optimization problems. It is most likely impossible to solve such problems efficiently, so our aim is to give an approximate solution that can be computed in polynomial time and that at the same time has provable guarantees on its cost relative to the optimum. \n\nThis course assumes knowledge of a standard undergraduate Algorithms course, and particularly emphasizes algorithms that can be designed using linear programming, a favorite and amazingly successful technique in this area. By taking this course, you will be exposed to a range of problems at the foundations of theoretical computer science, and to powerful design and analysis techniques. Upon completion, you will be able to recognize, when faced with a new combinatorial optimization problem, whether it is close to one of a few known basic problems, and will be able to design linear programming relaxations and use randomized rounding to attempt to solve your own problem. The course content and in particular the homework is of a theoretical nature without any programming assignments.  \n\nThis is the first of a two-part course on Approximation Algorithms.",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/7d/dcda009dd811e48cd753bdca180a26/AlgTh_logo.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "specialization":false,
+    "provenance":"Rice University",
+    "course_url":"http://www.coursera.org/learn/approximation-algorithms-part-1",
+    "id":"coursera00184",
+    "name":"Algorithmic Thinking (Part 2)"
+  },
+  {  
+    "provenance":"cole normale suprieure",
+    "name":"Approximation Algorithms Part I",
+    "img":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/97/f13fb03fec11e5a811a5a85ed92660/number5.png?auto=format%2Ccompress&dpr=1&w=100&h=100&fit=fill&bg=FFF",
+    "id":"coursera00185",
+    "specialization":false
+  },
 ]
