@@ -18,11 +18,11 @@ _x_query = {
 content = []
 id = 0
 # 4-skip 5
-for j in range(11, 42):
+for j in range(0, 9):
     url = "https://www.coursera.org/courses?languages=en&query=web&start=" + str(j * 20)
     print url
     browser = webdriver.Firefox()
-    browser.set_page_load_timeout(60)
+    browser.set_page_load_timeout(30)
     browser.get(url)
     time.sleep(20)
     # each page has 20 courses
@@ -61,62 +61,63 @@ for j in range(11, 42):
     urls = [object['url'].encode('ascii','ignore') for object in url_list["itemListElement"]]
     urls = ["http:/" + url[4:] for url in urls]
     # urls of 20 courses respectively
-    for i in range(len(urls)):
-        browser.set_page_load_timeout(60)
-        browser.get(urls[i])
-        time.sleep(20)
-        courseObject = page[i]
-        courseObject["course_url"] = urls[i]
-        # specialization
-        source_code = requests.get(urls[i])
-        plain_text = source_code.text
-        soup = BeautifulSoup(plain_text, 'html.parser')
-        if 'specializations' in urls[i]:
-            courseObject["courseSet"] = []
-        # if courseObject["specialization"]:
-            # descriptions = browser.find_elements_by_xpath('//div[@class="description-cont"]/div/div/span')
-            desc = soup.find_all("div", "description subsection")
-            if len(desc) != 0:
-                courseObject["description"] = soup.find_all("div", "description subsection")[0].text
-            else:
-                print urls[i]
-            # provenance = browser.find_element_by_xpath('//p[@class = "headline-1-text created-by"]/following-sibling::*[1]/img')\
-            # .get_attribute('alt')
-            # coursenames = browser.find_elements_by_xpath('//h2[@class="course-name headline-5-text"]')
-            CourseTags = soup.find_all('section', 'rc-Course bgcolor-white')
-            for tag in CourseTags:
-                id += 1
-                course = {}
+    # for i in range(len(urls)):
+    #     browser.set_page_load_timeout(60)
+    #     browser.get(urls[i])
+    #     time.sleep(20)
+    #     courseObject = page[i]
+    #     courseObject["course_url"] = urls[i]
+    #     # specialization
+    #     source_code = requests.get(urls[i])
+    #     plain_text = source_code.text
+    #     soup = BeautifulSoup(plain_text, 'html.parser')
+    #     if 'specializations' in urls[i]:
+    #         courseObject["courseSet"] = []
+    #     # if courseObject["specialization"]:
+    #         # descriptions = browser.find_elements_by_xpath('//div[@class="description-cont"]/div/div/span')
+    #         desc = soup.find_all("div", "description subsection")
+    #         if len(desc) != 0:
+    #             courseObject["description"] = soup.find_all("div", "description subsection")[0].text
+    #         else:
+    #             print urls[i]
+    #         # provenance = browser.find_element_by_xpath('//p[@class = "headline-1-text created-by"]/following-sibling::*[1]/img')\
+    #         # .get_attribute('alt')
+    #         # coursenames = browser.find_elements_by_xpath('//h2[@class="course-name headline-5-text"]')
+    #         CourseTags = soup.find_all('section', 'rc-Course bgcolor-white')
+    #         for tag in CourseTags:
+    #             id += 1
+    #             course = {}
         
-                name = tag.find_all("h2", "course-name headline-5-text")
-                if len(name) != 0:
-                    course["name"] = name[0].text.decode('utf8').encode('ascii', errors='ignore')
-                else:
-                    print "no_name", urls[i]
+    #             name = tag.find_all("h2", "course-name headline-5-text")
+    #             if len(name) != 0:
+    #                 course["name"] = name[0].text.decode('utf8').encode('ascii', errors='ignore')
+    #             else:
+    #                 print "no_name", urls[i]
 
-                if len(tag.select('.description-cont')) != 0:
-                    course["description"] = tag.select('.description-cont')[0].text
-                else:
-                    print "no_des", urls[i]
-                course["id"] = "coursera" + str(id).zfill(5)
-                courseObject["courseSet"].append(course)
-            # descriptions = [item.text.encode('ascii','ignore') for item in descriptions]
-            # cousenames = [item.text.encode('ascii','ignore') for item in cousenames]
-            # coursedic["subject"] = cousenames
-        else:
-            id += 1
-            desc = soup.find_all("p", "body-1-text course-description")
-            if len(desc) != 0:
-                courseObject["description"] =  soup.find_all("p", "body-1-text course-description")[0].text
-            else:
-                print urls[i]
-            # description = browser.find_element_by_xpath('//p[@class="body-1-text course-description"]')
-            courseObject["id"] = "coursera" + str(id).zfill(5)
-            # provenance = browser.find_element_by_xpath('//div[@class = "headline-1-text creator-names"]/span[2]')
-            # cousename =  browser.find_elements_by_xpath('//h1[@class="title display-3-text"]')
-        # description = description.text.encode('ascii','ignore')
-    with open('Coursera_web'+ str(j) + '.json', 'a') as f:
-        json.dump(page, f)
+    #             if len(tag.select('.description-cont')) != 0:
+    #                 course["description"] = tag.select('.description-cont')[0].text
+    #             else:
+    #                 print "no_des", urls[i]
+    #             course["id"] = "coursera" + str(id).zfill(5)
+    #             courseObject["courseSet"].append(course)
+    #         # descriptions = [item.text.encode('ascii','ignore') for item in descriptions]
+    #         # cousenames = [item.text.encode('ascii','ignore') for item in cousenames]
+    #         # coursedic["subject"] = cousenames
+    #     else:
+    #         id += 1
+    #         desc = soup.find_all("p", "body-1-text course-description")
+    #         if len(desc) != 0:
+    #             courseObject["description"] =  soup.find_all("p", "body-1-text course-description")[0].text
+    #         else:
+    #             print urls[i]
+    #         # description = browser.find_element_by_xpath('//p[@class="body-1-text course-description"]')
+    #         courseObject["id"] = "coursera" + str(id).zfill(5)
+    #         # provenance = browser.find_element_by_xpath('//div[@class = "headline-1-text creator-names"]/span[2]')
+    #         # cousename =  browser.find_elements_by_xpath('//h1[@class="title display-3-text"]')
+    #     # description = description.text.encode('ascii','ignore')
+    page = url_list
+    # with open('Coursera_web'+ str(j) + '.json', 'a') as f:
+    #     json.dump(page, f)
 
     content += page
 with open('Coursera_web'+ '_content' + '.json', 'a') as f:
