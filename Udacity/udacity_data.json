@@ -1,0 +1,1866 @@
+[
+  {
+    "name": "Google AdWords",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/nd124.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/google-adwords--nd124",
+    "id": "udacity00001",
+    "description": "In this program, youll gain a 360-degree understanding of Google AdWords as you run live campaigns with real budgets. Topics include: Search, Display, Video, App Advertising, and more."
+  },
+  {
+    "name": "Learn ARKit",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/arkit.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/learn-arkit--nd114",
+    "id": "udacity00002",
+    "description": "Put your skills to work in the exciting field of augmented reality! Learn the fundamentals of AR, build your very own AR app, and publish your app to the Apple Store."
+  },
+  {
+    "name": "Intro to Self-Driving Cars",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Self-Driving.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113",
+    "id": "udacity00003",
+    "description": "This introductory program is the perfect way to start your journey."
+  },
+  {
+    "name": "Data Foundations Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Data-Analyst.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/data-foundations-nanodegree--nd100",
+    "id": "udacity00004",
+    "description": "Start building your data skills today by learning to manipulate, analyze, and visualize data with Excel, SQL, and Tableau."
+  },
+  {
+    "name": "Data Analyst Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Data-Analyst.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/data-analyst-nanodegree--nd002",
+    "id": "udacity00005",
+    "description": "Prepare for a data science career. Learn to use Python, R, SQL, and Tableau to uncover insights, communicate critical findings, and create data-driven solutions."
+  },
+  {
+    "name": "React Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/nd019.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/react-nanodegree--nd019",
+    "id": "udacity00006",
+    "description": "React is completely transforming Front-End Development. Master this powerful UI library from Facebook with Udacity and the experts from React Training."
+  },
+  {
+    "name": "Intro to Programming Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Intro-to-Programming.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000",
+    "id": "udacity00007",
+    "description": "Udacity's Intro to Programming is your first step towards careers in Web and App Development, Machine Learning, Data Science, AI, and more! This program is perfect for beginners."
+  },
+  {
+    "name": "VR Developer Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Virtual-Reality.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/vr-developer-nanodegree--nd017",
+    "id": "udacity00008",
+    "description": "Master the latest tools and technologies, and put your tech skills to work in the exciting field of VR! Learn from industry experts like Google, Unity, and HTC, and become a Virtual Reality Developer."
+  },
+  {
+    "name": "Robotics Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/nd209.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/robotics-nanodegree--nd209",
+    "id": "udacity00009",
+    "description": "Master skills with hands-on projects in simulated environments and on real hardware. Change our world for the better using robotics to extend our capabilities in new ways."
+  },
+  {
+    "name": "Digital Marketing Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/nd018.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/digital-marketing-nanodegree--nd018",
+    "id": "udacity00010",
+    "description": "Gain real-world experience running live campaigns as you learn from top experts in the field. Launch your career with a 360-degree understanding of digital marketing."
+  },
+  {
+    "name": "Deep Learning Nanodegree Foundation",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/nd101.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101",
+    "id": "udacity00011",
+    "description": "Deep learning is driving advances in artificial intelligence that are changing our world. Enroll now to build and apply your own deep neural networks to produce amazing solutions to important challenges."
+  },
+  {
+    "name": "Artificial Intelligence Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/nd889.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889",
+    "id": "udacity00012",
+    "description": "Learn skills and tools used by the most innovative AI teams, gain experience solving real-world challenges, and prepare for a wide variety of roles in the AI field."
+  },
+  {
+    "name": "Self-Driving Car Engineer Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Self-Driving.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013",
+    "id": "udacity00013",
+    "description": "In this advanced program, youll master the job-ready skills needed to launch your career."
+  },
+  {
+    "name": "Business Analyst Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Predictive-Analytics.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/business-analyst-nanodegree--nd008",
+    "id": "udacity00014",
+    "description": "Predictive analytics is the practice of determining patterns from data to predict future outcomes and trends. Across industries, it enables high-value solutions to important business problems."
+  },
+  {
+    "name": "Android Basics Nanodegree by Google",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Android.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803",
+    "id": "udacity00015",
+    "description": "No programming experience? No Problem! Start developing Android apps today."
+  },
+  {
+    "name": "Machine Learning Engineer Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/ML.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009",
+    "id": "udacity00016",
+    "description": "Become a machine learning engineer and apply predictive models to massive data sets in fields like education, finance, healthcare or robotics."
+  },
+  {
+    "name": "Front-End Web Developer Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/FrontEnd.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001",
+    "id": "udacity00017",
+    "description": "In the Front End Developer Nanodegree program, you will complete eight projects and build a resume-worthy portfolio."
+  },
+  {
+    "name": "Full Stack Web Developer Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Full-Stack.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004",
+    "id": "udacity00018",
+    "description": "Learn how to create server-side, data-driven web applications that support any front-end and can scale to support hundreds of thousands of users."
+  },
+  {
+    "name": "Android Developer Nanodegree by Google",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Android.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801",
+    "id": "udacity00019",
+    "description": "Start your career as an Android developer. Learn best practices for mobile development, build a portfolio of apps, and publish your own app to Google Play."
+  },
+  {
+    "name": "Become an iOS Developer",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/iOS.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/ios-developer-nanodegree--nd003",
+    "id": "udacity00020",
+    "description": "Master writing in Swift as you build five portfolio-worthy iOS apps to demonstrate your expertise as an iOS Developer."
+  },
+  {
+    "name": "Mobile Web Specialist Nanodegree",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/Intro-to-Programming.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024",
+    "id": "udacity00021",
+    "description": "Prepare for Google's Mobile Web Specialist certification with courses from Google"
+  },
+  {
+    "name": "Mobile Design and Usability for iOS",
+    "img": "https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59d67fd4_ud1034/ud1034.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/mobile-design-and-usability-for-ios--ud1034",
+    "id": "udacity00022",
+    "description": "In this course, taught in collaboration with Facebook, you'll learn how to design an intuitive, user-centered mobile app, from product conception to release."
+  },
+  {
+    "name": "Mobile Design and Usability for Android",
+    "img": "https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59d67fd4_ud1034/ud1034.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358",
+    "id": "udacity00023",
+    "description": "In this course, taught in collaboration with Facebook, you'll learn how to design an intuitive, user-centered mobile app, from product conception to release."
+  },
+  {
+    "name": "Passwordless Login Solutions for Android",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud1028-ud357_screenshot.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/passwordless-login-solutions-for-android--ud357",
+    "id": "udacity00024",
+    "description": "In this course you'll implement Account Kit and Facebook Login side by side in a sample app, test our login flow on a series of common use cases, and wrap things up with an introduction to Facebooks Graph API."
+  },
+  {
+    "name": "Developing Android Apps",
+    "img": "https://lh3.googleusercontent.com/lBvoF-3vRHVY87AX6f2g1R7VU8kkSAYw4Qp8fodFkpykiThDBq4x3zzrbbfH-CpnviftCDDp_lOWzVN8bw=s0#w=640&h=525=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/new-android-fundamentals--ud851",
+    "id": "udacity00025",
+    "description": "Build a cloud-connected Android app, and learn the tools, principles, and best practices of mobile and Android development that you'll apply to your own projects."
+  },
+  {
+    "name": "Deep Learning",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/images/ud730-b3af4bf.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/deep-learning--ud730",
+    "id": "udacity00026",
+    "description": "Show off what you've learned in your Nanodegree program with a project that defines"
+  },
+  {
+    "name": "Localization Essentials",
+    "img": "https://lh3.googleusercontent.com/_6xJ9ZkZP7ELmRX0GNC8idrG0lUoYatE4qnjFJo6wCi4V2X8pznki35L3jYcLxROrxLwK_pPYRtR9-4n3Q=s0#w=2738&h=1526=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/localization-essentials--ud610",
+    "id": "udacity00027",
+    "description": "Localization is about making a product feel tailored to users around the world. Specifically, it is the process of adapting a product to a language, culture and market."
+  },
+  {
+    "name": "Android Basics: User Input",
+    "img": "https://lh3.googleusercontent.com/VIkSp8zDuuOf4m6ceNkAFbvC_oiUYPI7ZG98KMpu_0GNmIXNUyfdEEzuQmqCKkeOm47TVAnM9C9NxmCT6B8=s0#w=1440&h=807=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/android-basics-user-input--ud836",
+    "id": "udacity00028",
+    "description": "Learn how to make your apps interactive using buttons and text! In this course you'll learn the basics of the Java programming language and how to apply them to Android."
+  },
+  {
+    "name": "Android Basics: Multiscreen Apps",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud839_screenshot.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/android-basics-multiscreen-apps--ud839",
+    "id": "udacity00029",
+    "description": "Learn to build multiple screens and link them together, expanding the range of apps you can create! You'll also learn how to play audio and add images to your apps."
+  },
+  {
+    "name": "Android Basics: Networking",
+    "img": "https://lh3.googleusercontent.com/Hp4UrpBlkIwM1VvtEOVAOaTZf9C6X0FXX0lKu3jllapJIlIw5hK_3tDzXamszoTC0PG_cswnx8y6EUl1aQ=s0#w=360&h=220=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/android-basics-networking--ud843",
+    "id": "udacity00030",
+    "description": "This class teaches the basics of networking using Android, and is a part of the Android Basics Nanodegree by Google."
+  },
+  {
+    "name": "Android Basics: Data Storage",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/images/ud845-8246c39.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/android-basics-data-storage--ud845",
+    "id": "udacity00031",
+    "description": "In this course, you'll learn the basics of data storage in Android, building your first database and an app that could be used for any small business!"
+  },
+  {
+    "name": "Intro to JavaScript",
+    "img": "https://lh3.googleusercontent.com/ihDVPNChYL9xwjDejhDQj-1VA1OWCRvYZFdMh5qmDdAxCRuUjwEZMUBs5mUHQ_w9NzVy3MibrmR3m5kO8rI=s0#w=654&h=402=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-javascript--ud803",
+    "id": "udacity00032",
+    "description": "Learn the fundamentals of JavaScript, the most popular programming language in web development."
+  },
+  {
+    "name": "Web Accessibility",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/images/ud891-3c1138c.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/web-accessibility--ud891",
+    "id": "udacity00033",
+    "description": "Get hands-on experience making web applications accessible. Youll understand when and why users need accessibility, then youll dive into how to implement."
+  },
+  {
+    "name": "Client-Server Communication",
+    "img": "https://lh3.googleusercontent.com/_syJBdAGarIQmoWL970qSWAINPnBEem5mGCmKXXfRf0nP9zgiPGqWPVHwFt8nblcQImmFTrTk9RcovOzzKQ=s0#w=2880&h=1622=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/client-server-communication--ud897",
+    "id": "udacity00034",
+    "description": "Learn how a client communicates with a server, including HTTP's request and response cycle, HTTP/2 and HTTPs."
+  },
+  {
+    "name": "Advanced Android App Development",
+    "img": "https://lh3.googleusercontent.com/nuDb1EjptuLU51MASln475S3AvV1pkTqsmZMP0GBfEcERBP81u7uVokFDgC18HQ_kGB1hzaQtj0N_XUgQZY=s0#w=1578&h=886=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/advanced-android-app-development--ud855",
+    "id": "udacity00035",
+    "description": "Make your app production-ready by applying advanced features like library integration, material design, widgets, receiving cloud messages, and more!"
+  },
+  {
+    "name": "Gradle for Android and Java",
+    "img": "https://lh3.googleusercontent.com/jeVezk1wHnPay4E48RN4S-PMhIfZl-pVkY0j0xD_IrTSVJ5lvqn7erid1iZggX7jlI39UsB6hEDG6NgHk3c=s0#w=1682&h=1034=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/gradle-for-android-and-java--ud867",
+    "id": "udacity00036",
+    "description": "Build bigger and better Android and Java apps using the Gradle build tool."
+  },
+  {
+    "name": "Google Location Services on Android",
+    "img": "https://lh3.googleusercontent.com/Du089YR8t4H5dgnPKvNL0qjwUUjxFVPkt6q6s3kLWbV1ezEDSMeH0HJ-JrLFUyFawcwi_q7ZU3wXArZDGsiq=s0#w=1440&h=811=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/google-location-services-on-android--ud876-1",
+    "id": "udacity00037",
+    "description": "Enhance your apps with Google's Fused Location Provider, Activity Recognition, and Geofencing API capabilities."
+  },
+  {
+    "name": "Monetize Your Android App with Ads",
+    "img": "https://lh3.googleusercontent.com/SbN466LXIXxxFePWHPtcZIMJkhXvfGxMEvFTrqVnGtcATyFPvuwV5-UBWsnUF3cPxk9KBPyZQH45E1piPxfh=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3",
+    "id": "udacity00038",
+    "description": "Learn how to monetize apps using Google's AdMob to display banner and interstitial ads!"
+  },
+  {
+    "name": "Add Google Maps to your Android App",
+    "img": "https://lh3.googleusercontent.com/l8dRGuY5xlIMuGmjxX9DSYwn80BYsR3UwlTuNrAXuqMU__3SqO19cAnLwCZi5QEWsyTvhqFTOebVwgq0IbI=s0#w=1440&h=809=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4",
+    "id": "udacity00039",
+    "description": "Maps on mobile devices have changed the world for millions of users. Learn how to use the Google Maps API to extend this functionality to your apps."
+  },
+  {
+    "name": "Android Performance",
+    "img": "https://lh3.googleusercontent.com/aUGHKLzBnrpJaHbnGVSRShnAj6GqDXoNMRG13-RJfHjw0LJOyEpPSsxGLxOdjwBVji02tcATbfmn2l50rUg=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/android-performance--ud825",
+    "id": "udacity00040",
+    "description": "Performance matters to users, so it must matter to you. Learn how to identify and fix bottlenecks in your Android applications, and ensure a smooth user experience."
+  },
+  {
+    "name": "Material Design for Android Developers",
+    "img": "https://lh3.googleusercontent.com/_nio_GWBSc0BCCk_aHyBn766-ddp1mrod05GJzQSAA_IkWQ7Uxfv33OFJfMJU5uULj3V01AfT3e6YgFGcg=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/material-design-for-android-developers--ud862",
+    "id": "udacity00041",
+    "description": "Learn and apply the material design principles that define Android's visual language to your apps."
+  },
+  {
+    "name": "Android TV and Google Cast Development",
+    "img": "https://lh3.googleusercontent.com/mXwOuGIoiOQxP4eXAKk8qt449JzBrjfr7X_IcEpoCEzJazPgGnhFKUmeQWIOsPIUa_zjCGaMaQHF0UfsEQc=s0#w=1706&h=1049=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B",
+    "id": "udacity00042",
+    "description": "Go where your users are: the living room! This course shows you how to extend your existing Android app to also work on Android TV, and/or with Google Cast."
+  },
+  {
+    "name": "Android Auto Development",
+    "img": "https://lh3.googleusercontent.com/3lVfrfdzindeWt7gXkQrkDYtbYJuIMGuAo8Wrt3haxzNqxKOER3oK4hraiTJcNEHzJdnEEWsKbtqg-rguUs2=s0#w=1758&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/android-auto-development--ud875C",
+    "id": "udacity00043",
+    "description": "Reach your users while they're out and about by extending your Media or Messaging app to Android Auto!"
+  },
+  {
+    "name": "Get Your Startup Started",
+    "img": "https://lh3.googleusercontent.com/TV7G5A2d0Z0BxVSjfqCAg2vvZ1ftjlehsaUFXNaMtMFeZUNZSyjaDWX-H_lSrvIlpNWTmr8F5m7mVWyTjY6U=s0#w=1902&h=1068=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/get-your-startup-started--ud806",
+    "id": "udacity00044",
+    "description": "Acquire the know-how necessary to see your business grow towards its next milestone."
+  },
+  {
+    "name": "Product Design",
+    "img": "https://lh3.googleusercontent.com/1RoMggIjpqstcLqFPS4anLDCXYSvhI1l_PObbgY1hzeDX9hnPhLMV7k515AWbePKNzllzFK8p6cvzM3lHco=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/product-design--ud509",
+    "id": "udacity00045",
+    "description": "Learn product validation, UI/UX practices, Googles Design Sprint and the process for setting and tracking actionable metrics."
+  },
+  {
+    "name": "App Monetization",
+    "img": "https://lh3.googleusercontent.com/ExdtHAQwrj8I1RjVrJt78udW3xNYFzcyTqqi25Q_Q2h4GoWeSzA4UUJxMtkH3sfG2qydfm-2rZ6CLXYc_sA=s0#w=1200&h=738=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/app-monetization--ud518",
+    "id": "udacity00046",
+    "description": "Learn how to effectively develop, implement, and measure your monetization strategy, iterating on the model as appropriate."
+  },
+  {
+    "name": "Rapid Prototyping",
+    "img": "https://lh3.googleusercontent.com/XCike2QVT4WdczpGwDf0PC8BlEnbW6SO90FExI5bD243R6Djs7FeCsaFxpAPTAwdsJvjcHMXx8yEXm9U8ag=s0#w=1758&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/rapid-prototyping--ud723",
+    "id": "udacity00047",
+    "description": "Learning to prototype will save you time and money in the development process. Youll create quality apps faster and have confidence in the viability of your products."
+  },
+  {
+    "name": "App Marketing",
+    "img": "https://lh3.googleusercontent.com/9xu4a7fRWBue7q2dUvNEcyZ6bdIAnuB4SxfmAzLop9HZScBGFx0Z8eDW_EsBoXyvj-971aOkU7MqTFN0lfyO=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/app-marketing--ud719",
+    "id": "udacity00048",
+    "description": "This course will help you organize a strategy of identifying your perfect user, and teach you how to grow your user base by focusing your product on their needs."
+  },
+  {
+    "name": "2D Game Development with libGDX",
+    "img": "https://lh3.googleusercontent.com/NpCEkFwRBPGqMad350u4M4b96aenrM1H4qTmccbNkAofealSwciK9lLo9dup_JUtD0zY-teD6I8pjqVPqhk=s0#w=1324&h=814=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/2d-game-development-with-libgdx--ud405",
+    "id": "udacity00049",
+    "description": "This course explores how to use LibGDX to build 2D games that run anywhere, from web browsers to mobile devices. At the end you will create a full game, called Icicles."
+  },
+  {
+    "name": "How to Make a Platformer Using libGDX",
+    "img": "https://lh3.googleusercontent.com/upXlKrCJ1HcmW97dzI8C-dvofzkucIL5XYrOU1R0SZJ5hThpoHp0kFGZ4rkmw6G2PO7LVXq_ceyt4BIqgnU=s0#w=634&h=390=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406",
+    "id": "udacity00050",
+    "description": "This course will explore how to create a game called Giga Gal. Giga Gal is a platformer in which you run, collect energy packs, jump a bunch, and shoot enemies."
+  },
+  {
+    "name": "Dynamic Web Applications with Sinatra",
+    "img": "https://lh3.googleusercontent.com/M3tK4Bey_ADfSgbWm1ePVL1r6AcDsUXj3tmbRwyc5evdy7Cut9CcWmuM-fcXFtbJXafATlLZmyDITqxrIQ=s0#w=1758&h=890=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/dynamic-web-applications-with-sinatra--ud268",
+    "id": "udacity00051",
+    "description": "Sinatra is a micro-framework for quickly developing small Ruby applications for the web. In this course, you'll learn all about Sinatra, routing, and templating."
+  },
+  {
+    "name": "The MVC Pattern in Ruby",
+    "img": "https://lh3.googleusercontent.com/J7vRBZGp03Bl4VBqpvnLTP6PgC3Zyww4UIPfW6llyqZu5zegblE33NtAdM5Qfuy0Qtd08E6mmHJlDR-mmA=s0#w=2338&h=1222=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/the-mvc-pattern-in-ruby--ud270",
+    "id": "udacity00052",
+    "description": "In this course youll learn how to organize your code, and why thats important. Youll be using the MVC Design Pattern in the web application micro-framework Sinatra."
+  },
+  {
+    "name": "Deploying Applications with Heroku",
+    "img": "https://lh3.googleusercontent.com/h_fApNsBKOJrNUDmtSEOh-aRQfblOyZGteVf6aajYOIepjY_TfXs1lJCWrhrHgY_-EBjh_2QaFUbg37nfnQ=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/deploying-applications-with-heroku--ud272",
+    "id": "udacity00053",
+    "description": "Deploy your first web application using the Heroku platform and learn about the underlying mechanics of web hosting."
+  },
+  {
+    "name": "Problem Solving with Advanced Analytics",
+    "img": "https://lh3.googleusercontent.com/-KUdgj_f7CZgYwQS8kqkxzqAvaFTlg8PCn1a2CPLPoGeCxnZpJ59fM7Yho4zKTJALDsuslpJGl1jmPwBsg=s0#w=599&h=235=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976",
+    "id": "udacity00054",
+    "description": "Learn a scientific approach to solving problems with data, a foundational skill for anyone interested in making data driven decisions in a business context."
+  },
+  {
+    "name": "Creating an Analytical Dataset",
+    "img": "https://lh3.googleusercontent.com/IEeLrMJRDg3Q5n8YttgIS9kze0BsL9kArguYfpE_jzWVHQCBVRnVGCFr3La2CJN6qH85PnMrMOa71wSHTw=s0#w=1399&h=736=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/creating-an-analytical-dataset--ud977",
+    "id": "udacity00055",
+    "description": "Learn how to prepare data to ensure the efficacy of your analysis while improving fluency in Alteryx."
+  },
+  {
+    "name": "Classification Models",
+    "img": "https://lh3.googleusercontent.com/S0fHLB-TKxwNw1P_TjXIEcfjtlS9KXuIYdgSZZ9I1nbf8aFX7Fa0jlEdTUXjevHrnSvYg1EcEg_W4Ha5eCc=s0#w=1367&h=737=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/classification-models--ud978",
+    "id": "udacity00056",
+    "description": "Learn how to use classification predictive models to solve business problems involving non-numeric data."
+  },
+  {
+    "name": "A/B Testing for Business Analysts",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud979-screenshot.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/ab-testing--ud979",
+    "id": "udacity00057",
+    "description": "The A/B Testing course provides students with the foundational knowledge to design and analyze A/B tests to create business insights and support decision making."
+  },
+  {
+    "name": "Offline Web Applications",
+    "img": "https://lh3.googleusercontent.com/3M6dHe_SYENbgSp9ISAsPQ-EmqugX8WspngVZbb5vUcykQ_0zNZvhx6UCzr5SWwLPjT_uqEXaSZGMM7GaA=s0#w=771&h=430=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/offline-web-applications--ud899",
+    "id": "udacity00058",
+    "description": "Learn how to develop offline-first web application using Service Workers and IndexedDB."
+  },
+  {
+    "name": "Version Control with Git",
+    "img": "https://lh3.googleusercontent.com/y-LcILCBJqloH18poJ-YQJ7KiBIfjOIl_kKl0NcWXdRx_TlGrEaXj4YDsf-KCdYS6hSoypSsXaHfv-JhdA=s0#w=1704&h=962=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/version-control-with-git--ud123",
+    "id": "udacity00059",
+    "description": "Learn how to use Git, a popular Version Control System and essential tool for any developer."
+  },
+  {
+    "name": "JavaScript Promises",
+    "img": "https://lh3.googleusercontent.com/-ab4KcjljYYJCdQqZw6gYV59PEn7viNcZOf01TJUFupEaGXtag5tQRCdl_ZYPv4uM4fW7nJ2V5sAeIn3Rw=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/javascript-promises--ud898",
+    "id": "udacity00060",
+    "description": "Learn how to simplify asynchronous work with Native JavaScript Promises!"
+  },
+  {
+    "name": "Building High Conversion Web Forms",
+    "img": "https://lh3.googleusercontent.com/jgbmoHfGCQVbj1TezCcDoxlGjY8O8M945PEm8KoSdXEOUFEndKmDinmHbewXDSNbnGQKWbl0AWZYQq6rWBM=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/building-high-conversion-web-forms--ud890",
+    "id": "udacity00061",
+    "description": "Increase conversions with best practices for fast, efficient forms! Learn how to design and build web forms for users on any device."
+  },
+  {
+    "name": "Web Tooling & Automation",
+    "img": "https://lh3.googleusercontent.com/VR2ATeWEJs_XDcwWEbU5L-bOXICpbDCTzTrhxa415iRzQa0JX_rSmniKYPjsg8-q6Av3THk3a1DYsMcoazU=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/web-tooling-automation--ud892",
+    "id": "udacity00062",
+    "description": "In this course, youll learn how to setup your development environment and save a lot of time and effort with automatic optimization."
+  },
+  {
+    "name": "Designing RESTful APIs",
+    "img": "https://lh3.googleusercontent.com/YvORzIbvlDMotYr9E2c2Q2oxXvumjkPfGW6c3NEzUeeiW_LomCMlt_BuSAjVS-7BZ9sWVvKDSu3X7vGrGdE=s0#w=2880&h=1628=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/designing-restful-apis--ud388",
+    "id": "udacity00063",
+    "description": "Build and secure a web server with a RESTful Developer-Friendly API that developers will love to use."
+  },
+  {
+    "name": "Writing READMEs",
+    "img": "https://lh3.googleusercontent.com/FWszT_WPN9FvGPDZYkzltLh75AKFhEYzyhGkj6NA__nnI9eLOjVGphbgdmF1sXkpDqEhhi3b053E_T9ElA=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/writing-readmes--ud777",
+    "id": "udacity00064",
+    "description": "Documentation is an important part of the development process. Learn to write READMEs using Markdown so your code can be used by other humans!"
+  },
+  {
+    "name": "Intro to DevOps",
+    "img": "https://lh3.googleusercontent.com/1rUp2qe5hr1tlrguR3DwxvBTuqCIhfgMNIUIWACehPl-W-0-KGSE-VmBYABTVcxyX79jjryk1I4D8NdF2nA=s0#w=1725&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-devops--ud611",
+    "id": "udacity00065",
+    "description": "Learn all about the DevOps landscape, workflow, and a survey of the systems currently being used to support scalable software deployment."
+  },
+  {
+    "name": "HTML and CSS Syntax",
+    "img": "https://lh3.googleusercontent.com/soq7eSDz0XZMp3yHSLAcPzynwifoqxbgfRvNh0UdjTFYI9P5lOiCoff-lIJsxwIoOg09qhqWcrwRuw5vpIA=s0#w=640&h=360=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/html-and-css-syntax--ud001",
+    "id": "udacity00066",
+    "description": "In this course, you'll learn the fundamentals web development, along with best practices and professional problem-solving techniques using Developer Tools."
+  },
+  {
+    "name": "Intro to Computer Science",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/images/cs101-15b5950.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-computer-science--cs101",
+    "id": "udacity00067",
+    "description": "Learn key computer science concepts in this introductory Python course. You'll learn by doing, and will build your own search engine and social network."
+  },
+  {
+    "name": "Asynchronous JavaScript Requests",
+    "img": "https://lh3.googleusercontent.com/h_7AQcoVTkMbJ3CN3m1eRnzB37OLz7t5RzYh3_W02nUP2sFDbVJH4-BO4xhdadPx3mCELU2ZoPBp6lE1gpk=s0#w=1702&h=958=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/asynchronous-javascript-requests--ud109",
+    "id": "udacity00068",
+    "description": "Learn how to asynchronously request data in your web applications with Ajax."
+  },
+  {
+    "name": "Linux Command Line Basics",
+    "img": "https://lh3.googleusercontent.com/01InpXSAJZ8p8n60RpDb9C_hETBy_0D7pA_1Q9ey2X3CrO5fLrDF4TrpWwfOiizbzDzrWDWE_xX3EieDOvA=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/linux-command-line-basics--ud595",
+    "id": "udacity00069",
+    "description": "An introduction to the Linux command line interface."
+  },
+  {
+    "name": "How to Use Git and GitHub",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/images/ud775-b28dc35.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/how-to-use-git-and-github--ud775",
+    "id": "udacity00070",
+    "description": "Learn to use version control, an important tool for any developer.  The course will focus on Git, a specific version control system, and GitHub, a collaboration platform."
+  },
+  {
+    "name": "Programming Foundations with Python",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/images/ud036-0619766.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/programming-foundations-with-python--ud036",
+    "id": "udacity00071",
+    "description": "Introductory programming class to learn Object-Oriented Programming, a must-have technique to reuse and share code easily. Learn by making projects that spread happiness!"
+  },
+  {
+    "name": "Intro to iOS App Development with Swift",
+    "img": "https://lh6.ggpht.com/EMXyMl3EwCgLdaLkYkOFsEwnXI7feP6_Mt4rTSa9_nBZQ2lnRKuyVlhSeTWHJfYVi_uGyC2mkEhXymajTrMu=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585",
+    "id": "udacity00072",
+    "description": "Take the first step in becoming an iOS Developer by learning about Swift and writing your first app."
+  },
+  {
+    "name": "Intro to Relational Databases",
+    "img": "https://lh4.ggpht.com/H9zRncxCIalNMrZLqYqGNikKXGPe7U_f6tS-v1VeHo12Zt8QqpTDqxI1FMsJSLYXWNpz1BhZXTgeQZRw_3s=s0#w=1758&h=1080",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
+    "id": "udacity00073",
+    "description": "Relational databases are a powerful tool used throughout the industry. Learn the basics of SQL and how to connect your Python code to a relational database."
+  },
+  {
+    "name": "Full Stack Foundations",
+    "img": "https://lh3.ggpht.com/GKNi4exuLn_ER_qN9SIPx4bFpjBhVBGeSP1aTul1hh_Ge_9oRREpLimJyphdkJqc8sgwRo-GQ0vgSO3KcnY=s0#w=1745&h=1073",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/full-stack-foundations--ud088",
+    "id": "udacity00074",
+    "description": "Learn the fundamentals of back-end web development by creating your own web application from the ground up using the iterative development process."
+  },
+  {
+    "name": "Authentication & Authorization: OAuth",
+    "img": "https://lh3.googleusercontent.com/RqJla1FbVoOuOFO78K1eKBiAeSa1iTsmHqZ1MQFB43xY2DwTCxZd2QFOo73YxOHeDJ-CPbIm-H-NbRPNSnU=s0#w=1758&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/authentication-authorization-oauth--ud330",
+    "id": "udacity00075",
+    "description": "Learn to implement the OAuth 2.0 framework to allow users to securely and easily login to your web applications."
+  },
+  {
+    "name": "Responsive Web Design Fundamentals",
+    "img": "https://lh6.ggpht.com/nKVxhzkzJcyDvw2QxIO1nH55uk5Y6e34XNGnnRUWS3No2wRZ8fyBfYzfILhJZslqnbvt6yHpbNlnor6S4vA=s0#w=2080&h=1279",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/responsive-web-design-fundamentals--ud893",
+    "id": "udacity00076",
+    "description": "Learn and practice strategies for developing websites that look great on every device! Made with Google's Pete LePage."
+  },
+  {
+    "name": "Responsive Images",
+    "img": "https://lh3.googleusercontent.com/0-8SA41CiD_MZ-yRZ3YX04wYYtV4IjKuVvuRHl-LB2h_2pCDw2UEkLFjUf86GcHGJO1rhRFTBoq9bULT1Qc=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/responsive-images--ud882",
+    "id": "udacity00077",
+    "description": "Go beyond image tags! Learn how to make images a part of your responsive design workflow."
+  },
+  {
+    "name": "Browser Rendering Optimization",
+    "img": "https://lh3.googleusercontent.com/TCIotpqYq6buQavNxTkzCKsZyEe2oGA-7T3Zuj9WZ-grpwW_CYZanAqX9fa95fToe0soV7LzfrItKPtoBg=s0#w=2127&h=1307=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/browser-rendering-optimization--ud860",
+    "id": "udacity00078",
+    "description": "This course will demystify the browser's rendering pipeline and make it easy for you to build high performance web apps."
+  },
+  {
+    "name": "JavaScript Design Patterns",
+    "img": "https://lh5.ggpht.com/sezqV_yZkcFmfZDOsKwakrr0w7i8ixmaX3rRdCwWelR7tWRIlgNkDmS7wEZ6hB-0Tvwt_3KFWIxw-7mfxd4=s0#w=1757&h=1080",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/javascript-design-patterns--ud989",
+    "id": "udacity00079",
+    "description": "Learn the importance of code organization and how to implement it with either vanilla JavaScript or an organizational library or framework."
+  },
+  {
+    "name": "Learn Backbone.js",
+    "img": "https://lh3.googleusercontent.com/F3-J__TwE1s_bHhRSgu0pwgM-vWgU5OA9FxbyS9690d4Nj4lOHJfaAq5zsHmYf7uthwSyF9fGUG_camRsOc=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/learn-backbonejs--ud990",
+    "id": "udacity00080",
+    "description": "This is a collection of curated resources to teach you how to write well organized web applications using the Backbone framework."
+  },
+  {
+    "name": "JavaScript Testing",
+    "img": "https://lh5.ggpht.com/vcyKpS2avvfz5qxyESkg23ul0R2U21iNgoIa76hADbha-IBnA_TEIZ5CPbvnblC2F6vRjiu76uDQ4lym2w=s0#w=2560&h=1440",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/javascript-testing--ud549",
+    "id": "udacity00081",
+    "description": "Learn how to iterate on your web applications with confidence using the red-green-refactor workflow cycle and automated testing frameworks."
+  },
+  {
+    "name": "Configuring Linux Web Servers",
+    "img": "https://lh3.googleusercontent.com/C1226nashMhJjzL3Ils4ym5FjxCU6Gi7y4HsZd-CblfGfMOuInXNazEKHDUr4JAoS3w7YsN6Ju39jWwg9Q=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/configuring-linux-web-servers--ud299",
+    "id": "udacity00082",
+    "description": "Serve a data-driven web application as you become acquainted with, configure and finally secure a Ubuntu Linux web application server."
+  },
+  {
+    "name": "How to Build a Startup",
+    "img": "https://lh6.ggpht.com/l0tJ09Lye8eNFttGQ7uvMGV-x0qxJk9xgs6e-MNRxnJeaCBxVqbYLIKmR13dk6hVdO8S5VYcmswfkBQR65s=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/how-to-build-a-startup--ep245",
+    "id": "udacity00083",
+    "description": "Learn what it takes to build a successful startup using the Customer Development process, where entrepreneurs \"get out of the building\" to gather and iterate on feedback."
+  },
+  {
+    "name": "Learn Swift Programming Syntax",
+    "img": "https://lh3.googleusercontent.com/Qkrte2_RNAPEAA9J4OMk2495NXDMrCKclo1uEX6cJN-txFzgQ1BvMT4pog5GjpTU9QNaNEYcNv08b9uuVw=s0#w=1500&h=922=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/learn-swift-programming-syntax--ud902",
+    "id": "udacity00084",
+    "description": "This course focuses on the syntax of the Swift programming language. By the end of the course, you'll be able to apply Swift essentials to building iOS apps."
+  },
+  {
+    "name": "UIKit Fundamentals",
+    "img": "https://lh6.ggpht.com/T2dxUrLhxblm60U1fevj1W2xk2KIyVlOwf495y2Ue_9bMJXzMV1Gdly4MH4Gxfc87_S5kTgSgulfGmFBXg=s0#w=1676&h=1030",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/uikit-fundamentals--ud788",
+    "id": "udacity00085",
+    "description": "Learn the iOS UIKit framework, which is the cornerstone of creating user interfaces in all iOS apps and crucial for any iOS Developer to be intimately familiar with."
+  },
+  {
+    "name": "Firebase in a Weekend: iOS",
+    "img": "https://lh3.googleusercontent.com/vi7wJNqhqNgJ4BnJMdN01FTrbxDI3wq0_qPVOis6q9dFWnllJXKsm8f_1B-y4PISE2UJ0EJ1fSnGMLnJ01o=s0#w=1524&h=888=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351",
+    "id": "udacity00086",
+    "description": "This course will teach you when and why to choose Firebase as a backend for your iOS application."
+  },
+  {
+    "name": "Firebase in a Weekend: Android",
+    "img": "https://lh3.googleusercontent.com/dXeG-CbRP0pDNJS1fhXnaMxxcslQxS92CTD31fYgmV0PBhphimEZf36ZPfeDrfLwju9ejuOFp5YWPRVBqc8=s0#w=1524&h=888=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352",
+    "id": "udacity00087",
+    "description": "This course will teach you when and why to choose Firebase as a backend for your Android application."
+  },
+  {
+    "name": "iOS Networking with Swift",
+    "img": "https://lh5.ggpht.com/R20fs5CnxLpzqvacgXY36EIqw0ZGiw3rYYttnI8FBCoXk-jtPEaD37DT6VyxUxwVCGBAD1MbKWeOT4n0GA=s0#w=1670&h=1026",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/ios-networking-with-swift--ud421",
+    "id": "udacity00088",
+    "description": "Learn how to incorporate networking into your apps to access data from around the world. Build the On the Map app to share location and fun links with fellow students."
+  },
+  {
+    "name": "Grand Central Dispatch (GCD)",
+    "img": "https://lh3.googleusercontent.com/llYhGIRXD74ogbr6VSbPcHdbUt_XCL6_UPHJjaYlKan07VWUfBg4EAiPVNIRyqzD6hDxmWkW1zGMmR-sAbKc=s0#w=1024&h=630=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/grand-central-dispatch-gcd--ud576",
+    "id": "udacity00089",
+    "description": "Learn how to prevent background operations from interfering with an app's UI by implementing Apple's GCD framework."
+  },
+  {
+    "name": "iOS Persistence and Core Data",
+    "img": "https://lh3.googleusercontent.com/kW90RInKV6-0Rjlw-MDzDzx7azeaeUOPr6DFnnORdIwpdOxz1vW4RF8YokSl3IKxeVyY_0tDHFao_YOJdQA=s0#w=1440&h=913=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/ios-persistence-and-core-data--ud325",
+    "id": "udacity00090",
+    "description": "Persisting data is a core skill for any iOS developer. Learn how to store app data to your device using three common techniques: NSUserDefaults, Sandbox & Core Data."
+  },
+  {
+    "name": "How to Make an iOS App",
+    "img": "https://lh3.googleusercontent.com/jl17SWQdE1BJx2qgOKWI23jWKdPFjgrF4PjE1kCOdJv9NO0HLtNCyZJ0yElmkRRRwMrAG1rNxBmplaI_1dA=s0#w=1753&h=1078=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/how-to-make-an-ios-app--ud607",
+    "id": "udacity00091",
+    "description": "Learn the process of building an app, taking your ideas from drawing board to App Store!"
+  },
+  {
+    "name": "GitHub & Collaboration",
+    "img": "https://lh3.googleusercontent.com/SqgyN_BqOztfYCwD37mpEYRTQ512hvBJAE-SHJ1pwymi51_8ACi5M9i5TerohyuJw7yrAkZtNbwipvwbVZPa=s0#w=854&h=480=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/github-collaboration--ud456",
+    "id": "udacity00092",
+    "description": "Learn how to interact with remote repositories and collaborate with other developers on GitHub."
+  },
+  {
+    "name": "Introduction to Python",
+    "img": "https://lh3.googleusercontent.com/qMlvtmVMUyEk45ZvrvflDGlnt4sSRUgtSDJ-juoeVOkz2k6AusYESjZ7CvptU1flNgINinPR0qOJjuB2vL0=s0#w=1268&h=780=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/introduction-to-python--ud1110",
+    "id": "udacity00093",
+    "description": "Python is one of the most popular programming languages in the world. If you already know another language and want to expand to Python, this is the course for you!"
+  },
+  {
+    "name": "Database Systems Concepts & Design",
+    "img": "https://lh3.googleusercontent.com/YlAbh6M2wVx5gQL3Tk9gjkEULTwGT4SBZTOnHdtGIEF1e2jNma-cHtmfgEsCsCylc0oW67S9gPha8tvP9X9Y=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/database-systems-concepts-design--ud150",
+    "id": "udacity00094",
+    "description": "This course presents an example of applying a database application development methodology to a major real-world project."
+  },
+  {
+    "name": "Compilers: Theory and Practice",
+    "img": "https://lh3.googleusercontent.com/aB9Db0hWUet66ujOwLLdun_4jjbdj6y-WOea4Hpyh5xXhTGV6JPb1bphI6iIw_BdAl7RIgkgaRR4XJL9K2s=s0#w=1280&h=720=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/compilers-theory-and-practice--ud168",
+    "id": "udacity00095",
+    "description": "This course teaches the theory and practice behind building compilers for higher level programming languages."
+  },
+  {
+    "name": "Embedded Systems",
+    "img": "https://lh3.googleusercontent.com/2pkXdwI-G2p0PAAMEk8PSBCfrvv4lHwNeUH_r9Z94ab1ObtKxD7-xZIp0bVgtp9098RUrztffUC0YVtM0w=s0#w=1280&h=720=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/embedded-systems--ud169",
+    "id": "udacity00096",
+    "description": "This course takes a holistic view of the embedded system stack focusing on processor architectures, instruction sets, and the associated advanced compiler optimizations."
+  },
+  {
+    "name": "Network Security",
+    "img": "https://lh3.googleusercontent.com/DJ8IuJPQ48UdOyoJSs0kup9VP6J1eSa1Gl56U11SKIKKmYLgTbxR4TKZz3p3BM961X2FvqL7vwTBsq912pc=s0#w=1280&h=720=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/network-security--ud199",
+    "id": "udacity00097",
+    "description": "This course provides an introduction to computer and network security, including cryptography, cryptanalysis, and systems security."
+  },
+  {
+    "name": "Cyber-Physical Systems Security",
+    "img": "https://lh3.googleusercontent.com/pjV2kaEQlQuzZSTR8YwIYyDieRxdfH6i0QfGzSCI1iTawtnhYJmbn2RC0rXdsnSGf6FaoIuLHE11NyFL=s0#w=1280&h=720=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/cyber-physical-systems-security--ud279",
+    "id": "udacity00098",
+    "description": "This course provides an introduction to security issues relating to cyber-physical systems including industrial control systems and critical infrastructures."
+  },
+  {
+    "name": "Software Analysis & Testing",
+    "img": "https://lh3.googleusercontent.com/SUgYAaDunTYB1RIFzSj_qETd665fQDZ-YvqIul0ktREGI1UD7yfG1HhkqYLE4G0ACjFN8fprJv7wFu1wSg=s0#w=1280&h=720=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/software-analysis-testing--ud333",
+    "id": "udacity00099",
+    "description": "This course covers the theory and practice of software analysis, which is at the heart of software development processes such as diagnosing bugs, testing, and debugging."
+  },
+  {
+    "name": "Human-Computer Interaction",
+    "img": "https://lh3.googleusercontent.com/Q4TStFYcMPHKoSPAdx1ntatsGGVHhVWa2EfPRtuiI9_iozTuH8IqpKXM-CPr0sbtlQ2CdMF-7u278ncEePdL=s0#w=1280&h=720=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/human-computer-interaction--ud400",
+    "id": "udacity00100",
+    "description": "This course is an introductory course on human-computer interaction, covering the principles, techniques, and open areas of development in HCI."
+  },
+  {
+    "name": "Data Analysis and Visualization",
+    "img": "https://lh3.googleusercontent.com/FeFIlUq6mrW8Qe-sQG4iYD-F6Q8zJEB7pwdhKdizbDMZhI3Y5dXEdcHn3EiMV8X6kiDqbfGk51GSPz8bZQ=s0#w=1280&h=720=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/data-analysis-and-visualization--ud404",
+    "id": "udacity00101",
+    "description": "This course will introduce students to the field by covering state-of-the-art modeling, analysis and visualization techniques."
+  },
+  {
+    "name": "Artificial Intelligence",
+    "img": "https://lh3.googleusercontent.com/fDkrEfgd1GdtBiLTwr6C0AqxCGhrKQlUfZ5LxAUf69P0YZ-rCU4H7KL60sZMtQCGDD8wJeA_CWPFC3lacQ=s0#w=1280&h=720=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/artificial-intelligence--ud954",
+    "id": "udacity00102",
+    "description": "This course gives a survey of topics in AI along with in-depth foundational concepts such as classical search, probability, machine learning, logic and planning."
+  },
+  {
+    "name": "ES6 - JavaScript Improved",
+    "img": "https://lh3.googleusercontent.com/0dC8vDKLvvyHSy-n3zzyts0BzmyYZin9JcdcopObDhlZyOQI2SHVLCGF9S8Mk_qynoxyTAqd16utVWTtpfO5=s0#w=854&h=480=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/es6-javascript-improved--ud356",
+    "id": "udacity00103",
+    "description": "Learn about the changes made to the JavaScript programming language in ECMAScript 6 and how to use these new improvements to write better cleaner code."
+  },
+  {
+    "name": "Xcode Debugging",
+    "img": "https://lh3.googleusercontent.com/JvTxOEH2ZDx2R7nSdeehojPbLtOavHc4D2tj6b2UapwOZwdH0Wqv--LGYZ55G60G_qxpJyZdYF7oTBa1fw=s0#w=1758&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/xcode-debugging--ud774",
+    "id": "udacity00104",
+    "description": "In this course, you'll learn standard methodologies for debugging software, and how to use Xcode's debugging tools to find and squash bugs."
+  },
+  {
+    "name": "A/B Testing",
+    "img": "https://lh3.googleusercontent.com/FLR8sZtru0MSoate5rC2zIXWVHYqHaJVrRAQgK_ms9VkEBc_sy1sCBytGQMQlAlafdb_IP-IXRZcszor0kg=s0#w=1726&h=1061=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/ab-testing--ud257",
+    "id": "udacity00105",
+    "description": "Design and implement an A/B test to determine the efficacy of potential improvements to an online site or mobile app while specifying metrics to measure."
+  },
+  {
+    "name": "Data Visualization and D3.js",
+    "img": "https://lh4.ggpht.com/-8k47x6ig0mLWtYBVs1jSILrKvM6oxad_thcLIM4Hzf9KTLLafG3by9g443o_fb5ugXomH-eps6z94hp9Sk=s0#w=1725&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/data-visualization-and-d3js--ud507",
+    "id": "udacity00106",
+    "description": "Learn the fundamentals of data visualization and apply design and narrative concepts to create your own visualization."
+  },
+  {
+    "name": "Intro to Machine Learning",
+    "img": "https://lh4.ggpht.com/iH59AlLRPUJvthBY2aYpNo-qvIB0wsh7OXNAxNgBciwkUa0lLhxzvYswHVJjG012yD5eQgbWYmcHyDczMg=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-machine-learning--ud120",
+    "id": "udacity00107",
+    "description": "This class will teach you the end-to-end process of investigating data through a machine learning lens, and you'll apply what you've learned to a real-world data set."
+  },
+  {
+    "name": "Intro to Hadoop and MapReduce",
+    "img": "https://lh5.ggpht.com/JJc55ckwLOPH2koySqtvwd8Hc4vzFodhg-x5JxcvFKth-dKW_iD8zy9Ax2W8oPvyR6iOYoeVPRvclIhVmdE=s0#w=1725&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617",
+    "id": "udacity00108",
+    "description": "In this short course, learn the fundamentals of MapReduce and Apache Hadoop to start making sense of Big Data in the real world!"
+  },
+  {
+    "name": "Real-Time Analytics with Apache Storm",
+    "img": "https://lh6.ggpht.com/UfMbnNAjbz9gpWVzFhmYyOJg-5paoozIIkVhKWHAGNLpfaptKrysZxyuiQlqVkYiCHhyBBlJiowyxzHStn0P=s0#w=1748&h=1075",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/real-time-analytics-with-apache-storm--ud381",
+    "id": "udacity00109",
+    "description": "The world is trending in real time! Learn Apache Storm, taught by Twitter, to scalably analyze real-time tweets and drive d3 visualizations. Storm is free, open and fun!"
+  },
+  {
+    "name": "Intro to Data Analysis",
+    "img": "https://lh3.googleusercontent.com/oN7SxjOKxWSTnGr965xejpQxz7PDyojhhCDON_7-O0CIYTSCWkehbB4H6fni7rtbGW5K-EZ80aVz50Os6ck=s0#w=1553&h=954=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-data-analysis--ud170",
+    "id": "udacity00110",
+    "description": "Explore a variety of datasets, posing and answering your own questions about each. You'll be using the Python libraries NumPy, Pandas, and Matplotlib."
+  },
+  {
+    "name": "Intro to Data Science",
+    "img": "https://lh3.ggpht.com/PGzMw8H7sLoOMDvdpLVdg3rMH7xCnGtC6w5j47_ezPLh61QGgi0pzZoC-vrVUqpXmOggNgJGBcDd-NWC0Og=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-data-science--ud359",
+    "id": "udacity00111",
+    "description": "What does a data scientist do? In this course, we will survey the main topics in data science so you can understand the skills that are needed to become a data scientist!"
+  },
+  {
+    "name": "Object-Oriented JavaScript",
+    "img": "https://lh3.ggpht.com/RQ6qVahymlxJnOFi2Fn6p6iLNwMQmchGjyJcJuqDUyhNBHkfmrxHYvDhApGA2rptOzmsSA_XZ8V-VV9uEQ=s0#w=1724&h=1067",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/object-oriented-javascript--ud015",
+    "id": "udacity00112",
+    "description": "Build a variety of JavaScript objects and explore how their inheritance models affect your app's in-memory model. Gain simplicity and modularity in your own code."
+  },
+  {
+    "name": "HTML5 Canvas",
+    "img": "https://lh4.ggpht.com/eypKKAxmyK2LpMKULiQy76aAkS5M5-da0k9eUNP2HeK4bk7_ZgjAV65pAwSu-hjWM-sSwdUJkNeZAG8Wx8o=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/html5-canvas--ud292",
+    "id": "udacity00113",
+    "description": "Learn how you can use HTML5 Canvas to create and modify images or even interactive animations."
+  },
+  {
+    "name": "Intro to jQuery",
+    "img": "https://lh3.ggpht.com/lB5iRpDRGX9DbDvxXD1yyJO_ogqX2_XX1zgeAV9tOovVPc6VLgTb77YglQ_CkILg7KQGoFGys04UYOk-C3Pf=s0#w=1753&h=1078",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-jquery--ud245",
+    "id": "udacity00114",
+    "description": "Learn how to access and modify the DOM with ease using jQuery!"
+  },
+  {
+    "name": "Intro to AJAX",
+    "img": "https://lh3.ggpht.com/VM0Wo-7nMo9PvvjHoUW1Wzey41PSKlVafZUt6-n9bnZAsyhT0J1eCvBFViRDCUoolBQTHAAaJs2E_A-mod8=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-ajax--ud110",
+    "id": "udacity00115",
+    "description": "Learn how to perform asynchronous requests as you build a web app with data from Google Street View, the New York Times and Wikipedia!"
+  },
+  {
+    "name": "Intro to Artificial Intelligence",
+    "img": "https://lh3.ggpht.com/DlphLMafw8ni4x7O98V2LyrnKDxsFJpEuuC-kuLyGbYHLYmdwnpu490a8isnp6j_vh-Y_sKCX8N_NUi1wM8=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271",
+    "id": "udacity00116",
+    "description": "This course will introduce you to the basics of AI. Topics include machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing."
+  },
+  {
+    "name": "Data Analysis with R",
+    "img": "https://lh3.ggpht.com/lmdonpHvisppe4bgIF9a5UaEcM_78F0s6egR2hmVw5HnQGLuornNJCfpsNhBuGVokCpfn0WasYsqytT52elY=s0#w=1725&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/data-analysis-with-r--ud651",
+    "id": "udacity00117",
+    "description": "Data is everywhere and so much of it is unexplored. Learn how to investigate and summarize data sets using R and eventually create your own analysis."
+  },
+  {
+    "name": "UX Design for Mobile Developers",
+    "img": "https://lh3.googleusercontent.com/fjvDI57Yr-cJGSVWpLP2y9vYt_KmkI2wPYttsLfspVZBSB-y_0Jho2Q63v82FiiDgF8918gzwLt-8CJx5h8=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/ux-design-for-mobile-developers--ud849",
+    "id": "udacity00118",
+    "description": "This is a design course made for developers. You'll learn UX design skills which will help you make 5-star mobile apps that your users will love."
+  },
+  {
+    "name": "Developing Scalable Apps in Java",
+    "img": "https://lh4.ggpht.com/8Cb3zFphgqikhWUZKSUoKs9iRUmQ-BNGjGDNVjmDFwUZvyrNyqntiqS2T1I2iSQIKB05NKvJ4ZYp4Fa_hgk=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/developing-scalable-apps-in-java--ud859",
+    "id": "udacity00119",
+    "description": "You will learn about challenges of building applications that can serve hundreds of thousands of users, and how you can prepare for them as a developer."
+  },
+  {
+    "name": "Intro to Parallel Programming",
+    "img": "https://lh5.ggpht.com/lkq5D-G-UMgnK574HjI50bKwklgwoSqb37YRFYQnh6jQFravvrDPpxYUFbQFeJRkGLs-TkEBLF43omuUEfw=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-parallel-programming--cs344",
+    "id": "udacity00120",
+    "description": "Learn the fundamentals of parallel computing with the GPU and the CUDA programming environment by coding a series of image processing algorithms. #filters, #cuda."
+  },
+  {
+    "name": "Intro to Descriptive Statistics",
+    "img": "https://lh5.ggpht.com/nARp_CeSO3ILiHej7K63IJmbN2pzBNlz5A_btbgWiZTOMA9A03__DgsdO2ltcKk8ocEXjclUCmlI3aOkuBcu=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-descriptive-statistics--ud827",
+    "id": "udacity00121",
+    "description": "Intro to Descriptive Statistics will teach you the basic concepts of statistics that can be used to extract information from data."
+  },
+  {
+    "name": "Intro to Inferential Statistics",
+    "img": "https://lh5.ggpht.com/OD60sILjGeSrUb2O7nPqio4ym7qsZo7z_7M4vkxTeW4T_sj_mUosbK_omXfdDfyjK5oIv_XZGH1bOis8aMk=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-inferential-statistics--ud201",
+    "id": "udacity00122",
+    "description": "Intro to Inferential Statistics will teach you how to test your hypotheses and begin to make predictions based on statistical results drawn from data!"
+  },
+  {
+    "name": "Introduction to Operating Systems",
+    "img": "https://lh5.ggpht.com/wzdXuj_K5LRvUF3lRjFcOzNsDkqjSsFOw-hXO2jC4fS0cETu0FUmzNmaCqP1B295nEhOFTewBml-GX8RF68=s0#w=1728&h=1062",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/introduction-to-operating-systems--ud923",
+    "id": "udacity00123",
+    "description": "Introduction to Operating Systems teaches the basic operating system abstractions, mechanisms, and their implementations."
+  },
+  {
+    "name": "Intro to Information Security",
+    "img": "https://lh3.googleusercontent.com/Pb0nWySWyAWnotDDcetjlldoMvh7YurzS-ERshfEDtb1VYiahpCbtWufyZVUqNb9_DJiYyGreU-FG1nnKfQ=s0#w=1389&h=788=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-information-security--ud459",
+    "id": "udacity00124",
+    "description": ""
+  },
+  {
+    "name": "Advanced Operating Systems",
+    "img": "https://lh3.ggpht.com/SdbdPteIUGqjQT9M1z3FlEXulgHFwj60lYsnHovptPyAtE3U8bHF2ic2qUuxQs8D6zngFi2yEOUES1fOD3G-=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/advanced-operating-systems--ud189",
+    "id": "udacity00125",
+    "description": ""
+  },
+  {
+    "name": "Computability, Complexity & Algorithms",
+    "img": "https://lh6.ggpht.com/vYYjAYFZd3PyNKSsdHNQWCRx4BK4eNnc1-rEn956UjR2e1PyA9UMeFXE-Z08yNGaz4nPtZJR4nQcTe0WhwUl=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/computability-complexity-algorithms--ud061",
+    "id": "udacity00126",
+    "description": "Learn tools and techniques that will help you recognize when problems you encounter are intractable and when there an efficient solution."
+  },
+  {
+    "name": "Shell Workshop",
+    "img": "https://lh3.googleusercontent.com/s2S7Q8NyH4OlJ8Evfgdm08DDn9xyT6gUsbxZd3eN9Fpr9p_QAnZZfocSbgFG0uwvBQC4vElFS_zJ5btSRg=s0#w=1440&h=780=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/shell-workshop--ud206",
+    "id": "udacity00127",
+    "description": "The Unix shell is a valuable tool for developing and deploying software. Learn the basics of this terminal-based, command-line interface."
+  },
+  {
+    "name": "HTTP & Web Servers",
+    "img": "https://lh3.googleusercontent.com/MQllxxio7I1smqIMnxsa8V_LzaHEi_gOFxlPYhnI0oSzNk8LtLdflV3IPqzk0j4plFb51gX9crjwVHSV3A=s0#w=1440&h=780=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/http-web-servers--ud303",
+    "id": "udacity00128",
+    "description": "HTTP is the fundamental protocol of the Web. Explore how it works using Python code and command-line tools."
+  },
+  {
+    "name": "Knowledge-Based AI: Cognitive Systems",
+    "img": "https://lh3.ggpht.com/-JBocyEV8fz8jHy4stIq_HVt-CqCNpvmxwUQuOT7UMiM5zRJ6-5lDI92eUL6Ibvogdhvq2TmpHeR58y9jQqh=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409",
+    "id": "udacity00129",
+    "description": "The twin goals of knowledge-based artificial intelligence (AI) are to build AI agents capable of human-level intelligence and gain insights into human cognition."
+  },
+  {
+    "name": "Machine Learning for Trading",
+    "img": "https://lh3.googleusercontent.com/sstOlcko2U-Ah4Ot8xu0I-6JLpzHVlvwwjCNQ9fq7GW6YOKxdii1gxgUs44bt5qsy5qTT7kDCRu2GHiFrw=s0#w=1355&h=776=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/machine-learning-for-trading--ud501",
+    "id": "udacity00130",
+    "description": "Implement machine learning based strategies to make trading decisions using real-world data."
+  },
+  {
+    "name": "High Performance Computer Architecture",
+    "img": "https://lh6.ggpht.com/B1ND8fPrO0w0c7DZKdolG_brq4519bpZD8c93pETdLHXJZ-RTwDV4U2ODrMjQGA3wsecR-AvfqQQGPY-xg=s0#w=1725&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/high-performance-computer-architecture--ud007",
+    "id": "udacity00131",
+    "description": "The HPCA course covers performance measurement, pipelining, and improved parallelism through various means."
+  },
+  {
+    "name": "High Performance Computing",
+    "img": "https://lh3.googleusercontent.com/dd4IV3owDGDCyA3rmrTcmTuTlFSinNXTcjkcyxxBhqGEeNobLr2Ol_qv75V_6V8y1pvD0fa4e9aGgZbyfKo=s0#w=1292&h=790=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/high-performance-computing--ud281",
+    "id": "udacity00132",
+    "description": "This course will give you solid foundations for developing, analyzing, and implementing parallel and locality-efficient algorithms.  Offered at Georgia Tech as CS6220"
+  },
+  {
+    "name": "Health Informatics in the Cloud",
+    "img": "https://lh4.ggpht.com/7s3hjNWMv_mWstvK72kQn-L-5QxkIoIxNUIt6PoYLtn9F_Rtk5FFn2emBuwBqccNTgmSSc0M9vatJnYKx9gQ=s0#w=872&h=536",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/health-informatics-in-the-cloud--ud809",
+    "id": "udacity00133",
+    "description": "This survey course provides a broad, forward-facing overview of contemporary health informatics within the context of the US healthcare delivery system."
+  },
+  {
+    "name": "Computer Networking",
+    "img": "https://lh3.ggpht.com/PwqnZYeOVbWr4a3Qn3WkmZNzRlf6acf7EbQoGCBAqrmn1pOFrsX5vVr4WUHGTOaqslvjDY864Q8X2-o9ENU=s0#w=1725&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/computer-networking--ud436",
+    "id": "udacity00134",
+    "description": "This is an advanced Computer Networking course that delves into the latest concepts and tools used by the CN industry."
+  },
+  {
+    "name": "Computational Photography",
+    "img": "https://lh3.ggpht.com/NPkAVmaCxDtgPa217cAkhz8ncvLs9zKQVbfqeYwIXJ9GBuICYSI74-41Wy6p867bmRsZDdzOwOEbm79V8TE=s0#w=1060&h=651",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/computational-photography--ud955",
+    "id": "udacity00135",
+    "description": "This class explores how computation impacts the entire workflow of photography, which is traditionally aimed at capturing light from a 3D scene to form a 2D image."
+  },
+  {
+    "name": "Software Development Process",
+    "img": "https://lh4.ggpht.com/ghBERRE992L2Ueec3QyDH5xPVoNztaQvTTZ9POSDbZRAmYXoFiGN2TROmzJnP8hWIB05NM219nDWQrnSVw=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/software-development-process--ud805",
+    "id": "udacity00136",
+    "description": "Software Development Processes explores requirements engineering, architecture and design, testing, and software quality in general."
+  },
+  {
+    "name": "Software Architecture & Design",
+    "img": "https://lh3.ggpht.com/5ZaG0rk58jrfNdi0S89uZ4PfA-ae6dxhQYv1Zp3jktqqhiHf9XwSSaoVt6_0l-D0qrZwPOf52hGDIY40bMJP=s0#w=1725&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/software-architecture-design--ud821",
+    "id": "udacity00137",
+    "description": "Software Architecture and Design teaches the principles and concepts involved in the analysis and design of large software systems."
+  },
+  {
+    "name": "Artificial Intelligence for Robotics",
+    "img": "https://lh4.ggpht.com/dTaG60Lui_XeUUEDkZsIp7-RP7g6SLNWyHG9bbaZG2yDp24Mnc6R2tjzME5WNLlJdi6IJQM-YCwO_gEzug=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373",
+    "id": "udacity00138",
+    "description": "Learn how to program all the major systems of a robotic car. Topics include planning, search, localization, tracking, and control."
+  },
+  {
+    "name": "Introduction to Computer Vision",
+    "img": "https://lh3.googleusercontent.com/uWE0231t3xM35vp8r30Nd2D3mXcX8fetc_5riLYaETXj0tC1f9OD5rF1ZMIZGsODc-yf6AdLgEZg97cgN0bA=s0#w=1440&h=885=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/introduction-to-computer-vision--ud810",
+    "id": "udacity00139",
+    "description": "This course provides an introduction to computer vision including fundamentals, methods for application and machine learning classification."
+  },
+  {
+    "name": "Educational Technology",
+    "img": "https://lh3.googleusercontent.com/ghpGxX7Tl2qgIiGFWqbC9YUTgi0lZczirI5CRtbeFvFtCiilon6wuOvp45NE2vVZH4s9UOi9o4lfiIOBcG0=s0#w=1214&h=808=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/educational-technology--ud915",
+    "id": "udacity00140",
+    "description": "This class is an an introductory course about educational technology offered as CS6460 at Georgia Tech where it is a part of the Online Masters Degree (OMS)."
+  },
+  {
+    "name": "Reinforcement Learning",
+    "img": "https://lh3.googleusercontent.com/pt1vxMCUDY1FFAyiff0s7ZrIivaUhYvNz3wP3RrkLLYScqh3lVWlqGEnRLKjgzIZC8yHP4XAguxIR-8ZE6A=s0#w=1287&h=782=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/reinforcement-learning--ud600",
+    "id": "udacity00141",
+    "description": "Study machine learning at a deeper level and become a participant in the reinforcement learning research community."
+  },
+  {
+    "name": "Linear Algebra Refresher Course",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/images/ud953-d95e68e.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/linear-algebra-refresher-course--ud953",
+    "id": "udacity00142",
+    "description": "Learn linear algebra by doing: you will code your own library of linear algebra functions!"
+  },
+  {
+    "name": "Data Wrangling with MongoDB",
+    "img": "https://lh3.ggpht.com/ll9ungBQPIwG1u5WHYyB_q-CO6gAzJC-fT3xotaS5DV3UbNZ7Xdz6b5T3Jpl7aEfmVEY2gjvkkt7KzWVeIo=s0#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/data-wrangling-with-mongodb--ud032",
+    "id": "udacity00143",
+    "description": "Data Scientists spend most of their time cleaning data. In this course, you will learn to convert and manipulate messy data to extract what you need."
+  },
+  {
+    "name": "Model Building and Validation",
+    "img": "https://lh4.ggpht.com/kYr0sxkZKUC3-xlCQHRB1aH9Sr7BibEsBSNLPLJykneum-CnGeecsH-10yzsbbnLYMcM9-uIoGWacJ7HHw=s0#w=1071&h=659",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/model-building-and-validation--ud919",
+    "id": "udacity00144",
+    "description": "This course will teach you how to start from scratch in understanding and paying attention to what is important in the data and how to answer questions about data."
+  },
+  {
+    "name": "Intro to the Design of Everyday Things",
+    "img": "https://lh3.ggpht.com/DbM6XZ7d1YBNVsdieedaRqEjGrJWNgwKFss7yIqNGDZpnd6O6YbJH1FcIb6SgGdGf3VGm85itUNyMi7-Jy0=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101",
+    "id": "udacity00145",
+    "description": "This course will provide you with the insight to start recognizing the role of design in todays world, and to start making better design decisions in your own life."
+  },
+  {
+    "name": "Website Performance Optimization",
+    "img": "https://lh6.ggpht.com/f_0W8h__3G99CWTjnMjD8BUKm7yp2-wJyApLtTwFoFtlal2ULf_JgHIsOQq2NiYfKOdMlXlMHDKNo5XVZLs=s0#w=1757&h=1080",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/website-performance-optimization--ud884",
+    "id": "udacity00146",
+    "description": "Learn how browsers convert HTML, CSS and JavaScript into websites while you experiment with Chrome Developer Tools to measure and optimize website speed!"
+  },
+  {
+    "name": "Make Your Own 2048",
+    "img": "https://lh4.ggpht.com/kJEnfqhPvtm4m3EneSZ4fWYGS8lW4YNhEjk6zPkyrQaBUHc-2Y_ElDic99NHI0h-UBLXVbRCjFybFvrWxdk=s0#w=970&h=485",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/make-your-own-2048--ud248",
+    "id": "udacity00147",
+    "description": "Ten minutes into this class you'll make your own completely personalized version of the insanely addictive game 2048. Even if you've never coded before. Pretty cool, no?"
+  },
+  {
+    "name": "Applied Cryptography",
+    "img": "https://lh4.ggpht.com/5VkY7VUpL3oGc1MTj01krvUZfEXbR_OGt07C_WQAq84m-q8aAMcFWgmmyeotMR0IfCordz07ffCA1T6YXgbp=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/applied-cryptography--cs387",
+    "id": "udacity00148",
+    "description": "Cryptography is present in everyday life, from paying with a credit card to using the telephone.  Learn all about making and breaking puzzles in computing."
+  },
+  {
+    "name": "Intro to Statistics",
+    "img": "https://lh5.ggpht.com/TeJwuxZIGGaiuAVtTI69tdHKrrs9DOBNgvBHe487ISVN38fGJ-TMDlffwmQd_ObDe4f_FQeLatO3tziADw=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-statistics--st101",
+    "id": "udacity00149",
+    "description": "Get ready to analyze, visualize, and interpret data! Thought-provoking examples and chances to combine statistics and programming will keep you engaged and challenged."
+  },
+  {
+    "name": "Intro Algebra Review",
+    "img": "https://lh6.ggpht.com/6x6Voubq_rHHA3etDwFYP_44ZvSrY-gEb3V6iYmLoF2YDGAH18vm-anCt_UrYH-PCer0OCQKIC8w6_mVuLo=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-algebra-review--ma004",
+    "id": "udacity00150",
+    "description": "A brief review of introductory algebra topics including integer operations, scientific notation, algebraic expressions, linear equations, and graphing."
+  },
+  {
+    "name": "College Algebra",
+    "img": "https://lh5.ggpht.com/HAd0NKxmFBEQUW4ZtRbw3uKUyrt5-NGYTwF7-2QoZjAK0wOOA8iKp-_Pjsyh9z7h210KsLewhtfLV5VGfQ=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/college-algebra--ma008",
+    "id": "udacity00151",
+    "description": "Gain an in-depth understanding of algebraic principles and learn how to use them to solve problems you may meet in everyday life."
+  },
+  {
+    "name": "Visualizing Algebra",
+    "img": "https://lh3.ggpht.com/rn3G8eo7AcAany1s2pLJZLZhwzoPGRocmxcMxMaT-nng8SA2-Md544lS0aVNeGFYmDbQbVEXWF-I9fAfevM=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/visualizing-algebra--ma006",
+    "id": "udacity00152",
+    "description": "Learn the basics of Algebra through intuition and problem solving! From fractions to factors to functions, well cover a breadth of topics."
+  },
+  {
+    "name": "Software Testing",
+    "img": "https://lh4.ggpht.com/5ikgV5XANy8ChkjUqGy4YG-4MCiREXo-SZ7p7YEFqCqIpmJ34TqTofWjG8Nz6RlxzNmgtDQxAeLeLsbE-8Kh=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/software-testing--cs258",
+    "id": "udacity00153",
+    "description": "Learn how to catch bugs and break software as you discover different testing methods that will help you build better software."
+  },
+  {
+    "name": "Intro to Algorithms",
+    "img": "https://lh4.ggpht.com/XYlScEjY8t3gmrnlodRerH8kpnQAxnG8ofy9aj8hJHm44-HvyISIs32YY2rQKNTA3sYN4yXuegk7nNjtPg=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-algorithms--cs215",
+    "id": "udacity00154",
+    "description": "This class will give you an introduction to the design and analysis of algorithms, enabling you to analyze networks and discover how individuals are connected."
+  },
+  {
+    "name": "Interactive 3D Graphics",
+    "img": "https://lh6.ggpht.com/bhgSqT5HG44uWr9Yiz7dD8OKlAKPBuKIAhOCNP5Er0O3bBQrWVaiFQycsILakHPQ3XLltvqVDcN3FOSVkdk=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/interactive-3d-graphics--cs291",
+    "id": "udacity00155",
+    "description": "This course will teach you the principles of 3D computer graphics: meshes, transforms, lighting, animation, and making interactive 3D applications run in a browser."
+  },
+  {
+    "name": "Programming Languages",
+    "img": "https://lh4.ggpht.com/TPffw_nig2w-w-ibEys-6iIZqJUXv3ceWraNtZAEY-kFz8XMUh_jqi7sOiuJLeJ0N-NCyFTMjwpLOUIQOwk=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/programming-languages--cs262",
+    "id": "udacity00156",
+    "description": "This course is an introduction to the fundamentals of programming languages. Concepts include how to specify and process valid strings, sentences and program structures."
+  },
+  {
+    "name": "Design of Computer Programs",
+    "img": "https://lh3.ggpht.com/M8Ws2Jr9z9HYIcvev27ZNt1Fb2XsFNkD6qtQnYHzVyUPu-oqAU7Da2YD1vzxbLu302cg_77xmqaX0VCvNAk=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/design-of-computer-programs--cs212",
+    "id": "udacity00157",
+    "description": "Learn how to model problems, and how to optimize performance by using some of the advanced features of Python."
+  },
+  {
+    "name": "Differential Equations in Action",
+    "img": "https://lh6.ggpht.com/ECYZkX-7ISq3MJdRY-vsyvz7OZTz7GwmpX_CFb8Z2MiI6PAFHWm12xyh_hegFepPRK8L7XK_2rRaiA-s7A=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/differential-equations-in-action--cs222",
+    "id": "udacity00158",
+    "description": "Write Python code to find numerical solutions to systems of differential equations. The models you create will fight wildfires, bring spaceships back to earth, and more!"
+  },
+  {
+    "name": "Software Debugging",
+    "img": "https://lh5.ggpht.com/K8Fm7x8PB9bmLOscL4Mt-wTyFU0y2NF1B06wGOrgXDkEfcoNb4KXPJp9IXaB06MctgT06VOn7d1Y6_EyUxs=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/software-debugging--cs259",
+    "id": "udacity00159",
+    "description": "In this course you will learn how to debug programs systematically using scientific methods and build several automated debugging tools in Python."
+  },
+  {
+    "name": "Intro to Theoretical Computer Science",
+    "img": "https://lh5.ggpht.com/vb0Pb3pzliCuiVgmwpE0JI9Ktgzmf4x-7AY4t6N7Uqvdw720eadz8Vwhx_47L8ZQet_rE9Ghce8Z-aOGLGU=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313",
+    "id": "udacity00160",
+    "description": "Learn the basic concepts in theoretical computer science. Discover what they imply for solving tough computational challenges."
+  },
+  {
+    "name": "Machine Learning",
+    "img": "https://lh3.ggpht.com/qYa_klGgwhsrYg9HIo6U7ln4B10p1zJvNy5i_0iyowC8RiRMJ8c2mfJToAqOA8SRS36ziDkGmluycIj-GQ=s0#w=1150&h=706",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/machine-learning--ud262",
+    "id": "udacity00161",
+    "description": "In this course, you'll learn how to apply Supervised, Unsupervised and Reinforcement Learning techniques for solving a range of data science problems."
+  },
+  {
+    "name": "Intro to Physics",
+    "img": "https://lh6.ggpht.com/9xDuLEr_4CuXcBZVbMQPagaUOvdUOH_T8V4I9Nm9XvDogvR4_yudI60v5_0tWedKx2LInYQiV6KOGqNPXuo=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-physics--ph100",
+    "id": "udacity00162",
+    "description": "Go to the places where big physics discoveries were made in the past and make them yourself. Youll visit Italy, the Netherlands, and the UK as you learn basic physics."
+  },
+  {
+    "name": "Tales from the Genome",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/images/bio110-49da14a.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/tales-from-the-genome--bio110",
+    "id": "udacity00163",
+    "description": "Learn the basics of genetics, with a personal twist. This class is all about DNA and how it shapes who we are."
+  },
+  {
+    "name": "Intro to Psychology",
+    "img": "https://lh3.ggpht.com/W5BzbDFitZydf3rAqTsZ3RuFm4HS2ZBoGOPwjSZSqTkD0ZUC6DhURuAa0fIHr6D8LSQk9r73QFqnJtSTXzY=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-psychology--ps001",
+    "id": "udacity00164",
+    "description": "Go on a journey through psychological concepts and principles to enable you to gain a more in-depth understanding of human thought and behavior."
+  },
+  {
+    "name": "OMSCS Student Orientation",
+    "img": "https://lh3.googleusercontent.com/Z306sFML2loGn_bqSYe2-7ZeZn1f2MCA7lXvddO_c9qmX1Xxm1fx8PaNm5dDzfvyE6mHEEm-gqq4Bw_3NA=s0#w=1430&h=770=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/omscs-student-orientation--gt101",
+    "id": "udacity00165",
+    "description": "In this OMS Orientation, we cover several things you will need to know to be a successful OMS student."
+  },
+  {
+    "name": "GT - Refresher - Advanced OS",
+    "img": "https://lh4.ggpht.com/mxbXeNtIMEhL0fCWbu9mlS0ozDSVkSlFg_tAYugac8ENfgPP0q796lCaVaSUfpjBsLEpX7Y1MdiPikDryeQk=s0#w=976&h=600",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/gt-refresher-advanced-os--ud098",
+    "id": "udacity00166",
+    "description": "This course covers the essential Operating Systems concepts students need in preparation for the rest of the GT \"Advanced Operating Systems\" sequence."
+  },
+  {
+    "name": "Statistics",
+    "img": "https://lh4.ggpht.com/_yY2HpkGPtWOavyZ1ALxuDuSzVMBmy8eRKBLOH827E0--j9T62WsG6mDh8eTg8oyqrROr55kN0sRuAeKzS4=s0#w=436&h=268",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/statistics--st095",
+    "id": "udacity00167",
+    "description": "We live in a time of unprecedented access to information. You'll learn how to use statistics to interpret that information and make decisions."
+  },
+  {
+    "name": "Engagement & Monetization | Mobile Games",
+    "img": "https://lh3.googleusercontent.com/mvLbJefOKGEDsCd3_qKTJVi3YWRvNGuCC0azxfmcMVsSsOjPxi1YxVzt-UYBt5aGL1Qa67J1ZOrLHrAX9uoF=s0#w=1732&h=1065=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/engagement-monetization-mobile-games--ud407",
+    "id": "udacity00168",
+    "description": "You will learn the most effective monetization strategies for your game, how to  keep your players interested and engaged, so that your game stands out in the app store."
+  },
+  {
+    "name": "Networking for Web Developers",
+    "img": "https://lh3.googleusercontent.com/D4lIL8SEeU-yFKUv2cQE_iY5-1LvtR-oTsMA8MjFSvL7XiEdcxpnwqfXUNk3URzTBri-rEFEecvfy0oEhbU=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/networking-for-web-developers--ud256",
+    "id": "udacity00169",
+    "description": "You've used the Internet. Now find out more about how it works."
+  },
+  {
+    "name": "Front End Frameworks",
+    "img": "https://lh3.googleusercontent.com/8pON7YYmLDJk7IymiYvvylNLGvLC2-fAGwcSKKli_tdwskej0z-ZIV8iM50hzh3yBJcEhjEkc7-CK6b4nMI=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/front-end-frameworks--ud894",
+    "id": "udacity00170",
+    "description": "Explore and build interactive, single-page applications with popular JavaScript frameworks!"
+  },
+  {
+    "name": "Technical Interview",
+    "img": "https://lh3.googleusercontent.com/uIqdO2AmL0fzzVxYF02KPuusuBxdFgbFGY-EfQhWuc8kKroaqUpameNoI8-cg-rRrfW0-RKM29AwgZQuBA=s0#w=3264&h=2448=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/technical-interview--ud513",
+    "id": "udacity00171",
+    "description": "Learn the skills technical interviewers expect you to knowefficiency, common algorithms, manipulating popular data structures, and how to explain a solution."
+  },
+  {
+    "name": "Deploying a Hadoop Cluster",
+    "img": "https://lh3.googleusercontent.com/LZEsP1t-pqTSszFWtnW6GwEHSJysztkRYJhKS9MgaZD8XudvrpwZPSbHCxplxApoLbpROviO4SRaDUp6pRO1=s0#w=1440&h=913=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000",
+    "id": "udacity00172",
+    "description": "Deploy your own Hadoop cluster to crunch some big data!"
+  },
+  {
+    "name": "Scalable Microservices with Kubernetes",
+    "img": "https://lh3.googleusercontent.com/hqA_2FcPMhebJNIRcKkMWZYtu48FMsFebTkxmsfkKaTdYWakds5T9K543EZ1Epm7ES7Ej_tJtllvwrjjZI4=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615",
+    "id": "udacity00173",
+    "description": "This course is designed to teach you about managing microservices, using Kubernetes. This course is built in partnership with experts such as Googles Kelsey Hightower."
+  },
+  {
+    "name": "Objective-C for Swift Developers",
+    "img": "https://lh3.googleusercontent.com/BIzZm34LnDa29wnQUzim3AMSfOgNTeg9cB3TMFy-XnkrJa5MSR4Hcx4Yay7xAYorF-CcGGlUTaGU1Ma5iKw=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/objective-c-for-swift-developers--ud1009",
+    "id": "udacity00174",
+    "description": "Learn the distinguishing language features of Objective-C. Practice Objective-C syntax by writing classes, and writing and calling methods."
+  },
+  {
+    "name": "Google Maps APIs",
+    "img": "https://lh3.googleusercontent.com/vKQV83wj8cDEJ0PliHdf9xNiro1PA7xKLyQ-TJUqc-yn-u34aK3s_8E7ovfQPnNbKNsMkTWYNcLUZeYWgMo=s0#w=1600&h=900=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/google-maps-apis--ud864",
+    "id": "udacity00175",
+    "description": "This course will introduce you to the content available through the Google Maps APIs through building a real-estate listings web application step-by-step."
+  },
+  {
+    "name": "Intro to Progressive Web Apps",
+    "img": "https://lh3.googleusercontent.com/HQ7c0Q4wMuar7NPj0vTC4oTTwGe5JJ0PIBwzU475YE4dRbcoUSHvrDfNRKT_wWHAdHiIyqwHhhYWdOboNC0=s0#w=770&h=389=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-progressive-web-apps--ud811",
+    "id": "udacity00176",
+    "description": "In this course youll get started working on your very first Progressive Web App (PWA) - a web app that can take advantage of many features native applications have enjoyed!"
+  },
+  {
+    "name": "Java Programming Basics",
+    "img": "https://lh3.googleusercontent.com/RitesRVWcm2hnOIgwToRukvEPKFZMn-i5xSJ7IVqURBrLoy4Ta7ERbiSkHYQe5-LPinW7VBgrVCa1opO8Q0=s0#w=1920&h=1080=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/java-programming-basics--ud282",
+    "id": "udacity00177",
+    "description": "Take your first steps towards becoming a Java developer! Learn Java syntax and create conditional statements, loops, and functions."
+  },
+  {
+    "name": "Object Oriented Programming in Java",
+    "img": "https://s3.amazonaws.com/video.udacity-data.com/topher/2017/August/598b836b_ud283/ud283.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/object-oriented-programming-in-java--ud283",
+    "id": "udacity00178",
+    "description": "Learn how to apply powerful object-oriented programming concepts in Java"
+  },
+  {
+    "name": "Big Data Analytics in Healthcare",
+    "img": "https://lh3.googleusercontent.com/8YggLRpwUrdeF6rKjCad-7dYPO9ZBiKxMlVZIWdeLE7rWEjMCJN6s7SODk6fC3mt9K6eVUjagY3CYhUoGA=s0#w=1183&h=776=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758",
+    "id": "udacity00179",
+    "description": "In this course, we introduce the characteristics of medical data and associated data mining challenges on dealing with such data. We cover various algorithms and systems."
+  },
+  {
+    "name": "Time Series Forecasting",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud980_screenshot.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/time-series-forecasting--ud980",
+    "id": "udacity00180",
+    "description": "The Time Series Forecasting course provides students with the foundational knowledge to build and apply time series forecasting models in a variety of business contexts."
+  },
+  {
+    "name": "Segmentation and Clustering",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud981_screenshot.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/segmentation-and-clustering--ud981",
+    "id": "udacity00181",
+    "description": "The Segmentation & Clustering course provides students with the knowledge to build and apply clustering models to develop sophisticated segmentation in business contexts."
+  },
+  {
+    "name": "Data Visualization in Tableau",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud1006_screenshot.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/data-visualization-in-tableau--ud1006",
+    "id": "udacity00182",
+    "description": "Learn the fundamentals of data visualization and practice communicating with data."
+  },
+  {
+    "name": "Introduction to Virtual Reality",
+    "img": "https://lh3.googleusercontent.com/eIOkiYRITNN1cfPmJqyHwTGvoCvZCVTBQyTkE0uMSpkqBOja6PWNIRyI_f_-fKpP9I5NA-RipTl8amKEgCbY=s0#w=1725&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/introduction-to-virtual-reality--ud1012",
+    "id": "udacity00183",
+    "description": "If you are interested in learning more about virtual reality, this course will teach you the principles of VR technology and help you understand what you can build in VR."
+  },
+  {
+    "name": "VR Scenes and Objects",
+    "img": "https://lh3.googleusercontent.com/KGHumEwRLoil6snfmGWyIW_UQ_DNyHChIzvvlf_s-BOe1UlJOIdvux4CU_Ic8s-YDb2CzEsRaxqntdez=s0#w=1724&h=1060=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/vr-scenes-and-objects--ud1013",
+    "id": "udacity00184",
+    "description": "Take the first step in Unity and begin to develop VR content. Learn the principles of the Unity platform and help you understand what you can build in VR!"
+  },
+  {
+    "name": "VR Software Development",
+    "img": "https://lh3.googleusercontent.com/8OcQ_YMQSsZN83C4hMQJkrSIQX4_r5AYnUM5QOBx_t4v8fdqqwqa-9p5hpBVKY9ili-9uEzdKisuNNXyymwj=s0#w=1552&h=1012=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/vr-software-development--ud1014",
+    "id": "udacity00185",
+    "description": "Learn about the world of virtual reality programming! You will learn the basics of programming in C# and how to use it control virtual reality applications in Unity."
+  },
+  {
+    "name": "Swift for Beginners",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud1022-screenshot.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/swift-for-beginners--ud1022",
+    "id": "udacity00186",
+    "description": "Learn Swift, Apple's programming language for building iOS applications. Start with the basics and work your way towards completing sets of challenges in Swift."
+  },
+  {
+    "name": "Swift for Developers",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud1025-screenshot.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/swift-for-developers--ud1025",
+    "id": "udacity00187",
+    "description": "Get a quick practical introduction to Swift programming basics and build your first iOS app!"
+  },
+  {
+    "name": "Server-Side Swift",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/images/ud1031-72cdb44.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/server-side-swift--ud1031",
+    "id": "udacity00188",
+    "description": "In this course, built in collaboration with IBM and Hashicorp, you'll learn how to use Swift as a server-side language for building end-to-end applications."
+  },
+  {
+    "name": "AutoLayout",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud1026-screenshot.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/auto-layout--ud1026",
+    "id": "udacity00189",
+    "description": "With this course, you will learn about AutoLayout and how to use stack views and constraints to create pixel-perfect UIs."
+  },
+  {
+    "name": "Building iOS Interfaces",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud1027_screenshot.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/building-ios-interfaces--ud1027",
+    "id": "udacity00190",
+    "description": "Learn the best practices for creating iOS interfaces. Build adaptive interfaces, animate UI elements, and analyze designs from popular apps on the App Store."
+  },
+  {
+    "name": "iOS Design Patterns",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/ios-design-patterns--ud1029",
+    "id": "udacity00191",
+    "description": "In this course, you'll explore iOS design patterns  the practical and battle-tested solutions to common problems that are used everyday by developers."
+  },
+  {
+    "name": "Continuous Integration and Deployment",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/ud1030-427f4ea.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/continuous-integration-and-deployment--ud1030",
+    "id": "udacity00192",
+    "description": "In this course, you'll learn how to improve the mobile development process by using continuous integration and deployment."
+  },
+  {
+    "name": "Android Basics: User Interface",
+    "img": "https://lh3.googleusercontent.com/OuxjCWSkZiR7EfOSHGk78j0f2-AEIyYAgjUdU-JCRKd8D7RhDW8yl4Z7fUq4AruPyWvBwO3PdY7fzvbLFdWE=s0#w=277&h=170=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/android-basics-user-interface--ud834",
+    "id": "udacity00193",
+    "description": "Learn how to design your first layout in Android! This is the first course in the Android Basics Nanodegree program."
+  },
+  {
+    "name": "Firebase Analytics: iOS",
+    "img": "https://lh3.googleusercontent.com/Wcx6RDDUzQQNmkEyNmhWb8RTiBQCdgo0KTa2ozyevQoFN5HIs-u-NRzHJLhIgyPcRx9Pd49VJMvxdq65p8A=s0#w=2560&h=1440=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/firebase-analytics-ios--ud353",
+    "id": "udacity00194",
+    "description": "Learn how to grow an app's user base using Firebase Analytics, a free and unlimited analytics solution"
+  },
+  {
+    "name": "Firebase Analytics: Android",
+    "img": "https://lh3.googleusercontent.com/2qud_sfu12EC5-NJq-Jkidg2DEO2yLAjfNBc0Lw-zP0-o4yHgzbCJMEeoyFUx3ZI7qX8KftnlhusS0Jbzd4=s0#w=2560&h=1440=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/firebase-analytics-android--ud354",
+    "id": "udacity00195",
+    "description": "Learn how to grow an app's user base using Firebase Analytics, a free and unlimited analytics solution"
+  },
+  {
+    "name": "Core ML: Machine Learning for iOS",
+    "img": "https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dfd6c0_core-ml-cover/core-ml-cover.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/core-ml--ud1038",
+    "id": "udacity00196",
+    "description": "Learn how to use Apple's Core ML framework to build iOS apps with intelligent new features."
+  },
+  {
+    "name": "Passwordless Login Solutions for iOS",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud1028-ud357_screenshot.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/passwordless-login-solutions-for-ios--ud1028",
+    "id": "udacity00197",
+    "description": "In this course you'll implement Account Kit and Facebook Login side by side in a sample app, test our login flow on a series of common use cases, and wrap things up with an introduction to Facebooks Graph API."
+  },
+  {
+    "name": "Digital Marketing Fundamentals",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx11-e152d95.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/digital-marketing-fundamentals--cx11",
+    "id": "udacity00198",
+    "description": "Learn a solid framework to  help you organize and plan your digital marketing strategy."
+  },
+  {
+    "name": "Content Marketing Essentials",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx12-9845405.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/content-marketing-essentials--cx12",
+    "id": "udacity00199",
+    "description": "Learn how to plan your content marketing, how to develop content that works well for your target audience, and how to measure its impact."
+  },
+  {
+    "name": "Social Media Marketing",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx13-5385662.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/social-media-marketing--cx13",
+    "id": "udacity00200",
+    "description": "Learn about the main social media platforms including Facebook and Twitter, how to manage your social media presence, and how to create effective content for each platform."
+  },
+  {
+    "name": "Social Media Advertising",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx14-be33b7d.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/social-media-advertising--cx14",
+    "id": "udacity00201",
+    "description": "In this course, you will learn about the opportunities for targeted advertising in social media and how to execute advertising campaigns that resonate with your audience."
+  },
+  {
+    "name": "Search Engine Optimization (SEO)",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx15-a0ba961.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/search-engine-optimization--cx15",
+    "id": "udacity00202",
+    "description": "Learn how to use SEO to optimize your search engine presence through on-site and off-site activities, including how to develop your target keyword list."
+  },
+  {
+    "name": "Search Engine Marketing with AdWords (SEM)",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx16-5b5a2ff.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/search-engine-marketing-adwords--cx16",
+    "id": "udacity00203",
+    "description": "In this  course, you learn how to create, execute, and optimize an effective ad campaign using AdWords by Google."
+  },
+  {
+    "name": "Display Advertising",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx17-f597b38.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/display-advertising--cx17",
+    "id": "udacity00204",
+    "description": "In this course, you learn how display advertising works, how it is bought and sold (including in a programmatic environment), and how to set up a display advertising campaign using Googles AdWords"
+  },
+  {
+    "name": "Measure & Optimize with Google Analytics",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx19-4cce734.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/measure-optimize-with-google-analytics--cx19",
+    "id": "udacity00205",
+    "description": "In this course, you'll learn how to use Google Analytics to evaluate your audience, measure the success of your acquisition, engagement efforts, and evaluate your users conversions to your goals."
+  },
+  {
+    "name": "Eigenvectors and Eigenvalues",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course/ud104-screenshot.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104",
+    "id": "udacity00206",
+    "description": "Learn how to calculate eigenvalues and eigenvectors and why they are important for AI applications."
+  },
+  {
+    "name": "Introduction to Virtual Reality",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/projects/nd017/9489243112.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/intro-to-virtual-reality--cx40",
+    "id": "udacity00207",
+    "description": "This course is your first step towards a new career with the VR Developer Nanodegree Program."
+  },
+  {
+    "name": "VR Scenes and Objects",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/projects/nd017/9836469187.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/vr-scenes-objects--cx41",
+    "id": "udacity00208",
+    "description": "Learn the the fundamentals of using the Unity Game Engine to build beautiful and performant VR scenes."
+  },
+  {
+    "name": "VR Software Development",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/projects/nd017/9797106873.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/vr-software-development--cx42",
+    "id": "udacity00209",
+    "description": "Learn basic programming constructs such as methods, loops, variables, and using events and how to apply them in a VR environment."
+  },
+  {
+    "name": "Deep Learning - Generative Adversarial Networks",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/projects/10459242596.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/generative-adversarial-networks--cx20",
+    "id": "udacity00210",
+    "description": "Learn how to build generative adversarial networks with TensorFlow, and master Deep Learning."
+  },
+  {
+    "name": "Deep Learning - Recurrent Neural Networks",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/projects/10463553151.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/recurrent-neural-networks--cx21",
+    "id": "udacity00211",
+    "description": "Learn how to build recurrent neural networks with TensorFlow"
+  },
+  {
+    "name": "Deep Learning - Convolutional Neural Networks",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/projects/10455805681.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/convolutional-neural-networks--cx22",
+    "id": "udacity00212",
+    "description": "Learn how to build convolutional neural networks with TensorFlow."
+  },
+  {
+    "name": "Artificial Intelligence - Voice User Interfaces",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/voice-user-interface--cx23",
+    "id": "udacity00213",
+    "description": ""
+  },
+  {
+    "name": "Artificial Intelligence - Natural Language Processing",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/natural-language-processing--cx24",
+    "id": "udacity00214",
+    "description": ""
+  },
+  {
+    "name": "Artificial Intelligence - Computer Vision",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/computer-vision--cx25",
+    "id": "udacity00215",
+    "description": ""
+  },
+  {
+    "name": "Artificial Intelligence - Deep Learning",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/artificial-intelligence-deep-learning--cx26",
+    "id": "udacity00216",
+    "description": "Learn the fundamentals of deep neural networks including Convolutional and Recurrent Neural Networks."
+  },
+  {
+    "name": "Artificial Intelligence - Probabalistic Models",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/probabalistic-models--cx27",
+    "id": "udacity00217",
+    "description": "Learn about inference in probabilistic models using Bayes rule."
+  },
+  {
+    "name": "Artificial Intelligence - Logic, Reasoning, and Planning",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/ai-logic-reasoning-planning--cx28",
+    "id": "udacity00218",
+    "description": "Learn about problem solving with propositional and first-order logic, and solving domain-independent planning through search."
+  },
+  {
+    "name": "Artificial Intelligence - Search and Optimization",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/ai-search-optimization--cx29",
+    "id": "udacity00219",
+    "description": ""
+  },
+  {
+    "name": "Excel Fundamentals",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/learn-excel-cx30",
+    "id": "udacity00220",
+    "description": "Learn how to use Microsoft Excel to navigate a spreadsheet, manipulate and summarize data, and create engaging visualizations."
+  },
+  {
+    "name": "Self-Driving Car Engineer - Deep Learning",
+    "img": "https://d17h27t6h515a5.cloudfront.net/topher/2016/October/580f8f75_8-convolutional-neural-networks/8-convolutional-neural-networks.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/sdc-deep-learning--cx31",
+    "id": "udacity00221",
+    "description": "Build and train deep neural networks to classify traffic signs and to drive a car in a simulator."
+  },
+  {
+    "name": "Self-Driving Car Engineer - Computer Vision",
+    "img": "https://d17h27t6h515a5.cloudfront.net/topher/2017/January/586af41b_multi-vehicle-bbox/multi-vehicle-bbox.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/sdc-computer-vision--cx32",
+    "id": "udacity00222",
+    "description": "Construct computer vision pipelines for lane detection and vehicle tracking."
+  },
+  {
+    "name": "Self-Driving Car Engineer - Sensor Fusion",
+    "img": "https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58b82b1d_ctrv500x500/ctrv500x500.png",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/sdc-sensor-fusion--cx33",
+    "id": "udacity00223",
+    "description": "Fuse lidar and radar sensor data to track objects over time."
+  },
+  {
+    "name": "Self-Driving Car Engineer - Localization",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/sdc-localization--cx34",
+    "id": "udacity00224",
+    "description": "Pinpoint where your vehicle is with single-digit centimeter level accuracy."
+  },
+  {
+    "name": "Self-Driving Car Engineer - Control",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/sdc-control--cx35",
+    "id": "udacity00225",
+    "description": "Actuate the vehicle using control algorithms of varying levels of complexity."
+  },
+  {
+    "name": "Self-Driving Car Engineer - Path Planning",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/sdc-path-planning--cx36",
+    "id": "udacity00226",
+    "description": "Path planning for self-driving cars involves three phases: environmental prediction, behavioral planning, and trajectory generation."
+  },
+  {
+    "name": "Self-Driving Car Engineer - Advanced Deep Learning",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/sdc-advanced-deep-learning--cx37",
+    "id": "udacity00227",
+    "description": "Identify free space on the road so that your vehicle can plan the optimal path."
+  },
+  {
+    "name": "Self-Driving Car Engineer - Functional Safety",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/sdc-functional-safety--cx38",
+    "id": "udacity00228",
+    "description": "Ensuring acceptable risk levels in accordance with ISO 26262 requires analysis of entire systems."
+  },
+  {
+    "name": "Self-Driving Car Engineer - System Integration",
+    "img": "",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/sdc-system-integration--cx39",
+    "id": "udacity00229",
+    "description": "Pull together everything you've learned to operate a real self-driving car."
+  },
+  {
+    "name": "C++ For Programmers",
+    "img": "https://lh3.googleusercontent.com/tLdCHkqdJq00FNnEera7nAmYmH7aRs7jeTJU48QRkUjR0wT705g8aHkAWy0ZViZyiKgkYCmKCJK8s4q82Tg=s0#w=1210&h=796=s276#w=1724&h=1060",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/c-for-programmers--ud210",
+    "id": "udacity00230",
+    "description": "This course teaches C++ to students already familiar with a programming language. \nStudents will learn how to use header files, control flow, functions, classes."
+  },
+  {
+    "name": "React Fundamentals",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx43-5c6cdec.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/react-fundamentals--cx43",
+    "id": "udacity00231",
+    "description": "By learning React's component model, you'll be able to write declarative, composable user interfaces to build production-ready apps."
+  },
+  {
+    "name": "React & Redux",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx44-1275c68.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/react-redux--cx44",
+    "id": "udacity00232",
+    "description": "By learning Redux, you'll manage complicated state to build enterprise-level apps."
+  },
+  {
+    "name": "React Native",
+    "img": "https://s3-us-west-1.amazonaws.com/udacity-content/course-images/cx45-4ac8a35.jpg",
+    "provenance": "udacity",
+    "course_url": "https://www.udacity.com/course/react-native--cx45",
+    "id": "udacity00233",
+    "description": "Using React Native, youll be able to develop native applications that run on both iOS and Android devices."
+  }
+]
