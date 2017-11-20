@@ -1,0 +1,2482 @@
+[
+  {
+    "name": "Individuals, variables, and categorical & quantitative data (practice ...",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data",
+    "id": "khan00000",
+    "description": "Practice identifying components of a data set: individuals, variables, categorical data, quantitative data."
+  },
+  {
+    "name": "Data set warm-up (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data/e/intro-to-simple-data",
+    "id": "khan00001",
+    "description": "Begin your journey into the world of statistics with some warm-up questions about data sets."
+  },
+  {
+    "name": "Effects of shifting, adding, & removing a data point (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions/e/effects-of-shifting-adding-removing-data-point",
+    "id": "khan00002",
+    "description": "Practice figuring out how the mean and median are affected when a data point is added to, taken from, or shifted within a data set."
+  },
+  {
+    "name": "Measurement and data ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVTAsQKuMSTnREno6zNLCslVti6JN7G9RHpDFXaikAiF36rquQakV1igF",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data",
+    "id": "khan00003",
+    "description": "First, we will measure length using unit squares and rulers, compare and estimate length, and solve length word problems. Next, we will read and make picture ..."
+  },
+  {
+    "name": "Comparing data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot/e/comparing-data-displays",
+    "id": "khan00004",
+    "description": "He then created both a histogram and a box plot to display this same data (both diagrams are shown below). Which display can be used to find how many ..."
+  },
+  {
+    "name": "Exploring bivariate numerical data ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJuK7FrDoXJRWsKwdA2h9JbwfZcUQeOnOXSVOCKn4PbGGo6oPywh9pcJw2",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap",
+    "id": "khan00005",
+    "description": "We use scatter plots to explore the relationship between two quantitative variables, and we use regression to model the relationship and make predictions."
+  },
+  {
+    "name": "Calculating the mean: data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/e/calculating-the-mean-from-various-data-displays",
+    "id": "khan00006",
+    "description": "Practice computing the mean of data sets presented in a variety of formats, such as frequency tables and dot plots."
+  },
+  {
+    "name": "Transforming data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/e/transforming-data",
+    "id": "khan00007",
+    "description": "Practice anticipating how a linear transformation of a dataset impacts the mean and standard deviation of the data."
+  },
+  {
+    "name": "Aggregating data ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/aggregating-data",
+    "id": "khan00008",
+    "description": "Read and learn for free about the following scratchpad: Aggregating data."
+  },
+  {
+    "name": "Trends in categorical data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/aeEous8r14qCkq5wf-0rZoZ4eWncv6x_7hPvioV6dD5nHtzqafswsUVWQ9RafIT_BPcW8XcB9JJlAN89YdRfkig7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/e/trends-in-categorical-data",
+    "id": "khan00009",
+    "description": "Analyze categorical data to find some trends. ... Trends in categorical data. You might need: Calculator. Problem. Jonathan heard a news report that eating a ..."
+  },
+  {
+    "name": "Individuals, variables, and categorical & quantitative data (practice ...",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data",
+    "id": "khan00010",
+    "description": "Practice identifying components of a data set: individuals, variables, categorical data, quantitative data."
+  },
+  {
+    "name": "Data set warm-up (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data/e/intro-to-simple-data",
+    "id": "khan00011",
+    "description": "Begin your journey into the world of statistics with some warm-up questions about data sets."
+  },
+  {
+    "name": "Effects of shifting, adding, & removing a data point (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions/e/effects-of-shifting-adding-removing-data-point",
+    "id": "khan00012",
+    "description": "Practice figuring out how the mean and median are affected when a data point is added to, taken from, or shifted within a data set."
+  },
+  {
+    "name": "Measurement and data ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVTAsQKuMSTnREno6zNLCslVti6JN7G9RHpDFXaikAiF36rquQakV1igF",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data",
+    "id": "khan00013",
+    "description": "First, we will measure length using unit squares and rulers, compare and estimate length, and solve length word problems. Next, we will read and make picture graphs, bar graphs, and line plots. Finally, we will tell time on analog clocks and count U.S. coins and dollars."
+  },
+  {
+    "name": "Comparing data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot/e/comparing-data-displays",
+    "id": "khan00014",
+    "description": "Practice interpreting and comparing dot plots, histograms, and box plots."
+  },
+  {
+    "name": "Exploring bivariate numerical data ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJuK7FrDoXJRWsKwdA2h9JbwfZcUQeOnOXSVOCKn4PbGGo6oPywh9pcJw2",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap",
+    "id": "khan00015",
+    "description": "We use scatter plots to explore the relationship between two quantitative variables, and we use regression to model the relationship and make predictions. This unit explores linear regression and how to assess the strength of linear models."
+  },
+  {
+    "name": "Calculating the mean: data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/e/calculating-the-mean-from-various-data-displays",
+    "id": "khan00016",
+    "description": "Practice computing the mean of data sets presented in a variety of formats, such as frequency tables and dot plots."
+  },
+  {
+    "name": "Transforming data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/e/transforming-data",
+    "id": "khan00017",
+    "description": "Practice anticipating how a linear transformation of a dataset impacts the mean and standard deviation of the data."
+  },
+  {
+    "name": "Aggregating data ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/aggregating-data",
+    "id": "khan00018",
+    "description": "Read and learn for free about the following scratchpad: Aggregating data."
+  },
+  {
+    "name": "Trends in categorical data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/aeEous8r14qCkq5wf-0rZoZ4eWncv6x_7hPvioV6dD5nHtzqafswsUVWQ9RafIT_BPcW8XcB9JJlAN89YdRfkig7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/e/trends-in-categorical-data",
+    "id": "khan00019",
+    "description": "Jonathan heard a news report that eating a gluten-free diet makes a person more likely to have a positive outlook on life. This sounded appealing, but he felt he should investigate the claim before drastically changing his diet. Jonathan asked 1 2 8 128 128128 people at his school whether they eat gluten-free and then ..."
+  },
+  {
+    "name": "Individuals, variables, and categorical & quantitative data (practice ...",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data",
+    "id": "khan00020",
+    "description": "Practice identifying components of a data set: individuals, variables, categorical data, quantitative data."
+  },
+  {
+    "name": "Data set warm-up (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data/e/intro-to-simple-data",
+    "id": "khan00021",
+    "description": "Begin your journey into the world of statistics with some warm-up questions about data sets."
+  },
+  {
+    "name": "Effects of shifting, adding, & removing a data point (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions/e/effects-of-shifting-adding-removing-data-point",
+    "id": "khan00022",
+    "description": "Practice figuring out how the mean and median are affected when a data point is added to, taken from, or shifted within a data set."
+  },
+  {
+    "name": "Measurement and data ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVTAsQKuMSTnREno6zNLCslVti6JN7G9RHpDFXaikAiF36rquQakV1igF",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data",
+    "id": "khan00023",
+    "description": "First, we will measure length using unit squares and rulers, compare and estimate length, and solve length word problems. Next, we will read and make picture graphs, bar graphs, and line plots. Finally, we will tell time on analog clocks and count U.S. coins and dollars."
+  },
+  {
+    "name": "Comparing data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot/e/comparing-data-displays",
+    "id": "khan00024",
+    "description": "Practice interpreting and comparing dot plots, histograms, and box plots."
+  },
+  {
+    "name": "Exploring bivariate numerical data ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJuK7FrDoXJRWsKwdA2h9JbwfZcUQeOnOXSVOCKn4PbGGo6oPywh9pcJw2",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap",
+    "id": "khan00025",
+    "description": "We use scatter plots to explore the relationship between two quantitative variables, and we use regression to model the relationship and make predictions. This unit explores linear regression and how to assess the strength of linear models."
+  },
+  {
+    "name": "Calculating the mean: data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/e/calculating-the-mean-from-various-data-displays",
+    "id": "khan00026",
+    "description": "Practice computing the mean of data sets presented in a variety of formats, such as frequency tables and dot plots."
+  },
+  {
+    "name": "Transforming data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/e/transforming-data",
+    "id": "khan00027",
+    "description": "Practice anticipating how a linear transformation of a dataset impacts the mean and standard deviation of the data."
+  },
+  {
+    "name": "Aggregating data ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/aggregating-data",
+    "id": "khan00028",
+    "description": "Read and learn for free about the following scratchpad: Aggregating data."
+  },
+  {
+    "name": "Trends in categorical data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/aeEous8r14qCkq5wf-0rZoZ4eWncv6x_7hPvioV6dD5nHtzqafswsUVWQ9RafIT_BPcW8XcB9JJlAN89YdRfkig7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/e/trends-in-categorical-data",
+    "id": "khan00029",
+    "description": "Jonathan heard a news report that eating a gluten-free diet makes a person more likely to have a positive outlook on life. This sounded appealing, but he felt he should investigate the claim before drastically changing his diet. Jonathan asked 1 2 8 128 128128 people at his school whether they eat gluten-free and then ..."
+  },
+  {
+    "name": "Individuals, variables, and categorical & quantitative data (practice ...",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data",
+    "id": "khan00030",
+    "description": "Practice identifying components of a data set: individuals, variables, categorical data, quantitative data."
+  },
+  {
+    "name": "Data set warm-up (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data/e/intro-to-simple-data",
+    "id": "khan00031",
+    "description": "Begin your journey into the world of statistics with some warm-up questions about data sets."
+  },
+  {
+    "name": "Effects of shifting, adding, & removing a data point (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions/e/effects-of-shifting-adding-removing-data-point",
+    "id": "khan00032",
+    "description": "Practice figuring out how the mean and median are affected when a data point is added to, taken from, or shifted within a data set."
+  },
+  {
+    "name": "Measurement and data ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVTAsQKuMSTnREno6zNLCslVti6JN7G9RHpDFXaikAiF36rquQakV1igF",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data",
+    "id": "khan00033",
+    "description": "First, we will measure length using unit squares and rulers, compare and estimate length, and solve length word problems. Next, we will read and make picture ..."
+  },
+  {
+    "name": "Comparing data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot/e/comparing-data-displays",
+    "id": "khan00034",
+    "description": "He then created both a histogram and a box plot to display this same data (both diagrams are shown below). Which display can be used to find how many ..."
+  },
+  {
+    "name": "Exploring bivariate numerical data ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJuK7FrDoXJRWsKwdA2h9JbwfZcUQeOnOXSVOCKn4PbGGo6oPywh9pcJw2",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap",
+    "id": "khan00035",
+    "description": "We use scatter plots to explore the relationship between two quantitative variables, and we use regression to model the relationship and make predictions."
+  },
+  {
+    "name": "Calculating the mean: data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/e/calculating-the-mean-from-various-data-displays",
+    "id": "khan00036",
+    "description": "Practice computing the mean of data sets presented in a variety of formats, such as frequency tables and dot plots."
+  },
+  {
+    "name": "Transforming data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/e/transforming-data",
+    "id": "khan00037",
+    "description": "Practice anticipating how a linear transformation of a dataset impacts the mean and standard deviation of the data."
+  },
+  {
+    "name": "Aggregating data ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/aggregating-data",
+    "id": "khan00038",
+    "description": "Read and learn for free about the following scratchpad: Aggregating data."
+  },
+  {
+    "name": "Trends in categorical data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/aeEous8r14qCkq5wf-0rZoZ4eWncv6x_7hPvioV6dD5nHtzqafswsUVWQ9RafIT_BPcW8XcB9JJlAN89YdRfkig7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/e/trends-in-categorical-data",
+    "id": "khan00039",
+    "description": "Analyze categorical data to find some trends. ... Trends in categorical data. You might need: Calculator. Problem. Jonathan heard a news report that eating a ..."
+  },
+  {
+    "name": "Individuals, variables, and categorical & quantitative data (practice ...",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data",
+    "id": "khan00040",
+    "description": "Practice identifying components of a data set: individuals, variables, categorical data, quantitative data."
+  },
+  {
+    "name": "Data set warm-up (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data/e/intro-to-simple-data",
+    "id": "khan00041",
+    "description": "Begin your journey into the world of statistics with some warm-up questions about data sets."
+  },
+  {
+    "name": "Effects of shifting, adding, & removing a data point (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions/e/effects-of-shifting-adding-removing-data-point",
+    "id": "khan00042",
+    "description": "Practice figuring out how the mean and median are affected when a data point is added to, taken from, or shifted within a data set."
+  },
+  {
+    "name": "Measurement and data ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVTAsQKuMSTnREno6zNLCslVti6JN7G9RHpDFXaikAiF36rquQakV1igF",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data",
+    "id": "khan00043",
+    "description": "First, we will measure length using unit squares and rulers, compare and estimate length, and solve length word problems. Next, we will read and make picture ..."
+  },
+  {
+    "name": "Comparing data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot/e/comparing-data-displays",
+    "id": "khan00044",
+    "description": "He then created both a histogram and a box plot to display this same data (both diagrams are shown below). Which display can be used to find how many ..."
+  },
+  {
+    "name": "Exploring bivariate numerical data ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJuK7FrDoXJRWsKwdA2h9JbwfZcUQeOnOXSVOCKn4PbGGo6oPywh9pcJw2",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap",
+    "id": "khan00045",
+    "description": "We use scatter plots to explore the relationship between two quantitative variables, and we use regression to model the relationship and make predictions."
+  },
+  {
+    "name": "Calculating the mean: data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/e/calculating-the-mean-from-various-data-displays",
+    "id": "khan00046",
+    "description": "Practice computing the mean of data sets presented in a variety of formats, such as frequency tables and dot plots."
+  },
+  {
+    "name": "Transforming data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/e/transforming-data",
+    "id": "khan00047",
+    "description": "Practice anticipating how a linear transformation of a dataset impacts the mean and standard deviation of the data."
+  },
+  {
+    "name": "Aggregating data ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/aggregating-data",
+    "id": "khan00048",
+    "description": "Read and learn for free about the following scratchpad: Aggregating data."
+  },
+  {
+    "name": "Trends in categorical data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/aeEous8r14qCkq5wf-0rZoZ4eWncv6x_7hPvioV6dD5nHtzqafswsUVWQ9RafIT_BPcW8XcB9JJlAN89YdRfkig7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/e/trends-in-categorical-data",
+    "id": "khan00049",
+    "description": "Analyze categorical data to find some trends. ... Trends in categorical data. You might need: Calculator. Problem. Jonathan heard a news report that eating a ..."
+  },
+  {
+    "name": "Individuals, variables, and categorical & quantitative data (practice ...",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data",
+    "id": "khan00050",
+    "description": "Practice identifying components of a data set: individuals, variables, categorical data, quantitative data."
+  },
+  {
+    "name": "Data set warm-up (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data/e/intro-to-simple-data",
+    "id": "khan00051",
+    "description": "Begin your journey into the world of statistics with some warm-up questions about data sets."
+  },
+  {
+    "name": "Effects of shifting, adding, & removing a data point (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions/e/effects-of-shifting-adding-removing-data-point",
+    "id": "khan00052",
+    "description": "Practice figuring out how the mean and median are affected when a data point is added to, taken from, or shifted within a data set."
+  },
+  {
+    "name": "Measurement and data ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVTAsQKuMSTnREno6zNLCslVti6JN7G9RHpDFXaikAiF36rquQakV1igF",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data",
+    "id": "khan00053",
+    "description": "First, we will measure length using unit squares and rulers, compare and estimate length, and solve length word problems. Next, we will read and make picture graphs, bar graphs, and line plots. Finally, we will tell time on analog clocks and count U.S. coins and dollars."
+  },
+  {
+    "name": "Comparing data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot/e/comparing-data-displays",
+    "id": "khan00054",
+    "description": "Practice interpreting and comparing dot plots, histograms, and box plots."
+  },
+  {
+    "name": "Exploring bivariate numerical data ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJuK7FrDoXJRWsKwdA2h9JbwfZcUQeOnOXSVOCKn4PbGGo6oPywh9pcJw2",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap",
+    "id": "khan00055",
+    "description": "We use scatter plots to explore the relationship between two quantitative variables, and we use regression to model the relationship and make predictions. This unit explores linear regression and how to assess the strength of linear models."
+  },
+  {
+    "name": "Calculating the mean: data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/e/calculating-the-mean-from-various-data-displays",
+    "id": "khan00056",
+    "description": "Practice computing the mean of data sets presented in a variety of formats, such as frequency tables and dot plots."
+  },
+  {
+    "name": "Transforming data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/e/transforming-data",
+    "id": "khan00057",
+    "description": "Practice anticipating how a linear transformation of a dataset impacts the mean and standard deviation of the data."
+  },
+  {
+    "name": "Aggregating data ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/aggregating-data",
+    "id": "khan00058",
+    "description": "Read and learn for free about the following scratchpad: Aggregating data."
+  },
+  {
+    "name": "Trends in categorical data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/aeEous8r14qCkq5wf-0rZoZ4eWncv6x_7hPvioV6dD5nHtzqafswsUVWQ9RafIT_BPcW8XcB9JJlAN89YdRfkig7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/e/trends-in-categorical-data",
+    "id": "khan00059",
+    "description": "Jonathan heard a news report that eating a gluten-free diet makes a person more likely to have a positive outlook on life. This sounded appealing, but he felt he should investigate the claim before drastically changing his diet. Jonathan asked 1 2 8 128 128128 people at his school whether they eat gluten-free and then ..."
+  },
+  {
+    "name": "Individuals, variables, and categorical & quantitative data (practice ...",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data",
+    "id": "khan00060",
+    "description": "Practice identifying components of a data set: individuals, variables, categorical data, quantitative data."
+  },
+  {
+    "name": "Data set warm-up (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data/e/intro-to-simple-data",
+    "id": "khan00061",
+    "description": "Begin your journey into the world of statistics with some warm-up questions about data sets."
+  },
+  {
+    "name": "Effects of shifting, adding, & removing a data point (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions/e/effects-of-shifting-adding-removing-data-point",
+    "id": "khan00062",
+    "description": "Practice figuring out how the mean and median are affected when a data point is added to, taken from, or shifted within a data set."
+  },
+  {
+    "name": "Measurement and data ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVTAsQKuMSTnREno6zNLCslVti6JN7G9RHpDFXaikAiF36rquQakV1igF",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data",
+    "id": "khan00063",
+    "description": "First, we will measure length using unit squares and rulers, compare and estimate length, and solve length word problems. Next, we will read and make picture ..."
+  },
+  {
+    "name": "Comparing data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot/e/comparing-data-displays",
+    "id": "khan00064",
+    "description": "He then created both a histogram and a box plot to display this same data (both diagrams are shown below). Which display can be used to find how many ..."
+  },
+  {
+    "name": "Exploring bivariate numerical data ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJuK7FrDoXJRWsKwdA2h9JbwfZcUQeOnOXSVOCKn4PbGGo6oPywh9pcJw2",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap",
+    "id": "khan00065",
+    "description": "We use scatter plots to explore the relationship between two quantitative variables, and we use regression to model the relationship and make predictions."
+  },
+  {
+    "name": "Calculating the mean: data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/e/calculating-the-mean-from-various-data-displays",
+    "id": "khan00066",
+    "description": "Practice computing the mean of data sets presented in a variety of formats, such as frequency tables and dot plots."
+  },
+  {
+    "name": "Transforming data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/e/transforming-data",
+    "id": "khan00067",
+    "description": "Practice anticipating how a linear transformation of a dataset impacts the mean and standard deviation of the data."
+  },
+  {
+    "name": "Aggregating data ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/aggregating-data",
+    "id": "khan00068",
+    "description": "Read and learn for free about the following scratchpad: Aggregating data."
+  },
+  {
+    "name": "Trends in categorical data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/aeEous8r14qCkq5wf-0rZoZ4eWncv6x_7hPvioV6dD5nHtzqafswsUVWQ9RafIT_BPcW8XcB9JJlAN89YdRfkig7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/e/trends-in-categorical-data",
+    "id": "khan00069",
+    "description": "Analyze categorical data to find some trends. ... Trends in categorical data. You might need: Calculator. Problem. Jonathan heard a news report that eating a ..."
+  },
+  {
+    "name": "Individuals, variables, and categorical & quantitative data (practice ...",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data",
+    "id": "khan00070",
+    "description": "Practice identifying components of a data set: individuals, variables, categorical data, quantitative data."
+  },
+  {
+    "name": "Data set warm-up (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data/e/intro-to-simple-data",
+    "id": "khan00071",
+    "description": "Begin your journey into the world of statistics with some warm-up questions about data sets."
+  },
+  {
+    "name": "Effects of shifting, adding, & removing a data point (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions/e/effects-of-shifting-adding-removing-data-point",
+    "id": "khan00072",
+    "description": "Practice figuring out how the mean and median are affected when a data point is added to, taken from, or shifted within a data set."
+  },
+  {
+    "name": "Measurement and data ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVTAsQKuMSTnREno6zNLCslVti6JN7G9RHpDFXaikAiF36rquQakV1igF",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data",
+    "id": "khan00073",
+    "description": "First, we will measure length using unit squares and rulers, compare and estimate length, and solve length word problems. Next, we will read and make picture ..."
+  },
+  {
+    "name": "Comparing data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot/e/comparing-data-displays",
+    "id": "khan00074",
+    "description": "He then created both a histogram and a box plot to display this same data (both diagrams are shown below). Which display can be used to find how many ..."
+  },
+  {
+    "name": "Exploring bivariate numerical data ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJuK7FrDoXJRWsKwdA2h9JbwfZcUQeOnOXSVOCKn4PbGGo6oPywh9pcJw2",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap",
+    "id": "khan00075",
+    "description": "We use scatter plots to explore the relationship between two quantitative variables, and we use regression to model the relationship and make predictions."
+  },
+  {
+    "name": "Calculating the mean: data displays (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/e/calculating-the-mean-from-various-data-displays",
+    "id": "khan00076",
+    "description": "Practice computing the mean of data sets presented in a variety of formats, such as frequency tables and dot plots."
+  },
+  {
+    "name": "Transforming data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/effects-of-linear-transformations/e/transforming-data",
+    "id": "khan00077",
+    "description": "Practice anticipating how a linear transformation of a dataset impacts the mean and standard deviation of the data."
+  },
+  {
+    "name": "Aggregating data ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/aggregating-data",
+    "id": "khan00078",
+    "description": "Read and learn for free about the following scratchpad: Aggregating data."
+  },
+  {
+    "name": "Trends in categorical data (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/aeEous8r14qCkq5wf-0rZoZ4eWncv6x_7hPvioV6dD5nHtzqafswsUVWQ9RafIT_BPcW8XcB9JJlAN89YdRfkig7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data/two-way-tables-for-categorical-data/e/trends-in-categorical-data",
+    "id": "khan00079",
+    "description": "Analyze categorical data to find some trends. ... Trends in categorical data. You might need: Calculator. Problem. Jonathan heard a news report that eating a ..."
+  },
+  {
+    "name": "Experiment designs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/e/experiment-designs",
+    "id": "khan00080",
+    "description": "Practice identifying which experiment design was used in a study: completely randomized, randomized block, or matched pairs."
+  },
+  {
+    "name": "Webpage design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning/a/webpage-design",
+    "id": "khan00081",
+    "description": "Read and learn for free about the following article: Webpage design."
+  },
+  {
+    "name": "Introduction to experiment design (video) ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9m59iwDeCSZWeLQ7y9RzF-qg6mRuNWnBsM7hUQKtTt767fTYZAx7knlGv",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/introduction-to-experiment-design",
+    "id": "khan00082",
+    "description": "Introduction to experiment design. Explanatory and response variables. Control and treatment groups."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEN7tBXP5NPapcRPO707wQPfLQwKkwWYnejGznhtkf3zLHIEjB4_8jrJM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/study-design-a1",
+    "id": "khan00083",
+    "description": "Getting reliable data is vital if we want to make correct conclusions.The process of collecting data through studies involves sampling, observations, surveys, and ..."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDct6maAlgr1bFB8xrUByqfV_3G3Dt3KfV76Y6qYFpvS4Uv8IRp334PB8",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies",
+    "id": "khan00084",
+    "description": "Statistics is all about forming questions and gathering data to explore those questions. This unit covers sampling and survey methods, observational studies, and ..."
+  },
+  {
+    "name": "Internships: Product Design ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT28cJjgyMDWzPAjGUTb_3Wl9Bkj8v1wC7zAU3BRksepazJR_HezAvRS8GW",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/careers/interns/product-design",
+    "id": "khan00085",
+    "description": "Our Product Designers tackle world-changing design challenges that have never been solved before. We design, prototype, and build a beautiful product that ..."
+  },
+  {
+    "name": "Matched pairs experiment design (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5MUX3Ih1w6VQsIuYqzlyDnrlaOSObEmK5uM-2v46udUzpCCB7MqkNoQXj",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/matched-pairs-experiment-design",
+    "id": "khan00086",
+    "description": "At 2:58, Sal defines matched pairs as putting everyone in one round in either the experimental or control group and then switching them. However, in the ..."
+  },
+  {
+    "name": "Principles of experiment design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/DlAJXKlNWGyIxkIUyremOCseDqX5Wi-dbCzZ-X9jss-GqohfxIuQOD9E-rdZ0IdmMQFh0Py_ItLzJvvv92vrvm4e",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/a/principles-of-experiment-design",
+    "id": "khan00087",
+    "description": "Read and learn for free about the following article: Principles of experiment design."
+  },
+  {
+    "name": "Review: Object-Oriented Design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/a/review-object-oriented-design",
+    "id": "khan00088",
+    "description": "Read and learn for free about the following article: Review: Object-Oriented Design."
+  },
+  {
+    "name": "Project: Design a store database ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/project-design-a-store-database",
+    "id": "khan00089",
+    "description": "Read and learn for free about the following scratchpad: Project: Design a store database."
+  },
+  {
+    "name": "Experiment designs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/e/experiment-designs",
+    "id": "khan00090",
+    "description": "Practice identifying which experiment design was used in a study: completely randomized, randomized block, or matched pairs."
+  },
+  {
+    "name": "Webpage design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning/a/webpage-design",
+    "id": "khan00091",
+    "description": "Read and learn for free about the following article: Webpage design."
+  },
+  {
+    "name": "Introduction to experiment design (video) ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9m59iwDeCSZWeLQ7y9RzF-qg6mRuNWnBsM7hUQKtTt767fTYZAx7knlGv",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/introduction-to-experiment-design",
+    "id": "khan00092",
+    "description": "Introduction to experiment design. Explanatory and response variables. Control and treatment groups."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEN7tBXP5NPapcRPO707wQPfLQwKkwWYnejGznhtkf3zLHIEjB4_8jrJM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/study-design-a1",
+    "id": "khan00093",
+    "description": "Getting reliable data is vital if we want to make correct conclusions.The process of collecting data through studies involves sampling, observations, surveys, and ..."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDct6maAlgr1bFB8xrUByqfV_3G3Dt3KfV76Y6qYFpvS4Uv8IRp334PB8",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies",
+    "id": "khan00094",
+    "description": "Statistics is all about forming questions and gathering data to explore those questions. This unit covers sampling and survey methods, observational studies, and ..."
+  },
+  {
+    "name": "Internships: Product Design ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT28cJjgyMDWzPAjGUTb_3Wl9Bkj8v1wC7zAU3BRksepazJR_HezAvRS8GW",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/careers/interns/product-design",
+    "id": "khan00095",
+    "description": "Our Product Designers tackle world-changing design challenges that have never been solved before. We design, prototype, and build a beautiful product that ..."
+  },
+  {
+    "name": "Matched pairs experiment design (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5MUX3Ih1w6VQsIuYqzlyDnrlaOSObEmK5uM-2v46udUzpCCB7MqkNoQXj",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/matched-pairs-experiment-design",
+    "id": "khan00096",
+    "description": "At 2:58, Sal defines matched pairs as putting everyone in one round in either the experimental or control group and then switching them. However, in the ..."
+  },
+  {
+    "name": "Principles of experiment design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/DlAJXKlNWGyIxkIUyremOCseDqX5Wi-dbCzZ-X9jss-GqohfxIuQOD9E-rdZ0IdmMQFh0Py_ItLzJvvv92vrvm4e",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/a/principles-of-experiment-design",
+    "id": "khan00097",
+    "description": "Read and learn for free about the following article: Principles of experiment design."
+  },
+  {
+    "name": "Review: Object-Oriented Design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/a/review-object-oriented-design",
+    "id": "khan00098",
+    "description": "Read and learn for free about the following article: Review: Object-Oriented Design."
+  },
+  {
+    "name": "Project: Design a store database ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/project-design-a-store-database",
+    "id": "khan00099",
+    "description": "Read and learn for free about the following scratchpad: Project: Design a store database."
+  },
+  {
+    "name": "Experiment designs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/e/experiment-designs",
+    "id": "khan00100",
+    "description": "Practice identifying which experiment design was used in a study: completely randomized, randomized block, or matched pairs."
+  },
+  {
+    "name": "Webpage design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning/a/webpage-design",
+    "id": "khan00101",
+    "description": "Read and learn for free about the following article: Webpage design."
+  },
+  {
+    "name": "Introduction to experiment design (video) ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9m59iwDeCSZWeLQ7y9RzF-qg6mRuNWnBsM7hUQKtTt767fTYZAx7knlGv",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/introduction-to-experiment-design",
+    "id": "khan00102",
+    "description": "Introduction to experiment design. Explanatory and response variables. Control and treatment groups."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEN7tBXP5NPapcRPO707wQPfLQwKkwWYnejGznhtkf3zLHIEjB4_8jrJM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/study-design-a1",
+    "id": "khan00103",
+    "description": "Getting reliable data is vital if we want to make correct conclusions.The process of collecting data through studies involves sampling, observations, surveys, and ..."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDct6maAlgr1bFB8xrUByqfV_3G3Dt3KfV76Y6qYFpvS4Uv8IRp334PB8",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies",
+    "id": "khan00104",
+    "description": "Statistics is all about forming questions and gathering data to explore those questions. This unit covers sampling and survey methods, observational studies, and ..."
+  },
+  {
+    "name": "Internships: Product Design ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT28cJjgyMDWzPAjGUTb_3Wl9Bkj8v1wC7zAU3BRksepazJR_HezAvRS8GW",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/careers/interns/product-design",
+    "id": "khan00105",
+    "description": "Our Product Designers tackle world-changing design challenges that have never been solved before. We design, prototype, and build a beautiful product that ..."
+  },
+  {
+    "name": "Matched pairs experiment design (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5MUX3Ih1w6VQsIuYqzlyDnrlaOSObEmK5uM-2v46udUzpCCB7MqkNoQXj",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/matched-pairs-experiment-design",
+    "id": "khan00106",
+    "description": "At 2:58, Sal defines matched pairs as putting everyone in one round in either the experimental or control group and then switching them. However, in the ..."
+  },
+  {
+    "name": "Principles of experiment design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/DlAJXKlNWGyIxkIUyremOCseDqX5Wi-dbCzZ-X9jss-GqohfxIuQOD9E-rdZ0IdmMQFh0Py_ItLzJvvv92vrvm4e",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/a/principles-of-experiment-design",
+    "id": "khan00107",
+    "description": "Read and learn for free about the following article: Principles of experiment design."
+  },
+  {
+    "name": "Review: Object-Oriented Design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/a/review-object-oriented-design",
+    "id": "khan00108",
+    "description": "Read and learn for free about the following article: Review: Object-Oriented Design."
+  },
+  {
+    "name": "Project: Design a store database ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/project-design-a-store-database",
+    "id": "khan00109",
+    "description": "Read and learn for free about the following scratchpad: Project: Design a store database."
+  },
+  {
+    "name": "Experiment designs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/e/experiment-designs",
+    "id": "khan00110",
+    "description": "Practice identifying which experiment design was used in a study: completely randomized, randomized block, or matched pairs."
+  },
+  {
+    "name": "Webpage design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning/a/webpage-design",
+    "id": "khan00111",
+    "description": "Read and learn for free about the following article: Webpage design."
+  },
+  {
+    "name": "Introduction to experiment design (video) ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9m59iwDeCSZWeLQ7y9RzF-qg6mRuNWnBsM7hUQKtTt767fTYZAx7knlGv",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/introduction-to-experiment-design",
+    "id": "khan00112",
+    "description": "Introduction to experiment design. Explanatory and response variables. Control and treatment groups."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEN7tBXP5NPapcRPO707wQPfLQwKkwWYnejGznhtkf3zLHIEjB4_8jrJM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/study-design-a1",
+    "id": "khan00113",
+    "description": "Getting reliable data is vital if we want to make correct conclusions.The process of collecting data through studies involves sampling, observations, surveys, and ..."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDct6maAlgr1bFB8xrUByqfV_3G3Dt3KfV76Y6qYFpvS4Uv8IRp334PB8",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies",
+    "id": "khan00114",
+    "description": "Statistics is all about forming questions and gathering data to explore those questions. This unit covers sampling and survey methods, observational studies, and ..."
+  },
+  {
+    "name": "Internships: Product Design ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT28cJjgyMDWzPAjGUTb_3Wl9Bkj8v1wC7zAU3BRksepazJR_HezAvRS8GW",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/careers/interns/product-design",
+    "id": "khan00115",
+    "description": "Our Product Designers tackle world-changing design challenges that have never been solved before. We design, prototype, and build a beautiful product that ..."
+  },
+  {
+    "name": "Matched pairs experiment design (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5MUX3Ih1w6VQsIuYqzlyDnrlaOSObEmK5uM-2v46udUzpCCB7MqkNoQXj",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/matched-pairs-experiment-design",
+    "id": "khan00116",
+    "description": "At 2:58, Sal defines matched pairs as putting everyone in one round in either the experimental or control group and then switching them. However, in the ..."
+  },
+  {
+    "name": "Principles of experiment design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/DlAJXKlNWGyIxkIUyremOCseDqX5Wi-dbCzZ-X9jss-GqohfxIuQOD9E-rdZ0IdmMQFh0Py_ItLzJvvv92vrvm4e",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/a/principles-of-experiment-design",
+    "id": "khan00117",
+    "description": "Read and learn for free about the following article: Principles of experiment design."
+  },
+  {
+    "name": "Review: Object-Oriented Design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/a/review-object-oriented-design",
+    "id": "khan00118",
+    "description": "Read and learn for free about the following article: Review: Object-Oriented Design."
+  },
+  {
+    "name": "Project: Design a store database ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/project-design-a-store-database",
+    "id": "khan00119",
+    "description": "Read and learn for free about the following scratchpad: Project: Design a store database."
+  },
+  {
+    "name": "Experiment designs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/e/experiment-designs",
+    "id": "khan00120",
+    "description": "Practice identifying which experiment design was used in a study: completely randomized, randomized block, or matched pairs."
+  },
+  {
+    "name": "Webpage design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning/a/webpage-design",
+    "id": "khan00121",
+    "description": "Read and learn for free about the following article: Webpage design."
+  },
+  {
+    "name": "Introduction to experiment design (video) ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9m59iwDeCSZWeLQ7y9RzF-qg6mRuNWnBsM7hUQKtTt767fTYZAx7knlGv",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/introduction-to-experiment-design",
+    "id": "khan00122",
+    "description": "Introduction to experiment design. Explanatory and response variables. Control and treatment groups."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEN7tBXP5NPapcRPO707wQPfLQwKkwWYnejGznhtkf3zLHIEjB4_8jrJM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/study-design-a1",
+    "id": "khan00123",
+    "description": "Getting reliable data is vital if we want to make correct conclusions.The process of collecting data through studies involves sampling, observations, surveys, and ..."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDct6maAlgr1bFB8xrUByqfV_3G3Dt3KfV76Y6qYFpvS4Uv8IRp334PB8",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies",
+    "id": "khan00124",
+    "description": "Statistics is all about forming questions and gathering data to explore those questions. This unit covers sampling and survey methods, observational studies, and ..."
+  },
+  {
+    "name": "Internships: Product Design ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT28cJjgyMDWzPAjGUTb_3Wl9Bkj8v1wC7zAU3BRksepazJR_HezAvRS8GW",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/careers/interns/product-design",
+    "id": "khan00125",
+    "description": "Our Product Designers tackle world-changing design challenges that have never been solved before. We design, prototype, and build a beautiful product that ..."
+  },
+  {
+    "name": "Matched pairs experiment design (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5MUX3Ih1w6VQsIuYqzlyDnrlaOSObEmK5uM-2v46udUzpCCB7MqkNoQXj",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/matched-pairs-experiment-design",
+    "id": "khan00126",
+    "description": "At 2:58, Sal defines matched pairs as putting everyone in one round in either the experimental or control group and then switching them. However, in the ..."
+  },
+  {
+    "name": "Principles of experiment design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/DlAJXKlNWGyIxkIUyremOCseDqX5Wi-dbCzZ-X9jss-GqohfxIuQOD9E-rdZ0IdmMQFh0Py_ItLzJvvv92vrvm4e",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/a/principles-of-experiment-design",
+    "id": "khan00127",
+    "description": "Read and learn for free about the following article: Principles of experiment design."
+  },
+  {
+    "name": "Review: Object-Oriented Design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/a/review-object-oriented-design",
+    "id": "khan00128",
+    "description": "Read and learn for free about the following article: Review: Object-Oriented Design."
+  },
+  {
+    "name": "Project: Design a store database ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/project-design-a-store-database",
+    "id": "khan00129",
+    "description": "Read and learn for free about the following scratchpad: Project: Design a store database."
+  },
+  {
+    "name": "Experiment designs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/e/experiment-designs",
+    "id": "khan00130",
+    "description": "Practice identifying which experiment design was used in a study: completely randomized, randomized block, or matched pairs."
+  },
+  {
+    "name": "Webpage design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning/a/webpage-design",
+    "id": "khan00131",
+    "description": "Read and learn for free about the following article: Webpage design."
+  },
+  {
+    "name": "Introduction to experiment design (video) ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9m59iwDeCSZWeLQ7y9RzF-qg6mRuNWnBsM7hUQKtTt767fTYZAx7knlGv",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/introduction-to-experiment-design",
+    "id": "khan00132",
+    "description": "Introduction to experiment design. Explanatory and response variables. Control and treatment groups."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEN7tBXP5NPapcRPO707wQPfLQwKkwWYnejGznhtkf3zLHIEjB4_8jrJM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/study-design-a1",
+    "id": "khan00133",
+    "description": "Getting reliable data is vital if we want to make correct conclusions.The process of collecting data through studies involves sampling, observations, surveys, and ..."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDct6maAlgr1bFB8xrUByqfV_3G3Dt3KfV76Y6qYFpvS4Uv8IRp334PB8",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies",
+    "id": "khan00134",
+    "description": "Statistics is all about forming questions and gathering data to explore those questions. This unit covers sampling and survey methods, observational studies, and ..."
+  },
+  {
+    "name": "Internships: Product Design ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT28cJjgyMDWzPAjGUTb_3Wl9Bkj8v1wC7zAU3BRksepazJR_HezAvRS8GW",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/careers/interns/product-design",
+    "id": "khan00135",
+    "description": "Our Product Designers tackle world-changing design challenges that have never been solved before. We design, prototype, and build a beautiful product that ..."
+  },
+  {
+    "name": "Matched pairs experiment design (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5MUX3Ih1w6VQsIuYqzlyDnrlaOSObEmK5uM-2v46udUzpCCB7MqkNoQXj",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/matched-pairs-experiment-design",
+    "id": "khan00136",
+    "description": "At 2:58, Sal defines matched pairs as putting everyone in one round in either the experimental or control group and then switching them. However, in the ..."
+  },
+  {
+    "name": "Principles of experiment design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/DlAJXKlNWGyIxkIUyremOCseDqX5Wi-dbCzZ-X9jss-GqohfxIuQOD9E-rdZ0IdmMQFh0Py_ItLzJvvv92vrvm4e",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/a/principles-of-experiment-design",
+    "id": "khan00137",
+    "description": "Read and learn for free about the following article: Principles of experiment design."
+  },
+  {
+    "name": "Review: Object-Oriented Design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/a/review-object-oriented-design",
+    "id": "khan00138",
+    "description": "Read and learn for free about the following article: Review: Object-Oriented Design."
+  },
+  {
+    "name": "Project: Design a store database ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/project-design-a-store-database",
+    "id": "khan00139",
+    "description": "Read and learn for free about the following scratchpad: Project: Design a store database."
+  },
+  {
+    "name": "Experiment designs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/e/experiment-designs",
+    "id": "khan00140",
+    "description": "Practice identifying which experiment design was used in a study: completely randomized, randomized block, or matched pairs."
+  },
+  {
+    "name": "Webpage design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning/a/webpage-design",
+    "id": "khan00141",
+    "description": "Read and learn for free about the following article: Webpage design."
+  },
+  {
+    "name": "Introduction to experiment design (video) ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9m59iwDeCSZWeLQ7y9RzF-qg6mRuNWnBsM7hUQKtTt767fTYZAx7knlGv",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/introduction-to-experiment-design",
+    "id": "khan00142",
+    "description": "you can use an SRS in an experimental design. Block design are for experiments and a stratified sample is used for sampling. Blocking implies that there is some known variable that can affect the response variable or the overall experiment. In the video the example would have been gender because maybe there were ..."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEN7tBXP5NPapcRPO707wQPfLQwKkwWYnejGznhtkf3zLHIEjB4_8jrJM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/study-design-a1",
+    "id": "khan00143",
+    "description": "Getting reliable data is vital if we want to make correct conclusions.The process of collecting data through studies involves sampling, observations, surveys, and experiments."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDct6maAlgr1bFB8xrUByqfV_3G3Dt3KfV76Y6qYFpvS4Uv8IRp334PB8",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies",
+    "id": "khan00144",
+    "description": "Statistics is all about forming questions and gathering data to explore those questions. This unit covers sampling and survey methods, observational studies, and basic experiment design."
+  },
+  {
+    "name": "Internships: Product Design ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT28cJjgyMDWzPAjGUTb_3Wl9Bkj8v1wC7zAU3BRksepazJR_HezAvRS8GW",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/careers/interns/product-design",
+    "id": "khan00145",
+    "description": "Khan Academy is looking for talented product designers to create a free virtual classroom for the world. Join us on our mission to provide a free world-class education for anyone, anywhere. Our Product Designers tackle world-changing design challenges that have never been solved before. We design, prototype, and build ..."
+  },
+  {
+    "name": "Matched pairs experiment design (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5MUX3Ih1w6VQsIuYqzlyDnrlaOSObEmK5uM-2v46udUzpCCB7MqkNoQXj",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/matched-pairs-experiment-design",
+    "id": "khan00146",
+    "description": "At 2:58, Sal defines matched pairs as putting everyone in one round in either the experimental or control group and then switching them. However, in the following practice, I get this question: \"An online retailer wants to study whether more lenient return policies increase purchasing behaviors. They select a random sample ..."
+  },
+  {
+    "name": "Principles of experiment design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/DlAJXKlNWGyIxkIUyremOCseDqX5Wi-dbCzZ-X9jss-GqohfxIuQOD9E-rdZ0IdmMQFh0Py_ItLzJvvv92vrvm4e",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/a/principles-of-experiment-design",
+    "id": "khan00147",
+    "description": "Read and learn for free about the following article: Principles of experiment design."
+  },
+  {
+    "name": "Review: Object-Oriented Design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/a/review-object-oriented-design",
+    "id": "khan00148",
+    "description": "Read and learn for free about the following article: Review: Object-Oriented Design."
+  },
+  {
+    "name": "Project: Design a store database ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/project-design-a-store-database",
+    "id": "khan00149",
+    "description": "Read and learn for free about the following scratchpad: Project: Design a store database."
+  },
+  {
+    "name": "Experiment designs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/e/experiment-designs",
+    "id": "khan00150",
+    "description": "Practice identifying which experiment design was used in a study: completely randomized, randomized block, or matched pairs."
+  },
+  {
+    "name": "Webpage design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning/a/webpage-design",
+    "id": "khan00151",
+    "description": "Read and learn for free about the following article: Webpage design."
+  },
+  {
+    "name": "Introduction to experiment design (video) ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9m59iwDeCSZWeLQ7y9RzF-qg6mRuNWnBsM7hUQKtTt767fTYZAx7knlGv",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/introduction-to-experiment-design",
+    "id": "khan00152",
+    "description": "you can use an SRS in an experimental design. Block design are for experiments and a stratified sample is used for sampling. Blocking implies that there is some known variable that can affect the response variable or the overall experiment. In the video the example would have been gender because maybe there were ..."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEN7tBXP5NPapcRPO707wQPfLQwKkwWYnejGznhtkf3zLHIEjB4_8jrJM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/probability/study-design-a1",
+    "id": "khan00153",
+    "description": "Getting reliable data is vital if we want to make correct conclusions.The process of collecting data through studies involves sampling, observations, surveys, and experiments."
+  },
+  {
+    "name": "Study design ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDct6maAlgr1bFB8xrUByqfV_3G3Dt3KfV76Y6qYFpvS4Uv8IRp334PB8",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies",
+    "id": "khan00154",
+    "description": "Statistics is all about forming questions and gathering data to explore those questions. This unit covers sampling and survey methods, observational studies, and basic experiment design."
+  },
+  {
+    "name": "Internships: Product Design ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT28cJjgyMDWzPAjGUTb_3Wl9Bkj8v1wC7zAU3BRksepazJR_HezAvRS8GW",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/careers/interns/product-design",
+    "id": "khan00155",
+    "description": "Khan Academy is looking for talented product designers to create a free virtual classroom for the world. Join us on our mission to provide a free world-class education for anyone, anywhere. Our Product Designers tackle world-changing design challenges that have never been solved before. We design, prototype, and build ..."
+  },
+  {
+    "name": "Matched pairs experiment design (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5MUX3Ih1w6VQsIuYqzlyDnrlaOSObEmK5uM-2v46udUzpCCB7MqkNoQXj",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/statistics-experiments/v/matched-pairs-experiment-design",
+    "id": "khan00156",
+    "description": "At 2:58, Sal defines matched pairs as putting everyone in one round in either the experimental or control group and then switching them. However, in the following practice, I get this question: \"An online retailer wants to study whether more lenient return policies increase purchasing behaviors. They select a random sample ..."
+  },
+  {
+    "name": "Principles of experiment design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/DlAJXKlNWGyIxkIUyremOCseDqX5Wi-dbCzZ-X9jss-GqohfxIuQOD9E-rdZ0IdmMQFh0Py_ItLzJvvv92vrvm4e",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/a/principles-of-experiment-design",
+    "id": "khan00157",
+    "description": "Read and learn for free about the following article: Principles of experiment design."
+  },
+  {
+    "name": "Review: Object-Oriented Design (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/a/review-object-oriented-design",
+    "id": "khan00158",
+    "description": "Read and learn for free about the following article: Review: Object-Oriented Design."
+  },
+  {
+    "name": "Project: Design a store database ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/project-design-a-store-database",
+    "id": "khan00159",
+    "description": "Read and learn for free about the following scratchpad: Project: Design a store database."
+  },
+  {
+    "name": "Welcome to the web! (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFAJt9LhXFONbdCu25OzILT72A0714enahncNEgnSCC8-969i5tdnJb8g",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro",
+    "id": "khan00160",
+    "description": "The client is the machine viewing the site (the site's user) and the server is the machine where the site is located. Client side scripts are run by the web browser (ie. JS) and server side scripts are run by the server that hosts the site (PHP, ASP. NET). Learn more here: ..."
+  },
+  {
+    "name": "Developing webpages outside of Khan Academy (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/developing-webpages-outside-of-khan-academy",
+    "id": "khan00161",
+    "description": "Dreamweaver was not for professional developers. It was for people who didn't know HTML and wanted to make basic web pages. Words can't express how I feel about Dreamweaver. It was the machine that created the worst web pages that I've had to deal with. You should try something like Brackets (http://brackets. io/)."
+  },
+  {
+    "name": "Khan Academy ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/",
+    "id": "khan00162",
+    "description": "You can learn anything. Expert-created content and resources for every subject and level. Always free."
+  },
+  {
+    "name": "Intro to HTML/CSS: Making webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJQ1aqMurnDRh3BsJkf7mzmlLvqaWfTkl1ygyI9WfFAngkMGIjxsSxJbC",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css",
+    "id": "khan00163",
+    "description": "Web development tools. CSS layout. More CSS selectors. Other ways to embed CSS. Further learning. Learn how to use HTML and CSS to make webpages. HTML is the markup language that you surround content with, to tell browsers about headings, lists, tables, etc. CSS is the stylesheet language that you style the page ..."
+  },
+  {
+    "name": "Creating webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFRR-GUeUiTUCME21s2kFJF5Ptim3rFT3n3-9z6Fz5PIkyLS5ecETq3RV",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/hour-of-code/hour-of-html",
+    "id": "khan00164",
+    "description": "Creating webpages. Learn the basics of HTML and CSS to make your first webpage. Welcome to the web! HTML basics · Quick tip: HTML tags · Challenge: Write a Poem · HTML: Text emphasis · Challenge: You can learn text tags · HTML : Lists · Challenge: Your learning list · HTML: Images · Challenge: A picture- perfect trip."
+  },
+  {
+    "name": "Welcome to making webpages interactive (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuK2U6HbZuwYDQsMb4tRW02d9ZZ5YgR4efw3nywXkxM9bUL9kWWeZBoR0",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro/v/welcome-to-making-webpages-interactive",
+    "id": "khan00165",
+    "description": "In this course, you're going to learn how to make your webpages interactive. You' ll start with simple HTML/CSS webpages, then add JavaScript to change them: like to make a word game, a slide show, an infinitely-loading gallery, or a drawing app. You can make pretty much anything you've seen on the web. We'll be using  ..."
+  },
+  {
+    "name": "Computer programming ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuT7Ia4nVwTpbSOXsGQwfj1dAo5ETJs8H9d1hSk0Ur3zPRUG2sGP6SDsE",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming",
+    "id": "khan00166",
+    "description": "HTML is the markup language that you surround content with, to tell browsers about headings, lists, tables, etc. CSS is the stylesheet language that you style the page with, to tell browsers to change the color, font, layout, and more. Intro to HTML · Intro to CSS · More HTML tags · CSS text properties · Web development tools."
+  },
+  {
+    "name": "Food chains and food webs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/FWWo5Xlz4TjPCBHJP5i1ZZOXzgRFeUIXRXoJM25k49SrzwKYJ59sQohJJ39hSkm3Ty6kjLsxbvW4Jfhrkwed4TE7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/e/food-chains-and-food-webs",
+    "id": "khan00167",
+    "description": "Test your knowledge of food chains and food webs!"
+  },
+  {
+    "name": "Food chains & food webs (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/470oEaLWY2kx2O6ychh8qhictmQgbA50N7gDwC2wPuSPt5ulxlCw5uB_iL1W7L6GKPI4EY3JnCZjR9L3Pf1GHcA",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/food-chains-food-webs",
+    "id": "khan00168",
+    "description": "For situations like the one above, we may want to use a food web that consists of many intersecting food chains and represents the different things an organism can eat and be eaten by. In this article, we'll take a closer look at food chains and food webs to see how they represent the flow of energy and nutrients through ..."
+  },
+  {
+    "name": "Ecological interactions (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/community-ecosystem-ecology/a/ecological-interactions",
+    "id": "khan00169",
+    "description": "When a bear eats berries, for example, it is being a primary consumer, but when it eats a fish, it might be a secondary or a tertiary consumer, depending on what the fish ate! All organisms play a part in the web of life and every living thing will die at some point. This is where scavengers, detritivores (which eat detritus or parts ..."
+  },
+  {
+    "name": "Welcome to the web! (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFAJt9LhXFONbdCu25OzILT72A0714enahncNEgnSCC8-969i5tdnJb8g",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro",
+    "id": "khan00170",
+    "description": "The client is the machine viewing the site (the site's user) and the server is the machine where the site is located. Client side scripts are run by the web browser  ..."
+  },
+  {
+    "name": "Developing webpages outside of Khan Academy (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/developing-webpages-outside-of-khan-academy",
+    "id": "khan00171",
+    "description": "No, but you can open the HTML file you're editing right in your web browser. ... It was for people who didn't know HTML and wanted to make basic web pages."
+  },
+  {
+    "name": "Khan Academy ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/",
+    "id": "khan00172",
+    "description": "You can learn anything. Expert-created content and resources for every subject and level. Always free."
+  },
+  {
+    "name": "Intro to HTML/CSS: Making webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJQ1aqMurnDRh3BsJkf7mzmlLvqaWfTkl1ygyI9WfFAngkMGIjxsSxJbC",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css",
+    "id": "khan00173",
+    "description": "Web development tools. CSS layout. More CSS selectors. Other ways to embed CSS. Further learning. Learn how to use HTML and CSS to make webpages."
+  },
+  {
+    "name": "Creating webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFRR-GUeUiTUCME21s2kFJF5Ptim3rFT3n3-9z6Fz5PIkyLS5ecETq3RV",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/hour-of-code/hour-of-html",
+    "id": "khan00174",
+    "description": "Creating webpages. Learn the basics of HTML and CSS to make your first webpage. Welcome to the web! HTML basics · Quick tip: HTML tags · Challenge: Write ..."
+  },
+  {
+    "name": "Welcome to making webpages interactive (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuK2U6HbZuwYDQsMb4tRW02d9ZZ5YgR4efw3nywXkxM9bUL9kWWeZBoR0",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro/v/welcome-to-making-webpages-interactive",
+    "id": "khan00175",
+    "description": "You can make pretty much anything you've seen on the web. We'll be using the language JavaScript to do all of that. And you might be confused if you've ..."
+  },
+  {
+    "name": "Food chains and food webs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/FWWo5Xlz4TjPCBHJP5i1ZZOXzgRFeUIXRXoJM25k49SrzwKYJ59sQohJJ39hSkm3Ty6kjLsxbvW4Jfhrkwed4TE7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/e/food-chains-and-food-webs",
+    "id": "khan00176",
+    "description": "Test your knowledge of food chains and food webs!"
+  },
+  {
+    "name": "Computer programming ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuT7Ia4nVwTpbSOXsGQwfj1dAo5ETJs8H9d1hSk0Ur3zPRUG2sGP6SDsE",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming",
+    "id": "khan00177",
+    "description": "... with, to tell browsers to change the color, font, layout, and more. Intro to HTML · Intro to CSS · More HTML tags · CSS text properties · Web development tools."
+  },
+  {
+    "name": "Food chains & food webs (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/470oEaLWY2kx2O6ychh8qhictmQgbA50N7gDwC2wPuSPt5ulxlCw5uB_iL1W7L6GKPI4EY3JnCZjR9L3Pf1GHcA",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/food-chains-food-webs",
+    "id": "khan00178",
+    "description": "For situations like the one above, we may want to use a food web that consists of many intersecting food chains and represents the different things an organism ..."
+  },
+  {
+    "name": "Ecological interactions (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/community-ecosystem-ecology/a/ecological-interactions",
+    "id": "khan00179",
+    "description": "All organisms play a part in the web of life and every living thing will die at some point. This is where scavengers, detritivores (which eat detritus or parts of dead ..."
+  },
+  {
+    "name": "Welcome to the web! (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFAJt9LhXFONbdCu25OzILT72A0714enahncNEgnSCC8-969i5tdnJb8g",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro",
+    "id": "khan00180",
+    "description": "The client is the machine viewing the site (the site's user) and the server is the machine where the site is located. Client side scripts are run by the web browser (ie. JS) and server side scripts are run by the server that hosts the site (PHP, ASP. NET). Learn more here: ..."
+  },
+  {
+    "name": "Developing webpages outside of Khan Academy (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/developing-webpages-outside-of-khan-academy",
+    "id": "khan00181",
+    "description": "Dreamweaver was not for professional developers. It was for people who didn't know HTML and wanted to make basic web pages. Words can't express how I feel about Dreamweaver. It was the machine that created the worst web pages that I've had to deal with. You should try something like Brackets (http://brackets. io/)."
+  },
+  {
+    "name": "Khan Academy ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/",
+    "id": "khan00182",
+    "description": "You can learn anything. Expert-created content and resources for every subject and level. Always free."
+  },
+  {
+    "name": "Intro to HTML/CSS: Making webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJQ1aqMurnDRh3BsJkf7mzmlLvqaWfTkl1ygyI9WfFAngkMGIjxsSxJbC",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css",
+    "id": "khan00183",
+    "description": "Web development tools. CSS layout. More CSS selectors. Other ways to embed CSS. Further learning. Learn how to use HTML and CSS to make webpages. HTML is the markup language that you surround content with, to tell browsers about headings, lists, tables, etc. CSS is the stylesheet language that you style the page ..."
+  },
+  {
+    "name": "Creating webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFRR-GUeUiTUCME21s2kFJF5Ptim3rFT3n3-9z6Fz5PIkyLS5ecETq3RV",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/hour-of-code/hour-of-html",
+    "id": "khan00184",
+    "description": "Creating webpages. Learn the basics of HTML and CSS to make your first webpage. Welcome to the web! HTML basics · Quick tip: HTML tags · Challenge: Write a Poem · HTML: Text emphasis · Challenge: You can learn text tags · HTML : Lists · Challenge: Your learning list · HTML: Images · Challenge: A picture- perfect trip."
+  },
+  {
+    "name": "Welcome to making webpages interactive (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuK2U6HbZuwYDQsMb4tRW02d9ZZ5YgR4efw3nywXkxM9bUL9kWWeZBoR0",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro/v/welcome-to-making-webpages-interactive",
+    "id": "khan00185",
+    "description": "In this course, you're going to learn how to make your webpages interactive. You' ll start with simple HTML/CSS webpages, then add JavaScript to change them: like to make a word game, a slide show, an infinitely-loading gallery, or a drawing app. You can make pretty much anything you've seen on the web. We'll be using  ..."
+  },
+  {
+    "name": "Food chains and food webs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/FWWo5Xlz4TjPCBHJP5i1ZZOXzgRFeUIXRXoJM25k49SrzwKYJ59sQohJJ39hSkm3Ty6kjLsxbvW4Jfhrkwed4TE7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/e/food-chains-and-food-webs",
+    "id": "khan00186",
+    "description": "Test your knowledge of food chains and food webs!"
+  },
+  {
+    "name": "Computer programming ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuT7Ia4nVwTpbSOXsGQwfj1dAo5ETJs8H9d1hSk0Ur3zPRUG2sGP6SDsE",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming",
+    "id": "khan00187",
+    "description": "HTML is the markup language that you surround content with, to tell browsers about headings, lists, tables, etc. CSS is the stylesheet language that you style the page with, to tell browsers to change the color, font, layout, and more. Intro to HTML · Intro to CSS · More HTML tags · CSS text properties · Web development tools."
+  },
+  {
+    "name": "Food chains & food webs (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/470oEaLWY2kx2O6ychh8qhictmQgbA50N7gDwC2wPuSPt5ulxlCw5uB_iL1W7L6GKPI4EY3JnCZjR9L3Pf1GHcA",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/food-chains-food-webs",
+    "id": "khan00188",
+    "description": "For situations like the one above, we may want to use a food web that consists of many intersecting food chains and represents the different things an organism can eat and be eaten by. In this article, we'll take a closer look at food chains and food webs to see how they represent the flow of energy and nutrients through ..."
+  },
+  {
+    "name": "Ecological interactions (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/community-ecosystem-ecology/a/ecological-interactions",
+    "id": "khan00189",
+    "description": "When a bear eats berries, for example, it is being a primary consumer, but when it eats a fish, it might be a secondary or a tertiary consumer, depending on what the fish ate! All organisms play a part in the web of life and every living thing will die at some point. This is where scavengers, detritivores (which eat detritus or parts ..."
+  },
+  {
+    "name": "Welcome to the web! (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFAJt9LhXFONbdCu25OzILT72A0714enahncNEgnSCC8-969i5tdnJb8g",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro",
+    "id": "khan00190",
+    "description": "The client is the machine viewing the site (the site's user) and the server is the machine where the site is located. Client side scripts are run by the web browser  ..."
+  },
+  {
+    "name": "Developing webpages outside of Khan Academy (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/developing-webpages-outside-of-khan-academy",
+    "id": "khan00191",
+    "description": "No, but you can open the HTML file you're editing right in your web browser. ... It was for people who didn't know HTML and wanted to make basic web pages."
+  },
+  {
+    "name": "Khan Academy ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/",
+    "id": "khan00192",
+    "description": "You can learn anything. Expert-created content and resources for every subject and level. Always free."
+  },
+  {
+    "name": "Intro to HTML/CSS: Making webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJQ1aqMurnDRh3BsJkf7mzmlLvqaWfTkl1ygyI9WfFAngkMGIjxsSxJbC",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css",
+    "id": "khan00193",
+    "description": "Web development tools. CSS layout. More CSS selectors. Other ways to embed CSS. Further learning. Learn how to use HTML and CSS to make webpages."
+  },
+  {
+    "name": "Creating webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFRR-GUeUiTUCME21s2kFJF5Ptim3rFT3n3-9z6Fz5PIkyLS5ecETq3RV",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/hour-of-code/hour-of-html",
+    "id": "khan00194",
+    "description": "Creating webpages. Learn the basics of HTML and CSS to make your first webpage. Welcome to the web! HTML basics · Quick tip: HTML tags · Challenge: Write ..."
+  },
+  {
+    "name": "Welcome to making webpages interactive (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuK2U6HbZuwYDQsMb4tRW02d9ZZ5YgR4efw3nywXkxM9bUL9kWWeZBoR0",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro/v/welcome-to-making-webpages-interactive",
+    "id": "khan00195",
+    "description": "You can make pretty much anything you've seen on the web. We'll be using the language JavaScript to do all of that. And you might be confused if you've ..."
+  },
+  {
+    "name": "Food chains and food webs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/FWWo5Xlz4TjPCBHJP5i1ZZOXzgRFeUIXRXoJM25k49SrzwKYJ59sQohJJ39hSkm3Ty6kjLsxbvW4Jfhrkwed4TE7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/e/food-chains-and-food-webs",
+    "id": "khan00196",
+    "description": "Test your knowledge of food chains and food webs!"
+  },
+  {
+    "name": "Computer programming ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuT7Ia4nVwTpbSOXsGQwfj1dAo5ETJs8H9d1hSk0Ur3zPRUG2sGP6SDsE",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming",
+    "id": "khan00197",
+    "description": "... with, to tell browsers to change the color, font, layout, and more. Intro to HTML · Intro to CSS · More HTML tags · CSS text properties · Web development tools."
+  },
+  {
+    "name": "Food chains & food webs (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/470oEaLWY2kx2O6ychh8qhictmQgbA50N7gDwC2wPuSPt5ulxlCw5uB_iL1W7L6GKPI4EY3JnCZjR9L3Pf1GHcA",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/food-chains-food-webs",
+    "id": "khan00198",
+    "description": "For situations like the one above, we may want to use a food web that consists of many intersecting food chains and represents the different things an organism ..."
+  },
+  {
+    "name": "Ecological interactions (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/community-ecosystem-ecology/a/ecological-interactions",
+    "id": "khan00199",
+    "description": "All organisms play a part in the web of life and every living thing will die at some point. This is where scavengers, detritivores (which eat detritus or parts of dead ..."
+  },
+  {
+    "name": "Welcome to the web! (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFAJt9LhXFONbdCu25OzILT72A0714enahncNEgnSCC8-969i5tdnJb8g",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro",
+    "id": "khan00200",
+    "description": "The client is the machine viewing the site (the site's user) and the server is the machine where the site is located. Client side scripts are run by the web browser  ..."
+  },
+  {
+    "name": "Developing webpages outside of Khan Academy (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/developing-webpages-outside-of-khan-academy",
+    "id": "khan00201",
+    "description": "No, but you can open the HTML file you're editing right in your web browser. ... It was for people who didn't know HTML and wanted to make basic web pages."
+  },
+  {
+    "name": "Khan Academy ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/",
+    "id": "khan00202",
+    "description": "You can learn anything. Expert-created content and resources for every subject and level. Always free."
+  },
+  {
+    "name": "Intro to HTML/CSS: Making webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJQ1aqMurnDRh3BsJkf7mzmlLvqaWfTkl1ygyI9WfFAngkMGIjxsSxJbC",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css",
+    "id": "khan00203",
+    "description": "Web development tools. CSS layout. More CSS selectors. Other ways to embed CSS. Further learning. Learn how to use HTML and CSS to make webpages."
+  },
+  {
+    "name": "Creating webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFRR-GUeUiTUCME21s2kFJF5Ptim3rFT3n3-9z6Fz5PIkyLS5ecETq3RV",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/hour-of-code/hour-of-html",
+    "id": "khan00204",
+    "description": "Creating webpages. Learn the basics of HTML and CSS to make your first webpage. Welcome to the web! HTML basics · Quick tip: HTML tags · Challenge: Write ..."
+  },
+  {
+    "name": "Welcome to making webpages interactive (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuK2U6HbZuwYDQsMb4tRW02d9ZZ5YgR4efw3nywXkxM9bUL9kWWeZBoR0",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro/v/welcome-to-making-webpages-interactive",
+    "id": "khan00205",
+    "description": "You can make pretty much anything you've seen on the web. We'll be using the language JavaScript to do all of that. And you might be confused if you've ..."
+  },
+  {
+    "name": "Food chains and food webs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/FWWo5Xlz4TjPCBHJP5i1ZZOXzgRFeUIXRXoJM25k49SrzwKYJ59sQohJJ39hSkm3Ty6kjLsxbvW4Jfhrkwed4TE7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/e/food-chains-and-food-webs",
+    "id": "khan00206",
+    "description": "Test your knowledge of food chains and food webs!"
+  },
+  {
+    "name": "Computer programming ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuT7Ia4nVwTpbSOXsGQwfj1dAo5ETJs8H9d1hSk0Ur3zPRUG2sGP6SDsE",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming",
+    "id": "khan00207",
+    "description": "... with, to tell browsers to change the color, font, layout, and more. Intro to HTML · Intro to CSS · More HTML tags · CSS text properties · Web development tools."
+  },
+  {
+    "name": "Food chains & food webs (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/470oEaLWY2kx2O6ychh8qhictmQgbA50N7gDwC2wPuSPt5ulxlCw5uB_iL1W7L6GKPI4EY3JnCZjR9L3Pf1GHcA",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/food-chains-food-webs",
+    "id": "khan00208",
+    "description": "For situations like the one above, we may want to use a food web that consists of many intersecting food chains and represents the different things an organism ..."
+  },
+  {
+    "name": "Ecological interactions (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/community-ecosystem-ecology/a/ecological-interactions",
+    "id": "khan00209",
+    "description": "All organisms play a part in the web of life and every living thing will die at some point. This is where scavengers, detritivores (which eat detritus or parts of dead ..."
+  },
+  {
+    "name": "Welcome to the web! (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFAJt9LhXFONbdCu25OzILT72A0714enahncNEgnSCC8-969i5tdnJb8g",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro",
+    "id": "khan00210",
+    "description": "The client is the machine viewing the site (the site's user) and the server is the machine where the site is located. Client side scripts are run by the web browser (ie. JS) and server side scripts are run by the server that hosts the site (PHP, ASP. NET). Learn more here: ..."
+  },
+  {
+    "name": "Developing webpages outside of Khan Academy (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/developing-webpages-outside-of-khan-academy",
+    "id": "khan00211",
+    "description": "Dreamweaver was not for professional developers. It was for people who didn't know HTML and wanted to make basic web pages. Words can't express how I feel about Dreamweaver. It was the machine that created the worst web pages that I've had to deal with. You should try something like Brackets (http://brackets. io/)."
+  },
+  {
+    "name": "Khan Academy ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/",
+    "id": "khan00212",
+    "description": "You can learn anything. Expert-created content and resources for every subject and level. Always free."
+  },
+  {
+    "name": "Intro to HTML/CSS: Making webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJQ1aqMurnDRh3BsJkf7mzmlLvqaWfTkl1ygyI9WfFAngkMGIjxsSxJbC",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css",
+    "id": "khan00213",
+    "description": "Web development tools. CSS layout. More CSS selectors. Other ways to embed CSS. Further learning. Learn how to use HTML and CSS to make webpages. HTML is the markup language that you surround content with, to tell browsers about headings, lists, tables, etc. CSS is the stylesheet language that you style the page ..."
+  },
+  {
+    "name": "Creating webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFRR-GUeUiTUCME21s2kFJF5Ptim3rFT3n3-9z6Fz5PIkyLS5ecETq3RV",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/hour-of-code/hour-of-html",
+    "id": "khan00214",
+    "description": "Creating webpages. Learn the basics of HTML and CSS to make your first webpage. Welcome to the web! HTML basics · Quick tip: HTML tags · Challenge: Write a Poem · HTML: Text emphasis · Challenge: You can learn text tags · HTML : Lists · Challenge: Your learning list · HTML: Images · Challenge: A picture- perfect trip."
+  },
+  {
+    "name": "Welcome to making webpages interactive (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuK2U6HbZuwYDQsMb4tRW02d9ZZ5YgR4efw3nywXkxM9bUL9kWWeZBoR0",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro/v/welcome-to-making-webpages-interactive",
+    "id": "khan00215",
+    "description": "In this course, you're going to learn how to make your webpages interactive. You' ll start with simple HTML/CSS webpages, then add JavaScript to change them: like to make a word game, a slide show, an infinitely-loading gallery, or a drawing app. You can make pretty much anything you've seen on the web. We'll be using  ..."
+  },
+  {
+    "name": "Computer programming ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuT7Ia4nVwTpbSOXsGQwfj1dAo5ETJs8H9d1hSk0Ur3zPRUG2sGP6SDsE",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming",
+    "id": "khan00216",
+    "description": "HTML is the markup language that you surround content with, to tell browsers about headings, lists, tables, etc. CSS is the stylesheet language that you style the page with, to tell browsers to change the color, font, layout, and more. Intro to HTML · Intro to CSS · More HTML tags · CSS text properties · Web development tools."
+  },
+  {
+    "name": "Food chains and food webs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/FWWo5Xlz4TjPCBHJP5i1ZZOXzgRFeUIXRXoJM25k49SrzwKYJ59sQohJJ39hSkm3Ty6kjLsxbvW4Jfhrkwed4TE7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/e/food-chains-and-food-webs",
+    "id": "khan00217",
+    "description": "Test your knowledge of food chains and food webs!"
+  },
+  {
+    "name": "Food chains & food webs (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/470oEaLWY2kx2O6ychh8qhictmQgbA50N7gDwC2wPuSPt5ulxlCw5uB_iL1W7L6GKPI4EY3JnCZjR9L3Pf1GHcA",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/food-chains-food-webs",
+    "id": "khan00218",
+    "description": "For situations like the one above, we may want to use a food web that consists of many intersecting food chains and represents the different things an organism can eat and be eaten by. In this article, we'll take a closer look at food chains and food webs to see how they represent the flow of energy and nutrients through ..."
+  },
+  {
+    "name": "Ecological interactions (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/community-ecosystem-ecology/a/ecological-interactions",
+    "id": "khan00219",
+    "description": "When a bear eats berries, for example, it is being a primary consumer, but when it eats a fish, it might be a secondary or a tertiary consumer, depending on what the fish ate! All organisms play a part in the web of life and every living thing will die at some point. This is where scavengers, detritivores (which eat detritus or parts ..."
+  },
+  {
+    "name": "Welcome to the web! (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFAJt9LhXFONbdCu25OzILT72A0714enahncNEgnSCC8-969i5tdnJb8g",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro",
+    "id": "khan00220",
+    "description": "The client is the machine viewing the site (the site's user) and the server is the machine where the site is located. Client side scripts are run by the web browser (ie. JS) and server side scripts are run by the server that hosts the site (PHP, ASP. NET). Learn more here: ..."
+  },
+  {
+    "name": "Developing webpages outside of Khan Academy (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/developing-webpages-outside-of-khan-academy",
+    "id": "khan00221",
+    "description": "Dreamweaver was not for professional developers. It was for people who didn't know HTML and wanted to make basic web pages. Words can't express how I feel about Dreamweaver. It was the machine that created the worst web pages that I've had to deal with. You should try something like Brackets (http://brackets. io/)."
+  },
+  {
+    "name": "Khan Academy ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/",
+    "id": "khan00222",
+    "description": "You can learn anything. Expert-created content and resources for every subject and level. Always free."
+  },
+  {
+    "name": "Intro to HTML/CSS: Making webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJQ1aqMurnDRh3BsJkf7mzmlLvqaWfTkl1ygyI9WfFAngkMGIjxsSxJbC",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css",
+    "id": "khan00223",
+    "description": "Web development tools. CSS layout. More CSS selectors. Other ways to embed CSS. Further learning. Learn how to use HTML and CSS to make webpages. HTML is the markup language that you surround content with, to tell browsers about headings, lists, tables, etc. CSS is the stylesheet language that you style the page ..."
+  },
+  {
+    "name": "Creating webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFRR-GUeUiTUCME21s2kFJF5Ptim3rFT3n3-9z6Fz5PIkyLS5ecETq3RV",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/hour-of-code/hour-of-html",
+    "id": "khan00224",
+    "description": "Creating webpages. Learn the basics of HTML and CSS to make your first webpage. Welcome to the web! HTML basics · Quick tip: HTML tags · Challenge: Write a Poem · HTML: Text emphasis · Challenge: You can learn text tags · HTML : Lists · Challenge: Your learning list · HTML: Images · Challenge: A picture- perfect trip."
+  },
+  {
+    "name": "Welcome to making webpages interactive (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuK2U6HbZuwYDQsMb4tRW02d9ZZ5YgR4efw3nywXkxM9bUL9kWWeZBoR0",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro/v/welcome-to-making-webpages-interactive",
+    "id": "khan00225",
+    "description": "In this course, you're going to learn how to make your webpages interactive. You' ll start with simple HTML/CSS webpages, then add JavaScript to change them: like to make a word game, a slide show, an infinitely-loading gallery, or a drawing app. You can make pretty much anything you've seen on the web. We'll be using  ..."
+  },
+  {
+    "name": "Food chains and food webs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/FWWo5Xlz4TjPCBHJP5i1ZZOXzgRFeUIXRXoJM25k49SrzwKYJ59sQohJJ39hSkm3Ty6kjLsxbvW4Jfhrkwed4TE7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/e/food-chains-and-food-webs",
+    "id": "khan00226",
+    "description": "Test your knowledge of food chains and food webs!"
+  },
+  {
+    "name": "Computer programming ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuT7Ia4nVwTpbSOXsGQwfj1dAo5ETJs8H9d1hSk0Ur3zPRUG2sGP6SDsE",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming",
+    "id": "khan00227",
+    "description": "HTML is the markup language that you surround content with, to tell browsers about headings, lists, tables, etc. CSS is the stylesheet language that you style the page with, to tell browsers to change the color, font, layout, and more. Intro to HTML · Intro to CSS · More HTML tags · CSS text properties · Web development tools."
+  },
+  {
+    "name": "Food chains & food webs (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/470oEaLWY2kx2O6ychh8qhictmQgbA50N7gDwC2wPuSPt5ulxlCw5uB_iL1W7L6GKPI4EY3JnCZjR9L3Pf1GHcA",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/food-chains-food-webs",
+    "id": "khan00228",
+    "description": "For situations like the one above, we may want to use a food web that consists of many intersecting food chains and represents the different things an organism can eat and be eaten by. In this article, we'll take a closer look at food chains and food webs to see how they represent the flow of energy and nutrients through ..."
+  },
+  {
+    "name": "Ecological interactions (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/community-ecosystem-ecology/a/ecological-interactions",
+    "id": "khan00229",
+    "description": "When a bear eats berries, for example, it is being a primary consumer, but when it eats a fish, it might be a secondary or a tertiary consumer, depending on what the fish ate! All organisms play a part in the web of life and every living thing will die at some point. This is where scavengers, detritivores (which eat detritus or parts ..."
+  },
+  {
+    "name": "Welcome to the web! (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFAJt9LhXFONbdCu25OzILT72A0714enahncNEgnSCC8-969i5tdnJb8g",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro",
+    "id": "khan00230",
+    "description": "The client is the machine viewing the site (the site's user) and the server is the machine where the site is located. Client side scripts are run by the web browser  ..."
+  },
+  {
+    "name": "Developing webpages outside of Khan Academy (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/developing-webpages-outside-of-khan-academy",
+    "id": "khan00231",
+    "description": "No, but you can open the HTML file you're editing right in your web browser. ... It was for people who didn't know HTML and wanted to make basic web pages."
+  },
+  {
+    "name": "Khan Academy ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfjgnA9YVDjxOFTwJ9sF5bfAsiQkhMTASyGbijVuYRh3eaiE72F-rbBo",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/",
+    "id": "khan00232",
+    "description": "You can learn anything. Expert-created content and resources for every subject and level. Always free."
+  },
+  {
+    "name": "Intro to HTML/CSS: Making webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJQ1aqMurnDRh3BsJkf7mzmlLvqaWfTkl1ygyI9WfFAngkMGIjxsSxJbC",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css",
+    "id": "khan00233",
+    "description": "Web development tools. CSS layout. More CSS selectors. Other ways to embed CSS. Further learning. Learn how to use HTML and CSS to make webpages."
+  },
+  {
+    "name": "Creating webpages ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFRR-GUeUiTUCME21s2kFJF5Ptim3rFT3n3-9z6Fz5PIkyLS5ecETq3RV",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/hour-of-code/hour-of-html",
+    "id": "khan00234",
+    "description": "Creating webpages. Learn the basics of HTML and CSS to make your first webpage. Welcome to the web! HTML basics · Quick tip: HTML tags · Challenge: Write ..."
+  },
+  {
+    "name": "Welcome to making webpages interactive (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuK2U6HbZuwYDQsMb4tRW02d9ZZ5YgR4efw3nywXkxM9bUL9kWWeZBoR0",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro/v/welcome-to-making-webpages-interactive",
+    "id": "khan00235",
+    "description": "You can make pretty much anything you've seen on the web. We'll be using the language JavaScript to do all of that. And you might be confused if you've ..."
+  },
+  {
+    "name": "Food chains and food webs (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/FWWo5Xlz4TjPCBHJP5i1ZZOXzgRFeUIXRXoJM25k49SrzwKYJ59sQohJJ39hSkm3Ty6kjLsxbvW4Jfhrkwed4TE7",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/e/food-chains-and-food-webs",
+    "id": "khan00236",
+    "description": "Test your knowledge of food chains and food webs!"
+  },
+  {
+    "name": "Computer programming ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuT7Ia4nVwTpbSOXsGQwfj1dAo5ETJs8H9d1hSk0Ur3zPRUG2sGP6SDsE",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-programming",
+    "id": "khan00237",
+    "description": "... with, to tell browsers to change the color, font, layout, and more. Intro to HTML · Intro to CSS · More HTML tags · CSS text properties · Web development tools."
+  },
+  {
+    "name": "Food chains & food webs (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/470oEaLWY2kx2O6ychh8qhictmQgbA50N7gDwC2wPuSPt5ulxlCw5uB_iL1W7L6GKPI4EY3JnCZjR9L3Pf1GHcA",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/food-chains-food-webs",
+    "id": "khan00238",
+    "description": "For situations like the one above, we may want to use a food web that consists of many intersecting food chains and represents the different things an organism ..."
+  },
+  {
+    "name": "Ecological interactions (article) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/K5bzbA067FpSFjs7VuTCAEosuCGLm4NfxQbq_tYtpMHIyB5j-nirP_Pdy8XXrmoARE3_2TBnGafYaRTsSiFt4iw",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/science/biology/ecology/community-ecosystem-ecology/a/ecological-interactions",
+    "id": "khan00239",
+    "description": "All organisms play a part in the web of life and every living thing will die at some point. This is where scavengers, detritivores (which eat detritus or parts of dead ..."
+  },
+  {
+    "name": "Cyber codes quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cyber-code-quiz",
+    "id": "khan00240",
+    "description": "Try this quiz about cyber encryption. ... Cybersecurity. Cyber codes quiz. Problem . Codes have been used for thousands of years in order to: Choose 1 answer:."
+  },
+  {
+    "name": "A cyber privacy parable (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvZNcmQGTWNVYFQEt5NDErzQTNrFzbun9YwxuaTWXq-ct7wQu1Yl7SP0WJ",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/a-cyber-privacy-parable",
+    "id": "khan00241",
+    "description": "Follow the trials and tribulations of Tim as a seemingly innocent piece of digital information threatens to ruin his life when it falls into the wrong hands."
+  },
+  {
+    "name": "Cyber codes (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQs7VpXxnFLjMW2lT8qiQnEpv0rzWYatfT0PmQUBHrVYIQyPvHAgWLda1",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cyber-codes",
+    "id": "khan00242",
+    "description": "Cyber codes. About. Do you trust the security of your email, text messages, and browser history? Learn how trustworthy online communication actually is and ..."
+  },
+  {
+    "name": "A cyber privacy parable quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/a-cyber-privacy-parable-quiz",
+    "id": "khan00243",
+    "description": "Try this quiz about cyber privacy. ... A cyber privacy parable quiz. Problem. Which of the following may intercept and use your messages for their own purposes?"
+  },
+  {
+    "name": "Cybersecurity 101 (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb87NYAjiAZHDq5CSxX7XPg-UwOs4ixE9SZrQYgy2wb4xe5pGvGxMAPtM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cybersecurity-101",
+    "id": "khan00244",
+    "description": "In Cyber security 101,what do you mean by \"that house is the internet\"? 2 Votes. • Comment on Ava_B's question • Flag Ava_B's comment. about a year ago by ..."
+  },
+  {
+    "name": "Cybersecurity 101 quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cybersecurity-101-quiz",
+    "id": "khan00245",
+    "description": "A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs  ..."
+  },
+  {
+    "name": "Cybersecurity and crime (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPunK9kNoY85zaN0yukUnUmtQUlXGie59t5rZK-ABQNlLMpAiY4kidos",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-cybersecurity-and-crime",
+    "id": "khan00246",
+    "description": "Today, the largest countries not only have a regular army, but also have a well- armed cyber army. In fact, the next world war may not be fought with traditional ..."
+  },
+  {
+    "name": "Cybersecurity ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuDFZItv5b4izbrb2KZe9cGD2ziwENp5m4wxLoXPVnz7ad7cvPoTlTLQIG",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity",
+    "id": "khan00247",
+    "description": "Cyber codes quiz. 4 questions. Practice. About this unit. Whenever we go online —to shop, chat with our friends, or do anything else—we put ourselves at risk of ..."
+  },
+  {
+    "name": "The secret lives of hackers (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv3M0MpQ2SDweJkQHCpdDFGVhKOGr-V6gWXULAg5Qms9MqOxD-8WY9Eio",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/the-secret-lives-of-hackers",
+    "id": "khan00248",
+    "description": "Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy ..."
+  },
+  {
+    "name": "The secret lives of hackers quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/the-secret-lives-of-hackers-quiz",
+    "id": "khan00249",
+    "description": "The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: ..."
+  },
+  {
+    "name": "Cyber codes quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cyber-code-quiz",
+    "id": "khan00250",
+    "description": "Try this quiz about cyber encryption. ... Cybersecurity. Cyber codes quiz. Problem . Codes have been used for thousands of years in order to: Choose 1 answer:."
+  },
+  {
+    "name": "A cyber privacy parable (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvZNcmQGTWNVYFQEt5NDErzQTNrFzbun9YwxuaTWXq-ct7wQu1Yl7SP0WJ",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/a-cyber-privacy-parable",
+    "id": "khan00251",
+    "description": "Follow the trials and tribulations of Tim as a seemingly innocent piece of digital information threatens to ruin his life when it falls into the wrong hands."
+  },
+  {
+    "name": "Cyber codes (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQs7VpXxnFLjMW2lT8qiQnEpv0rzWYatfT0PmQUBHrVYIQyPvHAgWLda1",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cyber-codes",
+    "id": "khan00252",
+    "description": "Cyber codes. About. Do you trust the security of your email, text messages, and browser history? Learn how trustworthy online communication actually is and ..."
+  },
+  {
+    "name": "A cyber privacy parable quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/a-cyber-privacy-parable-quiz",
+    "id": "khan00253",
+    "description": "Try this quiz about cyber privacy. ... A cyber privacy parable quiz. Problem. Which of the following may intercept and use your messages for their own purposes?"
+  },
+  {
+    "name": "Cybersecurity 101 (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb87NYAjiAZHDq5CSxX7XPg-UwOs4ixE9SZrQYgy2wb4xe5pGvGxMAPtM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cybersecurity-101",
+    "id": "khan00254",
+    "description": "In Cyber security 101,what do you mean by \"that house is the internet\"? 2 Votes. • Comment on Ava_B's question • Flag Ava_B's comment. about a year ago by ..."
+  },
+  {
+    "name": "Cybersecurity 101 quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cybersecurity-101-quiz",
+    "id": "khan00255",
+    "description": "A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs  ..."
+  },
+  {
+    "name": "Cybersecurity and crime (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPunK9kNoY85zaN0yukUnUmtQUlXGie59t5rZK-ABQNlLMpAiY4kidos",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-cybersecurity-and-crime",
+    "id": "khan00256",
+    "description": "Today, the largest countries not only have a regular army, but also have a well- armed cyber army. In fact, the next world war may not be fought with traditional ..."
+  },
+  {
+    "name": "Cybersecurity ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuDFZItv5b4izbrb2KZe9cGD2ziwENp5m4wxLoXPVnz7ad7cvPoTlTLQIG",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity",
+    "id": "khan00257",
+    "description": "Cyber codes quiz. 4 questions. Practice. About this unit. Whenever we go online —to shop, chat with our friends, or do anything else—we put ourselves at risk of ..."
+  },
+  {
+    "name": "The secret lives of hackers (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv3M0MpQ2SDweJkQHCpdDFGVhKOGr-V6gWXULAg5Qms9MqOxD-8WY9Eio",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/the-secret-lives-of-hackers",
+    "id": "khan00258",
+    "description": "Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy ..."
+  },
+  {
+    "name": "The secret lives of hackers quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/the-secret-lives-of-hackers-quiz",
+    "id": "khan00259",
+    "description": "The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: ..."
+  },
+  {
+    "name": "Cyber codes quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cyber-code-quiz",
+    "id": "khan00260",
+    "description": "Codes have been used for thousands of years in order to: Choose 1 answer: Choose 1 answer: A. Figure out where the enemy submarines are. B. Communicate with some but not others. C. Become a king. D. Send encrypted text messages. Stuck? Use a hint. Report a problem. Created with Raphaël. Stuck? Get a hint for ..."
+  },
+  {
+    "name": "A cyber privacy parable (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvZNcmQGTWNVYFQEt5NDErzQTNrFzbun9YwxuaTWXq-ct7wQu1Yl7SP0WJ",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/a-cyber-privacy-parable",
+    "id": "khan00261",
+    "description": "Follow the trials and tribulations of Tim as a seemingly innocent piece of digital information threatens to ruin his life when it falls into the wrong hands."
+  },
+  {
+    "name": "Cyber codes (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQs7VpXxnFLjMW2lT8qiQnEpv0rzWYatfT0PmQUBHrVYIQyPvHAgWLda1",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cyber-codes",
+    "id": "khan00262",
+    "description": "Do you trust the security of your email, text messages, and browser history? Learn how trustworthy online communication actually is and how encryption can protect your privacy. Sometimes."
+  },
+  {
+    "name": "A cyber privacy parable quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/a-cyber-privacy-parable-quiz",
+    "id": "khan00263",
+    "description": "Cybersecurity. Cybersecurity 101 · Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs ·Cybersecurity·."
+  },
+  {
+    "name": "Cybersecurity 101 (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb87NYAjiAZHDq5CSxX7XPg-UwOs4ixE9SZrQYgy2wb4xe5pGvGxMAPtM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cybersecurity-101",
+    "id": "khan00264",
+    "description": "NOVA Labs Cybersecurity. Cybersecurity. Cybersecurity 101 · Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary. Current time:0 :00Total ..."
+  },
+  {
+    "name": "Cybersecurity 101 quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cybersecurity-101-quiz",
+    "id": "khan00265",
+    "description": "Cybersecurity. Cybersecurity 101 · Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs ·Cybersecurity·."
+  },
+  {
+    "name": "Cybersecurity and crime (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPunK9kNoY85zaN0yukUnUmtQUlXGie59t5rZK-ABQNlLMpAiY4kidos",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-cybersecurity-and-crime",
+    "id": "khan00266",
+    "description": "Today, the largest countries not only have a regular army, but also have a well- armed cyber army. In fact, the next world war may not be fought with traditional weapons but with computers, used to shut down national water supplies, energy grids, and transportation systems. - Hi. My name is Parisa and I'm Google's Security ..."
+  },
+  {
+    "name": "Cybersecurity ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuDFZItv5b4izbrb2KZe9cGD2ziwENp5m4wxLoXPVnz7ad7cvPoTlTLQIG",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity",
+    "id": "khan00267",
+    "description": "Cyber codes quiz. 4 questions. Practice. About this unit. Whenever we go online —to shop, chat with our friends, or do anything else—we put ourselves at risk of cybercrime. Computer viruses can corrupt our files, hackers can steal our data, and criminals can trick us into revealing sensitive information. But luckily there are ..."
+  },
+  {
+    "name": "The secret lives of hackers (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv3M0MpQ2SDweJkQHCpdDFGVhKOGr-V6gWXULAg5Qms9MqOxD-8WY9Eio",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/the-secret-lives-of-hackers",
+    "id": "khan00268",
+    "description": "NOVA Labs Cybersecurity. Cybersecurity. Cybersecurity 101 · Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary. Current time:0 :00Total ..."
+  },
+  {
+    "name": "The secret lives of hackers quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/the-secret-lives-of-hackers-quiz",
+    "id": "khan00269",
+    "description": "Cybersecurity. Cybersecurity 101 · Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs ·Cybersecurity·."
+  },
+  {
+    "name": "Cyber codes quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cyber-code-quiz",
+    "id": "khan00270",
+    "description": "Try this quiz about cyber encryption. ... Cybersecurity. Cyber codes quiz. Problem . Codes have been used for thousands of years in order to: Choose 1 answer:."
+  },
+  {
+    "name": "A cyber privacy parable (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvZNcmQGTWNVYFQEt5NDErzQTNrFzbun9YwxuaTWXq-ct7wQu1Yl7SP0WJ",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/a-cyber-privacy-parable",
+    "id": "khan00271",
+    "description": "Follow the trials and tribulations of Tim as a seemingly innocent piece of digital information threatens to ruin his life when it falls into the wrong hands."
+  },
+  {
+    "name": "Cyber codes (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQs7VpXxnFLjMW2lT8qiQnEpv0rzWYatfT0PmQUBHrVYIQyPvHAgWLda1",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cyber-codes",
+    "id": "khan00272",
+    "description": "Cyber codes. About. Do you trust the security of your email, text messages, and browser history? Learn how trustworthy online communication actually is and ..."
+  },
+  {
+    "name": "A cyber privacy parable quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/a-cyber-privacy-parable-quiz",
+    "id": "khan00273",
+    "description": "Try this quiz about cyber privacy. ... A cyber privacy parable quiz. Problem. Which of the following may intercept and use your messages for their own purposes?"
+  },
+  {
+    "name": "Cybersecurity 101 (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb87NYAjiAZHDq5CSxX7XPg-UwOs4ixE9SZrQYgy2wb4xe5pGvGxMAPtM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cybersecurity-101",
+    "id": "khan00274",
+    "description": "In Cyber security 101,what do you mean by \"that house is the internet\"? 2 Votes. • Comment on Ava_B's question • Flag Ava_B's comment. about a year ago by ..."
+  },
+  {
+    "name": "Cybersecurity 101 quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cybersecurity-101-quiz",
+    "id": "khan00275",
+    "description": "A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs  ..."
+  },
+  {
+    "name": "Cybersecurity and crime (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPunK9kNoY85zaN0yukUnUmtQUlXGie59t5rZK-ABQNlLMpAiY4kidos",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-cybersecurity-and-crime",
+    "id": "khan00276",
+    "description": "Today, the largest countries not only have a regular army, but also have a well- armed cyber army. In fact, the next world war may not be fought with traditional ..."
+  },
+  {
+    "name": "Cybersecurity ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuDFZItv5b4izbrb2KZe9cGD2ziwENp5m4wxLoXPVnz7ad7cvPoTlTLQIG",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity",
+    "id": "khan00277",
+    "description": "Cyber codes quiz. 4 questions. Practice. About this unit. Whenever we go online —to shop, chat with our friends, or do anything else—we put ourselves at risk of ..."
+  },
+  {
+    "name": "The secret lives of hackers (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv3M0MpQ2SDweJkQHCpdDFGVhKOGr-V6gWXULAg5Qms9MqOxD-8WY9Eio",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/the-secret-lives-of-hackers",
+    "id": "khan00278",
+    "description": "Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy ..."
+  },
+  {
+    "name": "The secret lives of hackers quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/the-secret-lives-of-hackers-quiz",
+    "id": "khan00279",
+    "description": "The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: ..."
+  },
+  {
+    "name": "Cyber codes quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cyber-code-quiz",
+    "id": "khan00280",
+    "description": "Try this quiz about cyber encryption. ... Cybersecurity. Cyber codes quiz. Problem . Codes have been used for thousands of years in order to: Choose 1 answer:."
+  },
+  {
+    "name": "A cyber privacy parable (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvZNcmQGTWNVYFQEt5NDErzQTNrFzbun9YwxuaTWXq-ct7wQu1Yl7SP0WJ",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/a-cyber-privacy-parable",
+    "id": "khan00281",
+    "description": "Follow the trials and tribulations of Tim as a seemingly innocent piece of digital information threatens to ruin his life when it falls into the wrong hands."
+  },
+  {
+    "name": "Cyber codes (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQs7VpXxnFLjMW2lT8qiQnEpv0rzWYatfT0PmQUBHrVYIQyPvHAgWLda1",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cyber-codes",
+    "id": "khan00282",
+    "description": "Cyber codes. About. Do you trust the security of your email, text messages, and browser history? Learn how trustworthy online communication actually is and ..."
+  },
+  {
+    "name": "A cyber privacy parable quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/a-cyber-privacy-parable-quiz",
+    "id": "khan00283",
+    "description": "Try this quiz about cyber privacy. ... A cyber privacy parable quiz. Problem. Which of the following may intercept and use your messages for their own purposes?"
+  },
+  {
+    "name": "Cybersecurity 101 (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb87NYAjiAZHDq5CSxX7XPg-UwOs4ixE9SZrQYgy2wb4xe5pGvGxMAPtM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cybersecurity-101",
+    "id": "khan00284",
+    "description": "In Cyber security 101,what do you mean by \"that house is the internet\"? 2 Votes. • Comment on Ava_B's question • Flag Ava_B's comment. about a year ago by ..."
+  },
+  {
+    "name": "Cybersecurity 101 quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cybersecurity-101-quiz",
+    "id": "khan00285",
+    "description": "A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs  ..."
+  },
+  {
+    "name": "Cybersecurity and crime (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPunK9kNoY85zaN0yukUnUmtQUlXGie59t5rZK-ABQNlLMpAiY4kidos",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-cybersecurity-and-crime",
+    "id": "khan00286",
+    "description": "Today, the largest countries not only have a regular army, but also have a well- armed cyber army. In fact, the next world war may not be fought with traditional ..."
+  },
+  {
+    "name": "Cybersecurity ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuDFZItv5b4izbrb2KZe9cGD2ziwENp5m4wxLoXPVnz7ad7cvPoTlTLQIG",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity",
+    "id": "khan00287",
+    "description": "Cyber codes quiz. 4 questions. Practice. About this unit. Whenever we go online —to shop, chat with our friends, or do anything else—we put ourselves at risk of ..."
+  },
+  {
+    "name": "The secret lives of hackers (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv3M0MpQ2SDweJkQHCpdDFGVhKOGr-V6gWXULAg5Qms9MqOxD-8WY9Eio",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/the-secret-lives-of-hackers",
+    "id": "khan00288",
+    "description": "Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy ..."
+  },
+  {
+    "name": "The secret lives of hackers quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/the-secret-lives-of-hackers-quiz",
+    "id": "khan00289",
+    "description": "The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: ..."
+  },
+  {
+    "name": "Cyber codes quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cyber-code-quiz",
+    "id": "khan00290",
+    "description": "Try this quiz about cyber encryption. ... Cybersecurity. Cyber codes quiz. Problem . Codes have been used for thousands of years in order to: Choose 1 answer:."
+  },
+  {
+    "name": "A cyber privacy parable (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvZNcmQGTWNVYFQEt5NDErzQTNrFzbun9YwxuaTWXq-ct7wQu1Yl7SP0WJ",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/a-cyber-privacy-parable",
+    "id": "khan00291",
+    "description": "Follow the trials and tribulations of Tim as a seemingly innocent piece of digital information threatens to ruin his life when it falls into the wrong hands."
+  },
+  {
+    "name": "Cyber codes (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQs7VpXxnFLjMW2lT8qiQnEpv0rzWYatfT0PmQUBHrVYIQyPvHAgWLda1",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cyber-codes",
+    "id": "khan00292",
+    "description": "Cyber codes. About. Do you trust the security of your email, text messages, and browser history? Learn how trustworthy online communication actually is and ..."
+  },
+  {
+    "name": "A cyber privacy parable quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/a-cyber-privacy-parable-quiz",
+    "id": "khan00293",
+    "description": "Try this quiz about cyber privacy. ... A cyber privacy parable quiz. Problem. Which of the following may intercept and use your messages for their own purposes?"
+  },
+  {
+    "name": "Cybersecurity 101 (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb87NYAjiAZHDq5CSxX7XPg-UwOs4ixE9SZrQYgy2wb4xe5pGvGxMAPtM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cybersecurity-101",
+    "id": "khan00294",
+    "description": "In Cyber security 101,what do you mean by \"that house is the internet\"? 2 Votes. • Comment on Ava_B's question • Flag Ava_B's comment. about a year ago by ..."
+  },
+  {
+    "name": "Cybersecurity 101 quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cybersecurity-101-quiz",
+    "id": "khan00295",
+    "description": "A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs  ..."
+  },
+  {
+    "name": "Cybersecurity and crime (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPunK9kNoY85zaN0yukUnUmtQUlXGie59t5rZK-ABQNlLMpAiY4kidos",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-cybersecurity-and-crime",
+    "id": "khan00296",
+    "description": "Today, the largest countries not only have a regular army, but also have a well- armed cyber army. In fact, the next world war may not be fought with traditional ..."
+  },
+  {
+    "name": "Cybersecurity ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuDFZItv5b4izbrb2KZe9cGD2ziwENp5m4wxLoXPVnz7ad7cvPoTlTLQIG",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity",
+    "id": "khan00297",
+    "description": "Cyber codes quiz. 4 questions. Practice. About this unit. Whenever we go online —to shop, chat with our friends, or do anything else—we put ourselves at risk of ..."
+  },
+  {
+    "name": "The secret lives of hackers (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv3M0MpQ2SDweJkQHCpdDFGVhKOGr-V6gWXULAg5Qms9MqOxD-8WY9Eio",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/the-secret-lives-of-hackers",
+    "id": "khan00298",
+    "description": "Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy ..."
+  },
+  {
+    "name": "The secret lives of hackers quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/the-secret-lives-of-hackers-quiz",
+    "id": "khan00299",
+    "description": "The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: ..."
+  },
+  {
+    "name": "Cyber codes quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cyber-code-quiz",
+    "id": "khan00300",
+    "description": "Codes have been used for thousands of years in order to: Choose 1 answer: Choose 1 answer: A. Figure out where the enemy submarines are. B. Communicate with some but not others. C. Become a king. D. Send encrypted text messages. Stuck? Use a hint. Report a problem. Created with Raphaël. Stuck? Get a hint for ..."
+  },
+  {
+    "name": "A cyber privacy parable (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvZNcmQGTWNVYFQEt5NDErzQTNrFzbun9YwxuaTWXq-ct7wQu1Yl7SP0WJ",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/a-cyber-privacy-parable",
+    "id": "khan00301",
+    "description": "Follow the trials and tribulations of Tim as a seemingly innocent piece of digital information threatens to ruin his life when it falls into the wrong hands."
+  },
+  {
+    "name": "Cyber codes (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQs7VpXxnFLjMW2lT8qiQnEpv0rzWYatfT0PmQUBHrVYIQyPvHAgWLda1",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cyber-codes",
+    "id": "khan00302",
+    "description": "Do you trust the security of your email, text messages, and browser history? Learn how trustworthy online communication actually is and how encryption can protect your privacy. Sometimes."
+  },
+  {
+    "name": "A cyber privacy parable quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/a-cyber-privacy-parable-quiz",
+    "id": "khan00303",
+    "description": "Cybersecurity. Cybersecurity 101 · Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs ·Cybersecurity·."
+  },
+  {
+    "name": "Cybersecurity 101 (video) ",
+    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb87NYAjiAZHDq5CSxX7XPg-UwOs4ixE9SZrQYgy2wb4xe5pGvGxMAPtM",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cybersecurity-101",
+    "id": "khan00304",
+    "description": "NOVA Labs Cybersecurity. Cybersecurity. Cybersecurity 101 · Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary. Current time:0 :00Total ..."
+  },
+  {
+    "name": "Cybersecurity 101 quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/cybersecurity-101-quiz",
+    "id": "khan00305",
+    "description": "Cybersecurity. Cybersecurity 101 · Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs ·Cybersecurity·."
+  },
+  {
+    "name": "Cybersecurity and crime (video) ",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPunK9kNoY85zaN0yukUnUmtQUlXGie59t5rZK-ABQNlLMpAiY4kidos",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-cybersecurity-and-crime",
+    "id": "khan00306",
+    "description": "Today, the largest countries not only have a regular army, but also have a well- armed cyber army. In fact, the next world war may not be fought with traditional weapons but with computers, used to shut down national water supplies, energy grids, and transportation systems. - Hi. My name is Parisa and I'm Google's Security ..."
+  },
+  {
+    "name": "Cybersecurity ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuDFZItv5b4izbrb2KZe9cGD2ziwENp5m4wxLoXPVnz7ad7cvPoTlTLQIG",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity",
+    "id": "khan00307",
+    "description": "Cyber codes quiz. 4 questions. Practice. About this unit. Whenever we go online —to shop, chat with our friends, or do anything else—we put ourselves at risk of cybercrime. Computer viruses can corrupt our files, hackers can steal our data, and criminals can trick us into revealing sensitive information. But luckily there are ..."
+  },
+  {
+    "name": "The secret lives of hackers (video) ",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv3M0MpQ2SDweJkQHCpdDFGVhKOGr-V6gWXULAg5Qms9MqOxD-8WY9Eio",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/the-secret-lives-of-hackers",
+    "id": "khan00308",
+    "description": "NOVA Labs Cybersecurity. Cybersecurity. Cybersecurity 101 · Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary. Current time:0 :00Total ..."
+  },
+  {
+    "name": "The secret lives of hackers quiz (practice) ",
+    "img": "https://cdn.kastatic.org/googleusercontent/BeOgMWy4wbB_Q_hya2R5VB6kM67lVZt4Kk7QK0qeQF8kNTAZdgQySmtM2CjlKCnM43zq5iJ325T-aH9yhE89dd4",
+    "provenance": "khan Academy",
+    "course_url": "https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/e/the-secret-lives-of-hackers-quiz",
+    "id": "khan00309",
+    "description": "Cybersecurity. Cybersecurity 101 · Practice: Cybersecurity 101 quiz · The secret lives of hackers · Practice: The secret lives of hackers quiz · A cyber privacy parable · Practice: A cyber privacy parable quiz · Cyber codes · Practice: Cyber codes quiz · Cybersecurity glossary · Partner content·NOVA Labs ·Cybersecurity·."
+  }
+]
