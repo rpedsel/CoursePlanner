@@ -1,0 +1,15 @@
+load csv with headers from ['file path:/Mooc_merge.csv'] as row
+(with row limit 100)
+merge (course:Course{
+    id:row.id,
+    name:row.course_name,
+    description:row.description,
+    url:row.course_url})
+    ON CREATE SET course.image = row.image_url
+    ON MATCH SET course.image = row.image_url
+merge (provenance:Provenance{name:row.provenance})
+merge (course) - [:HostedBy] -> (provenance)
+foreach (subjectName in split(row.subject,";") | 
+    merge (subject:Subject{name:subjectName})
+    merge (course) - [:OfSubject] -> (subject))
+    merge (course) - [:OfTopic] -> (topic);
