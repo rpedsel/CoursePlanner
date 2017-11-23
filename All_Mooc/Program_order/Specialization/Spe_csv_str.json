@@ -1,0 +1,1130 @@
+[  
+    {  
+        "name":"Data Science",
+        "courseList":"csr00001, csr00002, csr00003, csr00004, csr00005, csr00006, csr00007, csr00008, csr00009, csr00010",
+        "provenance":"Johns Hopkins University",
+        "special_id":"spc00001"
+    },
+    {  
+        "name":"Data Science Math Skills",
+        "courseList":"csr00011, csr00012, csr00013, csr00014, csr00015",
+        "provenance":"Duke University",
+        "special_id":"spc00002"
+    },
+    {  
+        "name":"Data Analysis and Presentation Skills: the PwC Approach",
+        "courseList":"csr00016, csr00017, csr00018, csr00019, csr00020",
+        "provenance":"PwC",
+        "special_id":"spc00003"
+    },
+    {  
+        "name":"Data Visualization with Tableau",
+        "courseList":"csr00021, csr00022, csr00023, csr00024, csr00025, csr00026",
+        "provenance":"University of California, Davis",
+        "special_id":"spc00004"
+    },
+    {  
+        "name":"A Crash Course in Data Science",
+        "courseList":"csr00027, csr00028, csr00029, csr00030, csr00031, csr00032",
+        "provenance":"Johns Hopkins University",
+        "special_id":"spc00005"
+    },
+    {  
+        "name":"Data Mining ",
+        "courseList":"csr00033, csr00034, csr00035, csr00036, csr00037",
+        "provenance":"University of Illinois at Urbana-Champaign",
+        "special_id":"spc00006"
+    },
+    {  
+        "name":"Big Data",
+        "courseList":"csr00038, csr00039, csr00040, csr00041, csr00042",
+        "provenance":"University of California, San Diego",
+        "special_id":"spc00007"
+    },
+    {  
+        "name":"Applied Data Science with Python",
+        "courseList":"csr00043, csr00044, csr00045, csr00046, csr00047",
+        "provenance":"University of Michigan",
+        "special_id":"spc00008"
+    },
+    {  
+        "name":"Data Analysis and Interpretation",
+        "courseList":"csr00048, csr00049, csr00050, csr00051, csr00052, csr00053",
+        "provenance":"Wesleyan University",
+        "special_id":"spc00009"
+    },
+    {  
+        "name":"Big Data for Data Engineers",
+        "courseList":"csr00054, csr00055, csr00056, csr00057, csr00058",
+        "provenance":"Yandex",
+        "special_id":"spc00010"
+    },
+    {  
+        "name":"Data Structures and Algorithms",
+        "courseList":"csr00059, csr00060, csr00061, csr00062, csr00063, csr00064, csr00065, csr00066",
+        "provenance":"University of California, San Diego, Higher School of Economics",
+        "special_id":"spc00011"
+    },
+    {  
+        "name":"Executive Data Science",
+        "courseList":"csr00067, csr00068, csr00069, csr00070, csr00071",
+        "provenance":"Johns Hopkins University",
+        "special_id":"spc00012"
+    },
+    {  
+        "name":"Genomic Data Science",
+        "courseList":"csr00072, csr00073, csr00074, csr00075, csr00076, csr00077, csr00078",
+        "provenance":"Johns Hopkins University",
+        "special_id":"spc00013"
+    },
+    {  
+        "name":"Data Warehousing for Business Intelligence",
+        "courseList":"csr00079, csr00080, csr00081, csr00082",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00014"
+    },
+    {  
+        "name":"Survey Data Collection and Analytics ",
+        "courseList":"csr00083, csr00084, csr00085, csr00086, csr00087",
+        "provenance":"University of Michigan, University of Maryland, College Park",
+        "special_id":"spc00015"
+    },
+    {  
+        "name":"Master of Computer Science in Data Science (MCS-DS)",
+        "courseList":"csr00153, csr00154, csr00155, csr00156",
+        "special_id":"spc00016"
+    },
+    {  
+        "name":"Algorithms, Part I",
+        "courseList":"csr00157, csr00158, csr00159, csr00160, csr00161, csr00162",
+        "provenance":"Princeton University",
+        "special_id":"spc00017"
+    },
+    {  
+        "name":"Algorithms, Part II",
+        "courseList":"csr00163, csr00164, csr00165, csr00166, csr00167",
+        "provenance":"Princeton University",
+        "special_id":"spc00018"
+    },
+    {  
+        "name":"Object Oriented Java Programming: Data Structures and Beyond",
+        "courseList":"csr00191, csr00192, csr00193, csr00194, csr00195, csr00196, csr00197",
+        "provenance":"University of California, San Diego",
+        "special_id":"spc00019"
+    },
+    {  
+        "name":"Convolutional Neural Networks",
+        "courseList":"csr00198, csr00199, csr00200, csr00201",
+        "provenance":"deeplearning.ai",
+        "special_id":"spc00020"
+    },
+    {  
+        "courseList":"csr00262, csr00263, csr00264, csr00265, csr00266",
+        "special_id":"spc00021",
+        "name":"        (MCS-DS)"
+    },
+    {  
+        "name":"Pattern Discovery in Data Mining",
+        "courseList":"csr00267, csr00268, csr00269, csr00270, csr00271, csr00272, csr00273, csr00274, csr00275, csr00276",
+        "provenance":"University of Illinois at Urbana-Champaign",
+        "special_id":"spc00022"
+    },
+    {  
+        "name":"Command Line Tools for Genomic Data Science",
+        "courseList":"csr00277, csr00278, csr00279, csr00280",
+        "provenance":"Johns Hopkins University",
+        "special_id":"spc00023"
+    },
+    {  
+        "name":"Internet Giants: The Law and Economics of Media Platforms",
+        "courseList":"csr00281, csr00282, csr00283, csr00284, csr00285, csr00286",
+        "provenance":"The University of Chicago",
+        "special_id":"spc00024"
+    },
+    {  
+        "name":"Nanotechnology and Nanosensors, Part1",
+        "courseList":"csr00287, csr00288, csr00289, csr00290, csr00291",
+        "provenance":"Technion - Israel Institute of Technology",
+        "special_id":"spc00025"
+    },
+    {  
+        "name":"Introduction to MongoDB",
+        "courseList":"csr00301, csr00302, csr00303, csr00304, csr00305, csr00306",
+        "provenance":"MongoDB Inc.",
+        "special_id":"spc00026"
+    },
+    {  
+        "name":"Neural Networks and Deep Learning",
+        "courseList":"csr00307, csr00308, csr00309, csr00310, csr00311",
+        "provenance":"deeplearning.ai",
+        "special_id":"spc00027"
+    },
+    {  
+        "courseList":"csr00312, csr00313, csr00314, csr00315",
+        "special_id":"spc00028",
+        "name":" (MCS-DS)"
+    },
+    {  
+        "name":"Spanish Vocabulary: Meeting People",
+        "courseList":"csr00316, csr00317, csr00318, csr00319, csr00320",
+        "provenance":"University of California, Davis",
+        "special_id":"spc00029"
+    },
+    {  
+        "name":"Ruby on Rails Web Development",
+        "courseList":"csr00342, csr00343, csr00344",
+        "provenance":"Johns Hopkins University",
+        "special_id":"spc00030"
+    },
+    {  
+        "name":"Genome Assembly Programming Challenge",
+        "courseList":"csr00345, csr00346, csr00347, csr00348, csr00349, csr00350",
+        "provenance":"University of California, San Diego, Higher School of Economics",
+        "special_id":"spc00031"
+    },
+    {  
+        "name":"Parallel, Concurrent, and Distributed Programming in Java",
+        "courseList":"csr00351, csr00352, csr00353, csr00354, csr00355",
+        "provenance":"Rice University",
+        "special_id":"spc00032"
+    },
+    {  
+        "name":"Software Design Threats and Mitigations",
+        "courseList":"csr00361, csr00362, csr00363, csr00364, csr00365",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00033"
+    },
+    {  
+        "name":"Character Design for Video Games",
+        "courseList":"csr00366, csr00367, csr00368, csr00369, csr00370",
+        "provenance":"California Institute of the Arts",
+        "special_id":"spc00034"
+    },
+    {  
+        "name":"From Data to Insights with Google Cloud Platform",
+        "courseList":"csr00383, csr00384, csr00385, csr00386",
+        "provenance":"Google Cloud",
+        "special_id":"spc00035"
+    },
+    {  
+        "name":"Real-Time Cyber Threat Detection and Mitigation",
+        "courseList":"csr00387, csr00388, csr00389, csr00390, csr00391, csr00392, csr00393",
+        "provenance":"New York University Tandon School of Engineering",
+        "special_id":"spc00036"
+    },
+    {  
+        "name":"Secure Software Design",
+        "courseList":"csr00394, csr00395, csr00396, csr00397, csr00398",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00037"
+    },
+    {  
+        "name":"Structuring Machine Learning Projects",
+        "courseList":"csr00399, csr00400, csr00401, csr00402",
+        "provenance":"deeplearning.ai",
+        "special_id":"spc00038"
+    },
+    {  
+        "name":"Internet of Things: How did we get here?",
+        "courseList":"csr00403, csr00404, csr00405, csr00406, csr00407",
+        "provenance":"University of California, San Diego",
+        "special_id":"spc00039"
+    },
+    {  
+        "name":"",
+        "courseList":"csr00408, csr00409, csr00410, csr00411, csr00412",
+        "provenance":"Ludwig-Maximilians-Universitt Mnchen (LMU)",
+        "special_id":"spc00040"
+    },
+    {  
+        "name":"Trabaja inteligentemente, no ms duro: Gestin del tiempo para la productividad personal y profesional ",
+        "courseList":"csr00413, csr00414, csr00415, csr00416",
+        "provenance":"University of California, Irvine",
+        "special_id":"spc00041"
+    },
+    {  
+        "name":"Digital Manufacturing & Design Technology ",
+        "courseList":"csr00428, csr00429, csr00430, csr00431, csr00432, csr00433",
+        "provenance":"The State University of New York, University at Buffalo",
+        "special_id":"spc00042"
+    },
+    {  
+        "name":"Internet of Things",
+        "courseList":"csr00434, csr00435, csr00436, csr00437",
+        "provenance":"University of California, San Diego",
+        "special_id":"spc00043"
+    },
+    {  
+        "name":"Architecting with Google Cloud Platform",
+        "courseList":"csr00438, csr00439, csr00440, csr00441, csr00442",
+        "provenance":"Google Cloud",
+        "special_id":"spc00044"
+    },
+    {  
+        "name":"Introduction to Discrete Mathematics for Computer Science",
+        "courseList":"csr00443, csr00444, csr00445, csr00446, csr00447",
+        "provenance":"Higher School of Economics, University of California, San Diego",
+        "special_id":"spc00045"
+    },
+    {  
+        "name":"Android App Development",
+        "courseList":"csr00523, csr00524, csr00525, csr00526, csr00527",
+        "provenance":"Vanderbilt University",
+        "special_id":"spc00046"
+    },
+    {  
+        "name":"Java Programming and Software Engineering Fundamentals",
+        "courseList":"csr00562, csr00563, csr00564, csr00565, csr00566",
+        "provenance":"Duke University",
+        "special_id":"spc00047"
+    },
+    {  
+        "name":"Learn to Program: The Fundamentals",
+        "courseList":"csr00572, csr00573, csr00574",
+        "provenance":"University of Toronto",
+        "special_id":"spc00048"
+    },
+    {  
+        "name":"Web Applications for Everybody",
+        "courseList":"csr00595, csr00596, csr00597, csr00598",
+        "provenance":"University of Michigan",
+        "special_id":"spc00049"
+    },
+    {  
+        "name":"Building Web Applications in PHP",
+        "courseList":"csr00599, csr00600, csr00601, csr00602, csr00603",
+        "provenance":"University of Michigan",
+        "special_id":"spc00050"
+    },
+    {  
+        "name":"Python for Everybody",
+        "courseList":"csr00604, csr00605, csr00606, csr00607, csr00608",
+        "provenance":"University of Michigan",
+        "special_id":"spc00051"
+    },
+    {  
+        "name":"Using Python to Access Web Data",
+        "courseList":"csr00609, csr00610, csr00611, csr00612, csr00613, csr00614",
+        "provenance":"University of Michigan",
+        "special_id":"spc00052"
+    },
+    {  
+        "name":"Web Application Development: Basic Concepts",
+        "courseList":"csr00615, csr00616, csr00617, csr00618, csr00619",
+        "provenance":"University of New Mexico",
+        "special_id":"spc00053"
+    },
+    {  
+        "name":"Web Design for Everybody (Basics of Web Development and Coding)",
+        "courseList":"csr00620, csr00621, csr00622, csr00623, csr00624, csr00625",
+        "provenance":"University of Michigan",
+        "special_id":"spc00054"
+    },
+    {  
+        "name":"Mathematical Foundations for Cryptography",
+        "courseList":"csr00645, csr00646, csr00647, csr00648",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00055"
+    },
+    {  
+        "name":"Applied Cryptography",
+        "courseList":"csr00667, csr00668, csr00669, csr00670",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00056"
+    },
+    {  
+        "name":"Cryptographic Hash and Integrity Protection",
+        "courseList":"csr00671, csr00672, csr00673, csr00674, csr00675, csr00676, csr00677",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00057"
+    },
+    {  
+        "name":"Global Challenges in Business",
+        "courseList":"csr00678, csr00679, csr00680, csr00681, csr00682, csr00683",
+        "provenance":"University of Illinois at Urbana-Champaign",
+        "special_id":"spc00058"
+    },
+    {  
+        "name":"Vital Signs: Understanding What the Body Is Telling Us",
+        "courseList":"csr00684, csr00685, csr00686, csr00687, csr00688",
+        "provenance":"University of Pennsylvania",
+        "special_id":"spc00059"
+    },
+    {  
+        "name":"Responsive Website Development and Design",
+        "courseList":"csr00689, csr00690, csr00691, csr00692, csr00693",
+        "provenance":"University of London, Goldsmiths, University of London",
+        "special_id":"spc00060"
+    },
+    {  
+        "name":"Practical Machine Learning",
+        "courseList":"csr00694, csr00695, csr00696, csr00697, csr00698",
+        "provenance":"Johns Hopkins University",
+        "special_id":"spc00061"
+    },
+    {  
+        "name":"Introduction to the Internet of Things and Embedded Systems",
+        "courseList":"csr00713, csr00714, csr00715, csr00716, csr00717, csr00718",
+        "provenance":"University of California, Irvine",
+        "special_id":"spc00062"
+    },
+    {  
+        "name":"A developer's guide to the Internet of Things (IoT)",
+        "courseList":"csr00719, csr00720, csr00721, csr00722, csr00723, csr00724, csr00725, csr00726, csr00727, csr00728",
+        "provenance":"IBM",
+        "special_id":"spc00063"
+    },
+    {  
+        "name":"Cybersecurity Policy for Aviation and Internet Infrastructures",
+        "courseList":"csr00729, csr00730, csr00731, csr00732, csr00733",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00064"
+    },
+    {  
+        "name":"Master of Business Administration (iMBA)",
+        "courseList":"csr00754, csr00755, csr00756, csr00757, csr00758, csr00759, csr00760",
+        "special_id":"spc00065"
+    },
+    {  
+        "name":"Master's in Innovation and Entrepreneurship",
+        "courseList":"csr00761, csr00762, csr00763, csr00764",
+        "special_id":"spc00066"
+    },
+    {  
+        "name":"Professional Certificate in Innovation Management and Entrepreneurship",
+        "courseList":"csr00765, csr00766, csr00767, csr00768",
+        "special_id":"spc00067"
+    },
+    {  
+        "name":"Managerial Economics and Business Analysis ",
+        "courseList":"csr00769, csr00770, csr00771, csr00772, csr00773, csr00774, csr00775",
+        "provenance":"University of Illinois at Urbana-Champaign",
+        "special_id":"spc00068"
+    },
+    {  
+        "name":"Strategic Business Analytics",
+        "courseList":"csr00776, csr00777, csr00778, csr00779, csr00780",
+        "provenance":"ESSEC Business School",
+        "special_id":"spc00069"
+    },
+    {  
+        "name":"Excel Skills for Business",
+        "courseList":"csr00781, csr00782, csr00783, csr00784",
+        "provenance":"Macquarie University",
+        "special_id":"spc00070"
+    },
+    {  
+        "name":"Statistical Molecular Thermodynamics",
+        "courseList":"csr00825, csr00826, csr00827, csr00828",
+        "provenance":"University of Minnesota",
+        "special_id":"spc00071"
+    },
+    {  
+        "name":"Statistical Thermodynamics: Molecules to Machines",
+        "courseList":"csr00829, csr00830, csr00831, csr00832, csr00833, csr00834, csr00835",
+        "provenance":"Carnegie Mellon University",
+        "special_id":"spc00072"
+    },
+    {  
+        "name":"Social Media Marketing",
+        "courseList":"csr00838, csr00839, csr00840, csr00841, csr00842, csr00843",
+        "provenance":"Northwestern University",
+        "special_id":"spc00073"
+    },
+    {  
+        "name":"Social Media Data Analytics",
+        "courseList":"csr00844, csr00845, csr00846",
+        "provenance":"Rutgers the State University of New Jersey",
+        "special_id":"spc00074"
+    },
+    {  
+        "name":"What is Social?",
+        "courseList":"csr00847, csr00848, csr00849, csr00850, csr00851",
+        "provenance":"Northwestern University",
+        "special_id":"spc00075"
+    },
+    {  
+        "name":"Design Patterns",
+        "courseList":"csr00855, csr00856, csr00857, csr00858, csr00859",
+        "provenance":"University of Alberta",
+        "special_id":"spc00076"
+    },
+    {  
+        "name":"Fashion as Design",
+        "courseList":"csr00860, csr00861, csr00862, csr00863, csr00864, csr00865, csr00866, csr00867",
+        "provenance":"The Museum of Modern Art",
+        "special_id":"spc00077"
+    },
+    {  
+        "name":"Graphic Design",
+        "courseList":"csr00868, csr00869, csr00870, csr00871, csr00872",
+        "provenance":"California Institute of the Arts",
+        "special_id":"spc00078"
+    },
+    {  
+        "name":"Introduction to User Experience Design ",
+        "courseList":"csr00873, csr00874, csr00875, csr00876, csr00877",
+        "provenance":"Georgia Institute of Technology",
+        "special_id":"spc00079"
+    },
+    {  
+        "name":"Cryptography and Information Theory",
+        "courseList":"csr00878, csr00879, csr00880, csr00881, csr00882",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00080"
+    },
+    {  
+        "name":"Academic Information Seeking",
+        "courseList":"csr00883, csr00884, csr00885, csr00886, csr00887, csr00888, csr00889, csr00890",
+        "provenance":"University of Copenhagen, Technical University of Denmark (DTU)",
+        "special_id":"spc00081"
+    },
+    {  
+        "name":"Metaliteracy: Empowering Yourself in a Connected World",
+        "courseList":"csr00891, csr00892, csr00893, csr00894, csr00895",
+        "provenance":"The State University of New York",
+        "special_id":"spc00082"
+    },
+    {  
+        "name":"Mindware: Critical Thinking for the Information Age ",
+        "courseList":"csr00896, csr00897, csr00898, csr00899, csr00900",
+        "provenance":"University of Michigan",
+        "special_id":"spc00083"
+    },
+    {  
+        "name":"Business Analytics",
+        "courseList":"csr00901, csr00902, csr00903, csr00904",
+        "provenance":"University of Pennsylvania",
+        "special_id":"spc00084"
+    },
+    {  
+        "name":"Introduction to Complex Analysis",
+        "courseList":"csr00920, csr00921, csr00922, csr00923, csr00924",
+        "provenance":"Wesleyan University",
+        "special_id":"spc00085"
+    },
+    {  
+        "name":"Analysis of Algorithms",
+        "courseList":"csr00925, csr00926, csr00927, csr00928, csr00929",
+        "provenance":"Princeton University",
+        "special_id":"spc00086"
+    },
+    {  
+        "name":"Bayesian Statistics: From Concept to Data Analysis",
+        "courseList":"csr00935, csr00936, csr00937, csr00938, csr00939, csr00940, csr00941",
+        "provenance":"University of California, Santa Cruz",
+        "special_id":"spc00087"
+    },
+    {  
+        "name":"Business Statistics and Analysis",
+        "courseList":"csr00942, csr00943, csr00944, csr00945, csr00946",
+        "provenance":"Rice University",
+        "special_id":"spc00088"
+    },
+    {  
+        "name":"Internet History, Technology, and Security",
+        "courseList":"csr00962, csr00963, csr00964, csr00965, csr00966, csr00967",
+        "provenance":"University of Michigan",
+        "special_id":"spc00089"
+    },
+    {  
+        "name":"The Impact of Technology",
+        "courseList":"csr00968, csr00969, csr00970, csr00971, csr00972, csr00973",
+        "provenance":"EIT Digital ",
+        "special_id":"spc00090"
+    },
+    {  
+        "name":"Get Interactive: Practical Teaching with Technology",
+        "courseList":"csr00974, csr00975, csr00976, csr00977, csr00978, csr00979, csr00980, csr00981, csr00982, csr00983",
+        "provenance":"University of London, Bloomsbury Learning Environment",
+        "special_id":"spc00091"
+    },
+    {  
+        "name":"Fundamentals of Network Communication",
+        "courseList":"csr01001, csr01002, csr01003, csr01004",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00092"
+    },
+    {  
+        "name":"Network Protocols and Architecture",
+        "courseList":"csr01005, csr01006, csr01007, csr01008, csr01009",
+        "provenance":"Cisco",
+        "special_id":"spc00093"
+    },
+    {  
+        "name":"Digital Marketing",
+        "courseList":"csr01028, csr01029, csr01030, csr01031, csr01032, csr01033, csr01034",
+        "provenance":"University of Illinois at Urbana-Champaign",
+        "special_id":"spc00094"
+    },
+    {  
+        "name":"Introduction to Marketing",
+        "courseList":"csr01035, csr01036, csr01037, csr01038, csr01039, csr01040",
+        "provenance":"University of Pennsylvania",
+        "special_id":"spc00095"
+    },
+    {  
+        "name":"Business Foundations",
+        "courseList":"csr01041, csr01042, csr01043, csr01044, csr01045, csr01046",
+        "provenance":"University of Pennsylvania",
+        "special_id":"spc00096"
+    },
+    {  
+        "name":"Marketing in a Digital World",
+        "courseList":"csr01047, csr01048, csr01049, csr01050, csr01051",
+        "provenance":"University of Illinois at Urbana-Champaign",
+        "special_id":"spc00097"
+    },
+    {  
+        "name":"The Cycle: Management of Successful Arts and Cultural Organizations",
+        "courseList":"csr01052, csr01053, csr01054, csr01055, csr01056, csr01057",
+        "provenance":"University of Maryland, College Park",
+        "special_id":"spc00098"
+    },
+    {  
+        "name":"Food & Beverage Management",
+        "courseList":"csr01058, csr01059, csr01060, csr01061",
+        "provenance":"Universit Bocconi",
+        "special_id":"spc00099"
+    },
+    {  
+        "name":"International Marketing Entry and Execution",
+        "courseList":"csr01062, csr01063, csr01064, csr01065, csr01066",
+        "provenance":"Yonsei University",
+        "special_id":"spc00100"
+    },
+    {  
+        "name":"International Marketing & Cross Industry Growth ",
+        "courseList":"csr01067, csr01068, csr01069, csr01070, csr01071",
+        "provenance":"Yonsei University",
+        "special_id":"spc00101"
+    },
+    {  
+        "name":"Introduccin al Marketing",
+        "courseList":"csr01072, csr01073, csr01074, csr01075, csr01076, csr01077",
+        "provenance":"University of Pennsylvania",
+        "special_id":"spc00102"
+    },
+    {  
+        "name":"The Strategy of Content Marketing",
+        "courseList":"csr01078, csr01079, csr01080, csr01081, csr01082",
+        "provenance":"University of California, Davis",
+        "special_id":"spc00103"
+    },
+    {  
+        "name":"Digital Product Management: Modern Fundamentals",
+        "courseList":"csr01093, csr01094, csr01095, csr01096, csr01097, csr01098, csr01099",
+        "provenance":"University of Virginia",
+        "special_id":"spc00104"
+    },
+    {  
+        "name":"Digital Signal Processing",
+        "courseList":"csr01104, csr01105, csr01106, csr01107, csr01108, csr01109, csr01110, csr01111, csr01112, csr01113",
+        "provenance":"cole Polytechnique Fdrale de Lausanne",
+        "special_id":"spc00105"
+    },
+    {  
+        "name":"Digital Footprint",
+        "courseList":"csr01114, csr01115, csr01116, csr01117, csr01118",
+        "provenance":"The University of Edinburgh",
+        "special_id":"spc00106"
+    },
+    {  
+        "name":"Introduction to Electronics",
+        "courseList":"csr01135, csr01136, csr01137, csr01138, csr01139, csr01140",
+        "provenance":"Georgia Institute of Technology",
+        "special_id":"spc00107"
+    },
+    {  
+        "name":"Software Architecture",
+        "courseList":"csr01160, csr01161, csr01162, csr01163",
+        "provenance":"University of Alberta",
+        "special_id":"spc00108"
+    },
+    {  
+        "name":"Service-Oriented Architecture",
+        "courseList":"csr01164, csr01165, csr01166, csr01167",
+        "provenance":"University of Alberta",
+        "special_id":"spc00109"
+    },
+    {  
+        "name":"Computer Architecture",
+        "courseList":"csr01168, csr01169, csr01170, csr01171",
+        "provenance":"Princeton University",
+        "special_id":"spc00110"
+    },
+    {  
+        "name":"Financing and Investing in Infrastructure",
+        "courseList":"csr01189, csr01190, csr01191, csr01192, csr01193, csr01194",
+        "provenance":"Universit Bocconi",
+        "special_id":"spc00111"
+    },
+    {  
+        "name":"Smart Cities  Management of Smart Urban Infrastructures",
+        "courseList":"csr01195, csr01196, csr01197, csr01198",
+        "provenance":"cole Polytechnique Fdrale de Lausanne",
+        "special_id":"spc00112"
+    },
+    {  
+        "name":"Beginning Game Programming with C#",
+        "courseList":"csr01225, csr01226, csr01227, csr01228, csr01229, csr01230",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00113"
+    },
+    {  
+        "name":"Programming for Everybody (Getting Started with Python)",
+        "courseList":"csr01235, csr01236, csr01237, csr01238, csr01239",
+        "provenance":"University of Michigan",
+        "special_id":"spc00114"
+    },
+    {  
+        "name":"Code Yourself! An Introduction to Programming",
+        "courseList":"csr01240, csr01241, csr01242, csr01243",
+        "provenance":"The University of Edinburgh, Universidad ORT Uruguay",
+        "special_id":"spc00115"
+    },
+    {  
+        "name":"Introduction to Programming with MATLAB",
+        "courseList":"csr01244, csr01245, csr01246",
+        "provenance":"Vanderbilt University",
+        "special_id":"spc00116"
+    },
+    {  
+        "name":"An Introduction to Programming the Internet of Things (IOT)",
+        "courseList":"csr01247, csr01248, csr01249, csr01250, csr01251",
+        "provenance":"University of California, Irvine",
+        "special_id":"spc00117"
+    },
+    {  
+        "name":"Google Cloud Platform Fundamentals: Core Infrastructure",
+        "courseList":"csr01269, csr01270, csr01271, csr01272, csr01273, csr01274",
+        "provenance":"Google Cloud",
+        "special_id":"spc00118"
+    },
+    {  
+        "name":"Data Science at Scale",
+        "courseList":"csr01275, csr01276, csr01277, csr01278",
+        "provenance":"University of Washington",
+        "special_id":"spc00119"
+    },
+    {  
+        "name":"Big Data Essentials: HDFS, MapReduce and Spark RDD",
+        "courseList":"csr01303, csr01304, csr01305, csr01306, csr01307",
+        "provenance":"Yandex",
+        "special_id":"spc00120"
+    },
+    {  
+        "name":"Maps and the Geospatial Revolution",
+        "courseList":"csr01308, csr01309, csr01310, csr01311",
+        "provenance":"The Pennsylvania State University",
+        "special_id":"spc00121"
+    },
+    {  
+        "name":"Visual Analytics with Tableau",
+        "courseList":"csr01318, csr01319, csr01320, csr01321, csr01322",
+        "provenance":"University of California, Davis",
+        "special_id":"spc00122"
+    },
+    {  
+        "name":"Homeland Security and Cybersecurity",
+        "courseList":"csr01348, csr01349, csr01350, csr01351, csr01352",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00123"
+    },
+    {  
+        "name":"Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences",
+        "courseList":"csr01353, csr01354, csr01355, csr01356",
+        "provenance":"The University of Edinburgh",
+        "special_id":"spc00124"
+    },
+    {  
+        "name":"Personality Types at Work",
+        "courseList":"csr01357, csr01358, csr01359, csr01360",
+        "provenance":"University of Florida",
+        "special_id":"spc00125"
+    },
+    {  
+        "name":"Entrepreneurship",
+        "courseList":"csr01396, csr01397, csr01398, csr01399",
+        "provenance":"University of Pennsylvania",
+        "special_id":"spc00126"
+    },
+    {  
+        "name":"Entrepreneurship 1: Developing the Opportunity",
+        "courseList":"csr01400, csr01401, csr01402, csr01403, csr01404, csr01405",
+        "provenance":"University of Pennsylvania",
+        "special_id":"spc00127"
+    },
+    {  
+        "name":"English for Business and Entrepreneurship",
+        "courseList":"csr01406, csr01407, csr01408",
+        "provenance":"University of Pennsylvania",
+        "special_id":"spc00128"
+    },
+    {  
+        "name":"Entrepreneurship 2: Launching your Start-Up",
+        "courseList":"csr01409, csr01410, csr01411, csr01412",
+        "provenance":"University of Pennsylvania",
+        "special_id":"spc00129"
+    },
+    {  
+        "name":"Career Success",
+        "courseList":"csr01413, csr01414, csr01415, csr01416, csr01417, csr01418, csr01419",
+        "provenance":"University of California, Irvine",
+        "special_id":"spc00130"
+    },
+    {  
+        "name":"Cyber Threats and Attack Vectors",
+        "courseList":"csr01433, csr01434, csr01435, csr01436, csr01437",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00131"
+    },
+    {  
+        "name":"Detecting and Mitigating Cyber Threats and Attacks",
+        "courseList":"csr01438, csr01439, csr01440, csr01441",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00132"
+    },
+    {  
+        "name":"Cybersecurity",
+        "courseList":"csr01442, csr01443, csr01444",
+        "provenance":"University of Maryland, College Park",
+        "special_id":"spc00133"
+    },
+    {  
+        "name":"Bitcoin and Cryptocurrency Technologies",
+        "courseList":"csr01445, csr01446, csr01447, csr01448",
+        "provenance":"Princeton University",
+        "special_id":"spc00134"
+    },
+    {  
+        "name":"Knowledge Exchange: Using, Protecting and Monetizing Ideas with Third Parties",
+        "courseList":"csr01465, csr01466, csr01467, csr01468, csr01469",
+        "provenance":"Universiteit Leiden, Leiden University Medical Center, Luris",
+        "special_id":"spc00135"
+    },
+    {  
+        "name":" (Journey of the Universe: Weaving Knowledge and Action)",
+        "courseList":"csr01470, csr01471, csr01472, csr01473, csr01474",
+        "provenance":"Yale University",
+        "special_id":"spc00136"
+    },
+    {  
+        "name":"Big History: Connecting Knowledge",
+        "courseList":"csr01475, csr01476, csr01477, csr01478, csr01479, csr01480, csr01481",
+        "provenance":"Macquarie University",
+        "special_id":"spc00137"
+    },
+    {  
+        "name":"Geographic Information Systems (GIS)",
+        "courseList":"csr01482, csr01483, csr01484, csr01485",
+        "provenance":"University of California, Davis",
+        "special_id":"spc00138"
+    },
+    {  
+        "name":"Fundamentals of Computing",
+        "courseList":"csr01491, csr01492, csr01493, csr01494",
+        "provenance":"Rice University",
+        "special_id":"spc00139"
+    },
+    {  
+        "name":"The Data Scientists Toolbox",
+        "courseList":"csr01495, csr01496, csr01497, csr01498",
+        "provenance":"Johns Hopkins University",
+        "special_id":"spc00140"
+    },
+    {  
+        "name":"Introduction to Formal Concept Analysis",
+        "courseList":"csr01499, csr01500, csr01501, csr01502",
+        "provenance":"Higher School of Economics",
+        "special_id":"spc00141"
+    },
+    {  
+        "name":"Journey Conversations: Weaving Knowledge and Action",
+        "courseList":"csr01503, csr01504, csr01505, csr01506, csr01507",
+        "provenance":"Yale University",
+        "special_id":"spc00142"
+    },
+    {  
+        "name":"Six Sigma Green Belt",
+        "courseList":"csr01508, csr01509, csr01510, csr01511",
+        "provenance":"University System of Georgia",
+        "special_id":"spc00143"
+    },
+    {  
+        "name":"Introduction to Graph Theory",
+        "courseList":"csr01522, csr01523, csr01524",
+        "provenance":"University of California, San Diego, Higher School of Economics",
+        "special_id":"spc00144"
+    },
+    {  
+        "name":"Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames",
+        "courseList":"csr01525, csr01526, csr01527, csr01528, csr01529, csr01530",
+        "provenance":"Yandex",
+        "special_id":"spc00145"
+    },
+    {  
+        "name":"Probabilistic Graphical Models ",
+        "courseList":"csr01531, csr01532, csr01533, csr01534, csr01535, csr01536",
+        "provenance":"Stanford University",
+        "special_id":"spc00146"
+    },
+    {  
+        "name":"Combinatorics and Probability",
+        "courseList":"csr01558, csr01559, csr01560, csr01561, csr01562",
+        "provenance":"University of California, San Diego, Higher School of Economics",
+        "special_id":"spc00147"
+    },
+    {  
+        "name":"An Intuitive Introduction to Probability",
+        "courseList":"csr01563, csr01564, csr01565",
+        "provenance":"University of Zurich",
+        "special_id":"spc00148"
+    },
+    {  
+        "name":"Introduction to Probability and Data",
+        "courseList":"csr01571, csr01572, csr01573, csr01574, csr01575",
+        "provenance":"Duke University",
+        "special_id":"spc00149"
+    },
+    {  
+        "name":"Statistics with R",
+        "courseList":"csr01576, csr01577, csr01578, csr01579, csr01580",
+        "provenance":"Duke University",
+        "special_id":"spc00150"
+    },
+    {  
+        "name":"Probabilistic Graphical Models 1: Representation",
+        "courseList":"csr01585, csr01586, csr01587, csr01588, csr01589",
+        "provenance":"Stanford University",
+        "special_id":"spc00151"
+    },
+    {  
+        "name":"Introduction to Engineering Mechanics",
+        "courseList":"csr01603, csr01604, csr01605, csr01606, csr01607",
+        "provenance":"Georgia Institute of Technology",
+        "special_id":"spc00152"
+    },
+    {  
+        "name":"Materials Science: 10 Things Every Engineer Should Know",
+        "courseList":"csr01608, csr01609, csr01610, csr01611, csr01612, csr01613",
+        "provenance":"University of California, Davis",
+        "special_id":"spc00153"
+    },
+    {  
+        "name":"Fundamentals of Engineering Exam Review",
+        "courseList":"csr01619, csr01620, csr01621",
+        "provenance":"Georgia Institute of Technology",
+        "special_id":"spc00154"
+    },
+    {  
+        "name":"Engineering Systems in Motion: Dynamics of Particles and Bodies in 2D Motion",
+        "courseList":"csr01622, csr01623, csr01624",
+        "provenance":"Georgia Institute of Technology",
+        "special_id":"spc00155"
+    },
+    {  
+        "name":"Applications in Engineering Mechanics",
+        "courseList":"csr01628, csr01629, csr01630, csr01631, csr01632",
+        "provenance":"Georgia Institute of Technology",
+        "special_id":"spc00156"
+    },
+    {  
+        "name":"Cryptography I",
+        "courseList":"csr01646, csr01647, csr01648, csr01649",
+        "provenance":"Stanford University",
+        "special_id":"spc00157"
+    },
+    {  
+        "name":"Essential Design Principles for Tableau",
+        "courseList":"csr01650, csr01651, csr01652, csr01653, csr01654, csr01655",
+        "provenance":"University of California, Davis",
+        "special_id":"spc00158"
+    },
+    {  
+        "name":"Digital Transformation in Financial Services",
+        "courseList":"csr01656, csr01657, csr01658, csr01659, csr01660",
+        "provenance":"Copenhagen Business School",
+        "special_id":"spc00159"
+    },
+    {  
+        "name":"Systems Biology and Biotechnology",
+        "courseList":"csr01661, csr01662, csr01663, csr01664",
+        "provenance":"Icahn School of Medicine at Mount Sinai",
+        "special_id":"spc00160"
+    },
+    {  
+        "name":"Global Warming I: The Science and Modeling of Climate Change",
+        "courseList":"csr01665, csr01666, csr01667, csr01668",
+        "provenance":"The University of Chicago",
+        "special_id":"spc00161"
+    },
+    {  
+        "name":"Business English: Meetings",
+        "courseList":"csr01684, csr01685, csr01686, csr01687, csr01688",
+        "provenance":"University of Washington",
+        "special_id":"spc00162"
+    },
+    {  
+        "name":"Introduction to Systems Biology",
+        "courseList":"csr01689, csr01690, csr01691, csr01692, csr01693",
+        "provenance":"Icahn School of Medicine at Mount Sinai",
+        "special_id":"spc00163"
+    },
+    {  
+        "name":"Dynamical Modeling Methods for Systems Biology",
+        "courseList":"csr01694, csr01695, csr01696, csr01697",
+        "provenance":"Icahn School of Medicine at Mount Sinai",
+        "special_id":"spc00164"
+    },
+    {  
+        "name":"Software Design Methods and Tools",
+        "courseList":"csr01698, csr01699, csr01700, csr01701, csr01702",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00165"
+    },
+    {  
+        "name":"HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Social/Peer Perspective)",
+        "courseList":"csr01719, csr01720, csr01721, csr01722, csr01723",
+        "provenance":"Columbia University",
+        "special_id":"spc00166"
+    },
+    {  
+        "name":"Subsistence Marketplaces",
+        "courseList":"csr01743, csr01744, csr01745, csr01746, csr01747",
+        "provenance":"University of Illinois at Urbana-Champaign",
+        "special_id":"spc00167"
+    },
+    {  
+        "name":"Espace mondial, une vision franaise des global studies",
+        "courseList":"csr01753, csr01754, csr01755, csr01756, csr01757",
+        "provenance":"Sciences Po",
+        "special_id":"spc00168"
+    },
+    {  
+        "name":"Virtual Teacher",
+        "courseList":"csr01758, csr01759, csr01760, csr01761, csr01762",
+        "provenance":"University of California, Irvine",
+        "special_id":"spc00169"
+    },
+    {  
+        "name":"Advanced Search Engine Optimization Strategies",
+        "courseList":"csr01763, csr01764, csr01765, csr01766, csr01767",
+        "provenance":"University of California, Davis",
+        "special_id":"spc00170"
+    },
+    {  
+        "name":"Espace mondial, a French vision of Global studies",
+        "courseList":"csr01768, csr01769, csr01770, csr01771, csr01772, csr01773, csr01774",
+        "provenance":"Sciences Po",
+        "special_id":"spc00171"
+    },
+    {  
+        "name":"Innovative Finance: Hacking finance to change the world ",
+        "courseList":"csr01789, csr01790, csr01791, csr01792, csr01793, csr01794",
+        "provenance":"University of Cape Town",
+        "special_id":"spc00172"
+    },
+    {  
+        "name":"Content Strategy for Professionals: Expanding Your Contents Reach",
+        "courseList":"csr01795, csr01796, csr01797, csr01798, csr01799, csr01800",
+        "provenance":"Northwestern University",
+        "special_id":"spc00173"
+    },
+    {  
+        "name":"Survey analysis to Gain Marketing Insights",
+        "courseList":"csr01839, csr01840, csr01841, csr01842",
+        "provenance":"Emory University",
+        "special_id":"spc00174"
+    },
+    {  
+        "name":"The Importance of Listening",
+        "courseList":"csr01862, csr01863, csr01864, csr01865, csr01866",
+        "provenance":"Northwestern University",
+        "special_id":"spc00175"
+    },
+    {  
+        "name":"Pricing Strategy",
+        "courseList":"csr01867, csr01868, csr01869, csr01870, csr01871",
+        "provenance":"IE Business School",
+        "special_id":"spc00176"
+    },
+    {  
+        "name":"The Business of Social",
+        "courseList":"csr01872, csr01873, csr01874, csr01875, csr01876",
+        "provenance":"Northwestern University",
+        "special_id":"spc00177"
+    },
+    {  
+        "name":"Channel Management and Retailing ",
+        "courseList":"csr01877, csr01878, csr01879, csr01880",
+        "provenance":"IE Business School",
+        "special_id":"spc00178"
+    },
+    {  
+        "name":"Introduction to Social Media Analytics",
+        "courseList":"csr01881, csr01882, csr01883, csr01884, csr01885",
+        "provenance":"Emory University",
+        "special_id":"spc00179"
+    },
+    {  
+        "name":"Essentials of Corporate Finance",
+        "courseList":"csr01886, csr01887, csr01888, csr01889, csr01890, csr01891, csr01892",
+        "provenance":"The University of Melbourne",
+        "special_id":"spc00180"
+    },
+    {  
+        "name":"Investigacin de mercados y comportamiento del consumidor",
+        "courseList":"csr01893, csr01894, csr01895, csr01896, csr01897",
+        "provenance":"IE Business School",
+        "special_id":"spc00181"
+    },
+    {  
+        "name":"Fundamentals of Global Energy Business",
+        "courseList":"csr01902, csr01903, csr01904, csr01905, csr01906",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00182"
+    },
+    {  
+        "name":"Business Growth Strategy",
+        "courseList":"csr01907, csr01908, csr01909, csr01910, csr01911",
+        "provenance":"University of Virginia",
+        "special_id":"spc00183"
+    },
+    {  
+        "name":"Questionnaire Design for Social Surveys",
+        "courseList":"csr01922, csr01923, csr01924, csr01925, csr01926",
+        "provenance":"University of Michigan",
+        "special_id":"spc00184"
+    },
+    {  
+        "name":"Capstone Design Project in Power Electronics",
+        "courseList":"csr01966, csr01967, csr01968, csr01969, csr01970",
+        "provenance":"University of Colorado Boulder",
+        "special_id":"spc00185"
+    },
+    {  
+        "name":"Competitive Strategy and Organization Design Project",
+        "courseList":"csr01971, csr01972, csr01973, csr01974, csr01975",
+        "provenance":"Ludwig-Maximilians-Universitt Mnchen (LMU)",
+        "special_id":"spc00186"
+    },
+    {  
+        "name":"Design and Build a Data Warehouse for Business Intelligence Implementation",
+        "courseList":"csr01976, csr01977, csr01978, csr01979",
+        "provenance":"University of Colorado System",
+        "special_id":"spc00187"
+    },
+    {  
+        "name":"Game Design Document: Define the Art & Concepts",
+        "courseList":"csr01980, csr01981, csr01982, csr01983, csr01984",
+        "provenance":"California Institute of the Arts",
+        "special_id":"spc00188"
+    },
+    {  
+        "name":"Introduction to Typography",
+        "courseList":"csr01985, csr01986, csr01987, csr01988, csr01989",
+        "provenance":"California Institute of the Arts",
+        "special_id":"spc00189"
+    }
+]

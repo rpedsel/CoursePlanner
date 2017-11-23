@@ -63,12 +63,6 @@ for item in coursera:
         item[unicode("id")] = "csr" + original[-5:]
         if unicode("description") in item:
             s = item[unicode("description")]
-            # s = s.replace("About this course: ", "")
-            # s = s.replace("About the Course", "")
-            # s = s.replace("In this course", "")
-            # s = s.replace("in this course", "")
-            # s = s.encode('ascii','ignore')
-            # a.encode('ascii','replace')
             item["description"] = Format_desc(s)
         else:
             item["description"] = "Empty"
