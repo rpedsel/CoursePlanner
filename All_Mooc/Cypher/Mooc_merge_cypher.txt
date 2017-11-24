@@ -1,15 +1,13 @@
-load csv with headers from ['file path:/Mooc_merge.csv'] as row
-(with row limit 100)
-merge (course:Course{
-    id:row.id,
-    name:row.course_name,
-    description:row.description,
-    url:row.course_url})
-    ON CREATE SET course.image = row.image_url
-    ON MATCH SET course.image = row.image_url
+load csv with headers from "file:///Mooc_merge.csv" as row WITH row 
+where row.id is not null and row.course_name is not null and row.provenance is not null and row.description is not null
+and row.course_url is not null and row.image_url is not null
+merge (course:Course {Id: row.id,Name: row.course_name, Description: row.description, URL: row.course_url, Img: row.image_url})
 merge (provenance:Provenance{name:row.provenance})
 merge (course) - [:HostedBy] -> (provenance)
+with row where row.special_id is not null
+merge (topic:Topic{id:row.special_id})
+merge (course) - [:OfTopic] -> (topic)
+with row where row.subject is not null
 foreach (subjectName in split(row.subject,";") | 
     merge (subject:Subject{name:subjectName})
-    merge (course) - [:OfSubject] -> (subject))
-    merge (course) - [:OfTopic] -> (topic);
+    merge (course) - [:OfSubject] -> (subject));
