@@ -1,13 +1,85 @@
+*Delete all nodes and edges*
+`match (n)-[r]-() delete n, r`
+
+*Delete all nodes which have no edges*
+`match (n) delete n`
+
 load csv with headers from "file:///Mooc_merge.csv" as row WITH row 
 where row.id is not null and row.course_name is not null and row.provenance is not null and row.description is not null
 and row.course_url is not null and row.image_url is not null
-merge (course:Course {Id: row.id,Name: row.course_name, Description: row.description, URL: row.course_url, Img: row.image_url})
+merge (course:Mooc {Id:row.id, Name:row.course_name, Description:row.description, URL: row.course_url, Img:row.image_url})
 merge (provenance:Provenance{name:row.provenance})
-merge (course) - [:HostedBy] -> (provenance)
+merge (course) - [:HostedBy] -> (provenance);
+
+load csv with headers from "file:///Mooc_merge.csv" as row WITH row 
+where row.id is not null and row.course_name is not null and row.provenance is not null and row.description is not null
+and row.course_url is not null and row.image_url is not null
+merge (course:Mooc {Id: row.id, Name: row.course_name, Description: row.description, URL: row.course_url, Img: row.image_url})
 with row where row.special_id is not null
 merge (topic:Topic{id:row.special_id})
-merge (course) - [:OfTopic] -> (topic)
+merge (course) - [:OfTopic] -> (topic);
+
+load csv with headers from "file:///Mooc_merge.csv" as row WITH row 
+where row.id is not null and row.course_name is not null and row.provenance is not null and row.description is not null
+and row.course_url is not null and row.image_url is not null
+merge (course:Mooc {Id: row.id,Name: row.course_name, Description: row.description, URL: row.course_url, Img: row.image_url})
 with row where row.subject is not null
 foreach (subjectName in split(row.subject,";") | 
     merge (subject:Subject{name:subjectName})
     merge (course) - [:OfSubject] -> (subject));
+
+//有时会不同步，强制一下属性
+load csv with headers from "file:///Mooc_merge.csv" as row WITH row match (course:Mooc) where row.course_id = course.Id set course.Name = row.course_name and course.Description = row.description and course.URL = row.course_url and course.Img = row.image_url;
+
+//改node名称 Course->Mooc
+MATCH (course:Course)
+SET course:Mooc
+REMOVE course:Course
+
+//实现join, Topic has id(special_id), Name
+load csv with headers from "file:///Specialization.csv" as row WITH row where row.name is not null match (topic:Topic) where row.special_id = topic.id set topic.Name = row.name;
+
+///import inter_link.csv
+load csv with headers from "file:///inter_link_Nam.csv" as row WITH row 
+where row.course_id is not null and row.preparation is not null
+merge (c:Catalog_course {Id: row.course_id, Name: row.course_name}) 
+foreach (pre_course in split(row.preparation,";") | 
+    merge (preparation:Preparation{Id:pre_course})
+    merge (preparation)-[:PreparationOf]->(c));
+
+load csv with headers from "file:///inter_link_Nam.csv" as row WITH row 
+where row.course_id is not null And row.duplicate is not null
+merge (c:Catalog_course {Id: row.course_id, Name: row.course_name})    
+foreach (dup_course in split(row.duplicate,";") | 
+    merge (duplicate:Duplicate{Id:dup_course})
+    merge (duplicate)-[:SameContentAs]->(c));
+ 
+load csv with headers from "file:///inter_link_Nam.csv" as row WITH row 
+where row.course_id is not null And row.crosslist is not null
+merge (c:Catalog_course {Id: row.course_id, Name: row.course_name}) 
+foreach (nick_name in split(row.crosslist,";") | 
+    merge (cross:Cross{Id:nick_name})
+    merge (cross)-[:KnowAlso]->(c))
+
+load csv with headers from "file:///inter_link_Nam.csv" as row WITH row 
+where row.course_id is not null 
+merge (c:Catalog_course {Id: row.course_id, Name: row.course_name}) 
+with row where row.prerequisite is not null
+foreach (pre_course in split(row.prerequisite,";") | 
+    merge (p:Prerequisite{Id:pre_course})
+    merge (p)-[:PrerequisiteOf]->(c))
+
+load csv with headers from "file:///inter_link_Nam.csv" as row WITH row 
+where row.course_id is not null and row.corequisite is not null
+merge (c:Catalog_course {Id: row.course_id, Name: row.course_name}) 
+foreach (co_course in split(row.corequisite,";") | 
+    merge (corequisite:Corequisite{Id:co_course})
+    merge (corequisite)-[:CorequisiteOf]->(c))
+
+load csv with headers from "file:///inter_link_Nam.csv" as row WITH row 
+where row.course_id is not null and row.similar_mooc is not null
+merge (c:Catalog_course {Id: row.course_id, Name: row.course_name}) 
+foreach (mooc in split(row.similar_mooc,";") | 
+    merge (m:Mooc{Id:mooc})
+    merge (c)-[:CorrespondingTo]->(m));
+    
