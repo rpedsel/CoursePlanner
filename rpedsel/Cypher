@@ -1,0 +1,62 @@
+
+# Load processed CSV files into Neo4j Database:
+
+===== MOOC Entities =====
+
+load csv with headers from 'file:/Mooc_merge.csv' as row WITH row  WHERE row.provenance is not null
+merge (mooc:MOOC{
+	id:row.id,
+    name:row.name,
+    description:row.description})
+    ON CREATE SET mooc.url = row.course_url
+  	ON MATCH SET mooc.url = row.course_url
+    ON CREATE SET mooc.image = row.image_url
+  	ON MATCH SET mooc.image = row.image_url
+    ON CREATE SET mooc.special_id = row.special_id
+  	ON MATCH SET mooc.special_id = row.special_id
+merge (provenance:Provenance{pname:row.provenance})
+merge (mooc) - [:HostedBy] -> (provenance)
+foreach (subjectName in split(row.subject,";") | 
+	merge (subject:Subject{sname:subjectName})
+    merge (mooc) - [:OfSubject] -> (subject));
+
+
+===== USC COurse Entities =====
+
+load csv with headers from 'file:/Catalogue_sim.csv' as row
+merge (course:Course{
+	id:row.id,
+    name:row.name,
+    description:row.description})
+foreach (prerequisiteID in split(row.prerequisite,";") | 
+	merge (pcourse:Course{id:prerequisiteID})
+    merge (course) - [:HasPrerequisite] -> (pcourse))
+foreach (preparationID in split(row.preparation,";") | 
+	merge (prcourse:Course{id:preparationID})
+    merge (course) - [:HasPreparation] -> (prcourse))
+foreach (corequisiteID in split(row.corequisite,";") | 
+	merge (ccourse:Course{id:corequisiteID})
+    merge (course) - [:HasCorequisite] -> (ccourse))
+foreach (crosslistID in split(row.crosslist,";") | 
+	merge (crcourse:Course{id:crosslistID})
+    merge (course) - [:HasCrosslist] -> (crcourse))
+foreach (duplicateID in split(row.duplicate,";") | 
+	merge (dcourse:Course{id:duplicateID})
+    merge (course) - [:HasDuplicate] -> (dcourse))
+    
+FOREACH (p IN CASE row.similarity WHEN "" THEN [] ELSE split(row.similarity,';') END |	
+     merge (smooc:MOOC{id:split(p,"/")[0]})
+     merge (course) - [:SimilarTo{value:split(p,"/")[1]}] -> (smooc));
+
+
+===== USC Program Entities =====
+
+load csv with headers from 'file:/Catalogue.csv' as row
+merge (program:Program{
+	id:row.id,
+    type:row.type,
+    name:row.name,
+    url:row.url})
+foreach (courseID in split(row.courses,";") | 
+	merge (course:Course{id:courseID})
+    merge (course) - [:UnderProgram] -> (program));
